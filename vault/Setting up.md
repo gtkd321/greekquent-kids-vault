@@ -8,7 +8,7 @@ For grown-ups. Two minutes, once. Back to [[Today]].
 > [!tip]- 2. How a week works
 > Each week has one game, the same week as the grown-up class. **Today** shows it as cards, top to bottom.
 > 1. **This week's game:** what you need and how to play. Tap **Open the lesson** for the whole page.
-> 2. **Say it together:** one new line a day. Say the earlier lines too. Sunday is the whole game.
+> 2. **Say it together:** one new line a day. Say the earlier lines too. Sunday is the whole game. **One line at a time** shows each line big, with the voice.
 > 3. **Now you are the teacher:** swap. The kid asks the questions, and the grown-up gets one wrong on purpose.
 > 4. **This week's words:** tap a word to hear it, then pick a color.
 > 5. **Do the moves:** a gesture for each phrase.
