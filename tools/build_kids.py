@@ -35,7 +35,7 @@ os.makedirs(os.path.join(out, 'Words'))
 for f in os.listdir(os.path.join(src, 'Words')):
     t = open(os.path.join(src, 'Words', f), encoding='utf-8').read()
     t = re.sub(r' · first in \[\[[^\]]+\]\]', '', t)
-    t = re.sub(r'\n- …and \d+ more in the lesson scripts below', '', t)
+    t = re.sub(r'\n- …and \d+ more in the lesson scripts[^\n]*', '', t)
     m = section(t, 'Together in the story')
     if m: t = t[:m.start()] + t[m.end():]
     m = section(t, 'Appears in scripts')
