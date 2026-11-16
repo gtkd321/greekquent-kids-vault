@@ -1,0 +1,6189 @@
+{
+"release": "2026-11-17d",
+"files": {
+".obsidian/app.json": {
+"sha256": "f99c0a40bb98a4cf0f067ab50a14dc1cbfe91f78ee44047941cf16595c885443",
+"size": 112
+},
+".obsidian/community-plugins.json": {
+"sha256": "cda5e6b3a8ebaeace6f1ba66514adab3c7bca4d948ac8aca2b9aa23b0ebcc55d",
+"size": 63
+},
+".obsidian/core-plugins.json": {
+"sha256": "328199ae706120601edbb97a23422f8a00f69b07a97617e312cfba9eb66c0cdd",
+"size": 676
+},
+".obsidian/greekquent-kids.json": {
+"sha256": "2cba5097b8850519eeac6db346664e336def2bba45113d9c91466c9969aba3da",
+"size": 596
+},
+".obsidian/plugins/greekquent-student-layout/apps/giagia.html": {
+"sha256": "7a7ea570d83b624cbb5acfa4c2a1798a44a723a3f662347af23abbf4f03e29ac",
+"size": 137339
+},
+".obsidian/plugins/greekquent-student-layout/apps/storylines.html": {
+"sha256": "6467ff108b4f45810012e68403767b1f8346771dd11bddc708f083834e5374f7",
+"size": 229002
+},
+".obsidian/plugins/greekquent-student-layout/main.js": {
+"sha256": "ee1077f42294860531e96e090b058a6773c1ea798cff5fd1f5cf6a5d82e07f3e",
+"size": 150852
+},
+".obsidian/plugins/greekquent-student-layout/manifest.json": {
+"sha256": "0558f205624c957cc90e4919b1e04b08c7689355b13e333dd40236cbc4b782bb",
+"size": 374
+},
+".obsidian/plugins/greekquent-student-layout/pairs.json": {
+"sha256": "211b4451b627558982144431ce5b038d87a7c9ee4969d18dab62163fcccb0a11",
+"size": 272119
+},
+".obsidian/plugins/greekquent-student-layout/styles.css": {
+"sha256": "1a69c8ae8dacc4eb27d7635a2abf4a4b0373ab0ad2ea9f77a87cfd660a7279dc",
+"size": 16997
+},
+".obsidian/plugins/meld-encrypt/main.js": {
+"sha256": "bf08d81ee9cc0e32a5726020197803c60eb5e73c9b114d80768081f051e66108",
+"size": 88734
+},
+".obsidian/plugins/meld-encrypt/manifest.json": {
+"sha256": "8896a258b27426b7e1cec4a5ddadbccef726f6a56d691ffa0b3c44c2b8666a53",
+"size": 376
+},
+".obsidian/plugins/meld-encrypt/styles.css": {
+"sha256": "395edefc517637f027b4ff1ec081392e59d7e5f45150b4e025055a7fdf718466",
+"size": 3490
+},
+".obsidian/plugins/read-only-view/main.js": {
+"sha256": "cf7bf9b9f2f337b81585139ec4af8c01b42ee67f91b3861f57c9c68a8e7c994c",
+"size": 79314
+},
+".obsidian/plugins/read-only-view/manifest.json": {
+"sha256": "8187c642e43161e3540301032344907b68cb3009890099bd84bfcc6aee01fdc2",
+"size": 360
+},
+".obsidian/plugins/read-only-view/styles.css": {
+"sha256": "1ad3f8aeba5db89aa0f7c3131e029b4e13ba29bf24dc93a86a5ad2d3a28405b6",
+"size": 20632
+},
+"Lessons.md": {
+"sha256": "08091f4c62e4d73faffb6cba85d89fac2e28a23181eb0ea7cb002bca98f4f474",
+"size": 1609
+},
+"Scripts/Kid/K01 Mystery bag-student.md": {
+"sha256": "dfd06bca01c625ef7cf131c920bdd2ca765e2ef537c68bdfe6504451c05c0183",
+"size": 1986
+},
+"Scripts/Kid/K02 Teddy's tea party-student.md": {
+"sha256": "385d6486783efa61136bc8138b1bebcb99e811c86d056d91d166033198b4e4a8",
+"size": 2352
+},
+"Scripts/Kid/K03 Μπορείς challenge-student.md": {
+"sha256": "2b3383654ecba45318069b85cf5c1e560d1a43024fd6491dbd04a048be54b5d9",
+"size": 1944
+},
+"Scripts/Kid/K04 Telescope spy-student.md": {
+"sha256": "f5633730b9b77e9686864fc5d7fdf483b8d518b25e8c5b9e09db1aced9473ca8",
+"size": 2103
+},
+"Scripts/Kid/K05 Where is Spider-Man-student.md": {
+"sha256": "529a483a497a6d543eb958afdbdc307fd310611c2cf80117cc29744f43de1ee4",
+"size": 3593
+},
+"Scripts/Kid/K06 Traffic-light verb dice-student.md": {
+"sha256": "c5c8446f1a84574c029a948e296e750aa10e2530396055f94ae263362157dded",
+"size": 1997
+},
+"Scripts/Kid/K07 Who am I masks-student.md": {
+"sha256": "58e2c01270ba1f41df31ac9c9ce77e000ff58c20019e1c5dcd7686de32a4af13",
+"size": 1850
+},
+"Scripts/Kid/K08 Find the coin-student.md": {
+"sha256": "9411f92360fd298e42c6f9ca5ddb320404619fd360db0ced539156a09aae414a",
+"size": 1711
+},
+"Scripts/Kid/K09 Toy families-student.md": {
+"sha256": "6f21fc538d012fa7a155c9faa6c61891d087dcfc544e8cc0c41795e4386093a5",
+"size": 2032
+},
+"Scripts/Kid/K10 My day charades-student.md": {
+"sha256": "729dd554bf0e93d8f27376b4157df6c29aa26bfef9c3d3c2d636f4f40faa691d",
+"size": 1785
+},
+"Scripts/Kid/K11 Pillow islands-student.md": {
+"sha256": "4db32b0408425fa1ee58c373968e899c990cb5e7971a2ee3a36f1d7b6525bb93",
+"size": 1768
+},
+"Scripts/Kid/K12 Toy market-student.md": {
+"sha256": "9ec403d0aff6f1f27401a459111e65c9736451e98797551beaa0c22278ee562d",
+"size": 1734
+},
+"Scripts/Kid/K13 Stuffed-animal taverna-student.md": {
+"sha256": "2c871c470920306d56aead4bd109283f825387e598e4bb73bc7e32f8f8149e98",
+"size": 1901
+},
+"Scripts/Kid/K14 Τι ώρα είναι κύριε Λύκε-student.md": {
+"sha256": "4d6ff8081dac7ffd97a5a48faae87ff1a5f52583b35d383a54b996830ab71503",
+"size": 1962
+},
+"Scripts/Kid/K15 Puppet who only speaks Greek-student.md": {
+"sha256": "158ffa8965fd1786ba528596bc3ad9fde201c86113197756633343b7651b8b64",
+"size": 2196
+},
+"Scripts/Kid/K16 Treasure hunt review-student.md": {
+"sha256": "35ae52f4cfad80091cf97a14bf575c2023207dd600c21552a2f4515eb8f086f1",
+"size": 1920
+},
+"Scripts/Kid/K17 Fortune teller-student.md": {
+"sha256": "1f10f311e25b03159b3dcf7cc40a5f82dae74fde89f4e6fdc38740af2c0814dc",
+"size": 1851
+},
+"Scripts/Kid/K18 Weather moves and a kite-student.md": {
+"sha256": "333e44bad9f1a1858f6d635da08c023406340d15a3f44a01e39ba12c3207c550",
+"size": 1570
+},
+"Scripts/Kid/K19 Robot directions-student.md": {
+"sha256": "3de7800a38de994a45d70cb0016d200736f3f76bc4a50be0e40ef02c0dfb3afa",
+"size": 1985
+},
+"Scripts/Kid/K20 Shoebox house and color hunt-student.md": {
+"sha256": "c9879fe9af6e7b8342b4b061c121866d8538fb3b23b0c8380c89db9d7f88d8aa",
+"size": 1784
+},
+"Scripts/Kid/K21 Thumbs up thumbs down-student.md": {
+"sha256": "90fc08439157cdb150845f2649767ed96b04e5add80ae5ec6ea01895f83988f6",
+"size": 1768
+},
+"Scripts/Kid/K22 Spider-Man's bad day-student.md": {
+"sha256": "f6fa75bb899ead8a33fa20eae0fb75ec06407174d503652d184577b0ea3f9fab",
+"size": 2086
+},
+"Scripts/Kid/K23 Weekend show and tell-student.md": {
+"sha256": "355710309f02f664c6ab6da4ac2012b5a708cf7a83d4d30c75f72eabfd58d22d",
+"size": 1833
+},
+"Scripts/Kid/K24 Red eggs and candles-student.md": {
+"sha256": "be2f8dbad049ada64f888a3f23e034fb56b3825b7a7c326b432d4aac780dc19f",
+"size": 1498
+},
+"Scripts/Kid/K25 Teddy goes to the doctor-student.md": {
+"sha256": "df6a399ef695fdb3aeb115dc5d56397fb661c47575d2b572296a0c5dcec2c266",
+"size": 2035
+},
+"Scripts/Kid/K26 The big show-student.md": {
+"sha256": "0270d170d8a88f365b8d6182ed88e5020512a4231ced9e8a877a7ef0f28c8556",
+"size": 1773
+},
+"Setting up.md": {
+"sha256": "7d14ac1c788be9d1bff380a24acfe54aa3a581774f234218febdc2fa42d5392b",
+"size": 1948
+},
+"Today.md": {
+"sha256": "61daf06c84adbde19b20ed20b7b634df9ab6dc1b3b205a9bc1cb610606525ceb",
+"size": 24
+},
+"What's New.md": {
+"sha256": "370b227542690a24780ed037d675138004f85abddcdb6aaad2fca9ef7e92acde",
+"size": 448
+},
+"Words/Έλληνας.md": {
+"sha256": "fdfb85a91910e6f4772a1f22b8129374edaeaca45f6193cbf3f1294b9cdbdc90",
+"size": 1536
+},
+"Words/Αθήνα.md": {
+"sha256": "2523827bf23995e40e599988fcbf70bfa6fc13aab94d284cfa4fd6e3a3333e02",
+"size": 1429
+},
+"Words/Αμερική.md": {
+"sha256": "ce3e720b00138647c2cb1a1ada9123aea102006c319d67483e07bc0fa2aa99ab",
+"size": 1469
+},
+"Words/Δευτέρα.md": {
+"sha256": "042292203434fe29c5a6ae3ad8cbf38ffa0a9d4700f1720dada816f6dc802c47",
+"size": 1552
+},
+"Words/Ελλάδα.md": {
+"sha256": "aef8e42193196ee782c1f9f9ca841d8aee2f73afbadb867fa7d830c77a430083",
+"size": 2115
+},
+"Words/Κυριακή.md": {
+"sha256": "073ee2a5716030d0c04ab275dab90ea1c7b877738d9ac555a8af51389a5bbedf",
+"size": 1653
+},
+"Words/Πάσχα.md": {
+"sha256": "3322ed9f0fd26bbeea9d6523c0c4d7cefc9710c2f648322c26a59fd358d48c37",
+"size": 1131
+},
+"Words/Πέμπτη.md": {
+"sha256": "ce9c57412202aa877b23558fa9f98cb0847258578e4f4ad08422363cb73e2dcd",
+"size": 1052
+},
+"Words/Παρασκευή.md": {
+"sha256": "348f9eba4e8d92ff69d6b39897428fc19b8fb667d225cbed7de1d13e24ccb3c1",
+"size": 1186
+},
+"Words/Πρωτοχρονιά.md": {
+"sha256": "f9f646720da1e6afd85aee306eb4fb136e6de76c3e2d85a8a14c302f12051d04",
+"size": 933
+},
+"Words/Σάββατο.md": {
+"sha256": "771c6a1f4a5b0665f01a013f7074c497da5d1d915272719338b8040e356a34df",
+"size": 1269
+},
+"Words/Σαββατοκύριακο.md": {
+"sha256": "cc5511b65bf4b658eb1237bdb2f1b04caf2441aed783b3e728c98b9aefeff49a",
+"size": 1414
+},
+"Words/Τετάρτη.md": {
+"sha256": "4164d88acd90d3932d822fa67a0531c0d25ac6fe1b5f17565a5e3583e18074b2",
+"size": 1055
+},
+"Words/Τρίτη.md": {
+"sha256": "dc221fdbebea0be95ad4d84b2f23e7c4c319193e7a5c77aba27e2e9e12bbb27a",
+"size": 1401
+},
+"Words/Χριστούγεννα.md": {
+"sha256": "a263c69ab781272f84ff7ea90fd3dead36d61cb6300f47da356d27ad477daa20",
+"size": 1262
+},
+"Words/άγριος.md": {
+"sha256": "aab0b40b71f266407d7bbc1d9ad3db2ed9133e036c3f36d84df35647ba62e670",
+"size": 608
+},
+"Words/άγχος.md": {
+"sha256": "1b9f21de36152a86c68ed5e7a5e6d7936d947afdc78e1019ac6b7efe77e49835",
+"size": 1042
+},
+"Words/άδεια.md": {
+"sha256": "6155ce4ed8bbb7a4f4dc98a4eb32192517ac858e7dac10915b134baa4af93394",
+"size": 1310
+},
+"Words/άδειος.md": {
+"sha256": "0025162188001b86a099c62fed0c5dbbcc7015aa271a22036f2e83da6a192193",
+"size": 1133
+},
+"Words/άθλιος.md": {
+"sha256": "a671e89129962b2788d754220f87fd11feff64beb16271728551137bf9127a32",
+"size": 810
+},
+"Words/άκρη.md": {
+"sha256": "3650f82cbeddb853141482d37a2709f386ff2d18bcc510ca61ba7730b219f21d",
+"size": 1265
+},
+"Words/άλλος.md": {
+"sha256": "fb0b7344003a0a2bdfa822157bbe6d0d3311b59f5093f3f4e3188810f6c7628b",
+"size": 1532
+},
+"Words/άλογο.md": {
+"sha256": "85dcfb86fbb00b6d12856fc7e23228980c62ec75e4a57f897fc348630e7c76aa",
+"size": 1089
+},
+"Words/άνετα.md": {
+"sha256": "ece73277c555aeb19c7564e0ee31272cfe82d123001b3228e99811ba672bd7ba",
+"size": 934
+},
+"Words/άνθρωπος.md": {
+"sha256": "2ce646a5ea328622d4540a1a932305f53f71d37caeb91185f39c97b10ecb63df",
+"size": 1628
+},
+"Words/άνοιξη.md": {
+"sha256": "6fbe0ee4aab358866afab44f11e724750c1a42982634f0efae93f1634ab73c22",
+"size": 1108
+},
+"Words/άντε.md": {
+"sha256": "ebc690ea89f54b3862b4f008921f99479d474e0be425b58626a689423d635e8f",
+"size": 550
+},
+"Words/άντρας.md": {
+"sha256": "19769f5a231893c0576cea2ebf466de71c28ce97dea4d8d831aacc404d0b6ec6",
+"size": 1660
+},
+"Words/άποψη.md": {
+"sha256": "d03bec4f4a78f2b6860665f95d2418441c8c4a3095d85ea9ce02872494d637dd",
+"size": 1281
+},
+"Words/άρα.md": {
+"sha256": "5227a4041010da65c37795d3f95421a07cfe1b8989b5f48dec2e7120c1b33a0d",
+"size": 730
+},
+"Words/άρθρο.md": {
+"sha256": "502258d781ccaa46bf24e53609daddb62aa08380e1f4254229422abb772854f5",
+"size": 1135
+},
+"Words/άρρωστος.md": {
+"sha256": "8f3b1dd179078a5959c21b44ceef06b95a6d42f7d84731b7c25c47f818121bab",
+"size": 1448
+},
+"Words/άσε.md": {
+"sha256": "d97e27ffbff505700aad70467b63664dc6fa8c61d15bb9ec65c499af9c49198b",
+"size": 669
+},
+"Words/άσκηση.md": {
+"sha256": "83a7952c0755ba3fdad5ff9a7943ea2a969e40c5a63ea62fdb0e4f2df9db6851",
+"size": 1052
+},
+"Words/άσπρος.md": {
+"sha256": "85091ba85d8eb12ea8bef6cf93278e8e8dd4bb3b88dffb7339e04d6631f93d68",
+"size": 1214
+},
+"Words/άσχημα.md": {
+"sha256": "0b3f2b8a273e74724300107f254d5323c4de8caf4a8f9df84b90338d75cde39b",
+"size": 1201
+},
+"Words/άσχημος.md": {
+"sha256": "a7b26915b548cd1dfdccd537c39790a95bee36694ee14882bcedf9f7dd894882",
+"size": 1264
+},
+"Words/άτομο.md": {
+"sha256": "0b034ff51d3c97a84351e2f3c94b3b1d2f817dd0248a2a25023166066f203e50",
+"size": 1345
+},
+"Words/έγγραφο.md": {
+"sha256": "90f1f8d094637602b7d91fb9d22e91c6e4d8f5282bb1aaf422127192def5e588",
+"size": 1079
+},
+"Words/έγκλημα.md": {
+"sha256": "554effe14b5728086abca5f975ffe11a139a1ae3254669e27cbf0c47c130bbca",
+"size": 959
+},
+"Words/έγκυος.md": {
+"sha256": "b1cf2d37b1ee78c932b5fb17e09764979c6bede42be0b03622359f1e5b58fcd2",
+"size": 960
+},
+"Words/έδαφος.md": {
+"sha256": "add72ffb06dbe0b4fbd0d7e2524bd13b4fd24c7f1792283fee6b0c9c6d399fbf",
+"size": 1137
+},
+"Words/έθνος.md": {
+"sha256": "62ee441ee07a8e87d2be07cf5fcf7d4b86d9897c2c1eca910bce20b511171da6",
+"size": 1004
+},
+"Words/έκθεση.md": {
+"sha256": "5d1357b77c9813c95714dce072e95f3544778c320fbbb4bf6224d7f0356083bc",
+"size": 1064
+},
+"Words/έκπληξη.md": {
+"sha256": "3909eb9c2dd8ce29616cf8491255d04b5dee4aca771c554e7bd07d07ef268fce",
+"size": 943
+},
+"Words/έκρηξη.md": {
+"sha256": "93ed668d75a1c252f80b8893c7bec6642d403bcc0cfd61efd6a12b850c16ace7",
+"size": 997
+},
+"Words/έλα.md": {
+"sha256": "d730182dc4026f73f09164be029ea6ab6e6a98ea63c1287928f5b59ff999f3fa",
+"size": 1251
+},
+"Words/έλεγχος.md": {
+"sha256": "6d0c5d951c4e4f7fc6717dc23b630efcd24438bce49c5e280e09171eeda0ce71",
+"size": 1076
+},
+"Words/ένας, μία, ένα.md": {
+"sha256": "3831789eea45de6f1c3dc34b0d687633a9ad0bee08baa2af5e8f3c8114112a80",
+"size": 2495
+},
+"Words/ένοχος.md": {
+"sha256": "9623862615f1853652562b7fe2165b60a50a1482719ea172e7bad8e101812285",
+"size": 936
+},
+"Words/έντεκα.md": {
+"sha256": "743fab29b2955f979bc868b1e5bd6d0d545d1dbaadbdb6293c2a8df541d32699",
+"size": 612
+},
+"Words/έξι.md": {
+"sha256": "98f8526b92150d59d211765b1542c596f0269a3820f5c0e9efcb2397a499e459",
+"size": 1292
+},
+"Words/έξοδος.md": {
+"sha256": "2463b12d47d45826d7792d797250ffebd0864ad92449490e6d88efaf26b3990e",
+"size": 1066
+},
+"Words/έξυπνος.md": {
+"sha256": "d9095c0ebb3c66eb6d0479beaae6f1fa6e22722e6e72220d2adba85533ea15e8",
+"size": 1377
+},
+"Words/έξω.md": {
+"sha256": "aa80a7cac8066b60545d7def208fc656271fb3090dbcefd0973f2beac454af6b",
+"size": 1565
+},
+"Words/έπειτα.md": {
+"sha256": "f2cdc2df420a655335cd8bd751112fab8ffb3511cb652474be18c10d625e8c45",
+"size": 888
+},
+"Words/έργο.md": {
+"sha256": "bf5b22c587e35f591b769d43f6a006a26d0b572fa9969463c6ca39ae56eb2b61",
+"size": 1466
+},
+"Words/έρευνα.md": {
+"sha256": "afad00c8c6db20720ee229b96ee4a983d18172eab8988d2ac3666179dd89d79b",
+"size": 1076
+},
+"Words/έρχομαι.md": {
+"sha256": "83da946412061d38062b0c112caf721b1dd3f0dd5485bb336d5459ac7292c6bb",
+"size": 2630
+},
+"Words/έρωτας.md": {
+"sha256": "2988f81b555c3c4df83706892db9181fa3cb46fa68eae01c687459bc3161e041",
+"size": 1227
+},
+"Words/έστω.md": {
+"sha256": "b175e46d3130be4af7275ab30641b4f560e752bbaa4bedf7d7561f88bfac28f6",
+"size": 761
+},
+"Words/έτοιμος.md": {
+"sha256": "35bd136ed7957dc04c2cde17b4a1f9df6406f453123d7ecb0f89f4e74219576f",
+"size": 1415
+},
+"Words/έτος.md": {
+"sha256": "2c58e8137573856edd85cbeb6727c40ae0f6bb1a0d191ace090cc1b7a40a0b8b",
+"size": 1352
+},
+"Words/έτσι.md": {
+"sha256": "aa3b959d8fd1dff7601d109d8b0ad5f5f7ae3d9369f81336168585b0da5d66bc",
+"size": 1957
+},
+"Words/έχω.md": {
+"sha256": "5c5e2cbc312b702bbbd6213157968fb0ee3c6b48a472a6539e355dccee88720a",
+"size": 3789
+},
+"Words/ή.md": {
+"sha256": "6fce55988f25bd4b76fbbdc6efac4d4db0cbe87d737d7fe3c8c70653733abf28",
+"size": 1320
+},
+"Words/ήδη.md": {
+"sha256": "84f0e444c9101e22273ff8f1ca772f46e0957a705b875e2481234350537f39d7",
+"size": 1492
+},
+"Words/ήλιος.md": {
+"sha256": "8f2346a9a378816ca85117effbcb924da7d94e999c6c73a63fc7c597577624fe",
+"size": 1631
+},
+"Words/ήρεμα.md": {
+"sha256": "1b8287459d118eaae531688cdd36fcfb4e0992e87c7d0bc66aed759536a6cdb1",
+"size": 732
+},
+"Words/ήρωας.md": {
+"sha256": "1dfd993ea75cf4a3eee05eba6da6c2580114d1fab26078dc0cb2d2aa3734ada1",
+"size": 965
+},
+"Words/ήσυχος.md": {
+"sha256": "79d5e44579f43e7bd1e4361a2125f17aade093ebc32f016a01ce3532bd04154e",
+"size": 1103
+},
+"Words/ήχος.md": {
+"sha256": "15d14f4c0270c1f3a0028cc052f36351e022f3d49d8a2f8e036ebb184c051bb8",
+"size": 888
+},
+"Words/ίδιος.md": {
+"sha256": "d7c776f87275109e5cffd8c23919774e679c113eabfdf88370e3ff8332895f6b",
+"size": 1497
+},
+"Words/ίσως.md": {
+"sha256": "82891f35e368987071f878df2ebdcc6fa50c7ba4d760d49703aab2640fe2038c",
+"size": 955
+},
+"Words/ίχνος.md": {
+"sha256": "ec9e53914cb76c293652e0282ff82c8b0c93216030578b106d8f6871d20e1ca9",
+"size": 862
+},
+"Words/αέρας.md": {
+"sha256": "f1054b6562261ecdb73e44697be3390f616948a6cda4dec9a0553dd126183e50",
+"size": 1410
+},
+"Words/αίθουσα.md": {
+"sha256": "55808ca18d97462cb84c89865865f5995e29e85f99ed836f8bb1fb94169e7298",
+"size": 1272
+},
+"Words/αίμα.md": {
+"sha256": "4826c1b8dc7e1178209998a4a2bbcd6cd97f22cc135b9df218c87f93f9196d4c",
+"size": 1107
+},
+"Words/αίσθηση.md": {
+"sha256": "5a73cd0349e009e8c2b2ad5bffb16678eab980f94bf93ce4a60f5081a7b56008",
+"size": 1447
+},
+"Words/αίτηση.md": {
+"sha256": "dc547d39fc7c823b0f9e964a537f007bbe001de675173eb2f70bc0eb7eb982ed",
+"size": 1231
+},
+"Words/αγάπη.md": {
+"sha256": "f59adc4bce7be0c66d1b201543ab4f0e0f598a5f568862464b11904a60634585",
+"size": 1485
+},
+"Words/αγαπάω.md": {
+"sha256": "87704d251d50967d138133631d0778ec28925817caa56ff26ccdaa13b221ae6f",
+"size": 2009
+},
+"Words/αγαπημένος.md": {
+"sha256": "fb506844bfbb02407e4932377e3257e2bd88f6b6ea8b155132794f1d63be3713",
+"size": 1656
+},
+"Words/αγαπητός.md": {
+"sha256": "fddc3a5503613d65d85e02254956d5a720acc55f0c336b25a0548dff5cf9a791",
+"size": 689
+},
+"Words/αγγλικός.md": {
+"sha256": "a30bfe0d38d35d2ea86c56845ba6e380ccbafe2f6206c2de59e9c9d9e85b6fc5",
+"size": 1692
+},
+"Words/αγκαλιά.md": {
+"sha256": "ae4ecfeec655586d3db48cc04859a3dd640d19d0890e16b043d189848b1bbf75",
+"size": 864
+},
+"Words/αγορά.md": {
+"sha256": "f44e1fddd465d3baea968cefdb003104a74a4b260d7682beba70f03e5e7fb572",
+"size": 1254
+},
+"Words/αγοράζω.md": {
+"sha256": "461fa1c5f2926079983fe386d2e9e6410e9e9edeca396d1e88dc8bc1aded96f1",
+"size": 2004
+},
+"Words/αγρότης.md": {
+"sha256": "f5ca98f22652532fc6b3f86321bc6071837eb62556ce2e212d5acfe711a192a8",
+"size": 945
+},
+"Words/αγόρι.md": {
+"sha256": "69b8281d8f06018302fbdeb454a567a5e1e2463388e2ef5df2fec6c3fb880537",
+"size": 1322
+},
+"Words/αγώνας.md": {
+"sha256": "5d6d7ca606e2b977fe96d007b11a6e98e8d360bf7c0ec524fb91ee08bea41396",
+"size": 1189
+},
+"Words/αδέρφια.md": {
+"sha256": "37156104cead7bd42fff8ea5988af09d2e33c1bfdcb3f8e3fcd3928d5c97efca",
+"size": 716
+},
+"Words/αδερφή.md": {
+"sha256": "8aa04ecec493617e0936d21d8380e49909a0f8f9662d6a549cd988d8f6921737",
+"size": 1529
+},
+"Words/αδερφός.md": {
+"sha256": "34bf89edaf700befd578789956a52e08d1edf64a2abfbb617d12b2858ea96d0d",
+"size": 1614
+},
+"Words/αδυναμία.md": {
+"sha256": "58c45f66ace7b28ef4b1330dbad37f8adffda0a75711b9f7a74a8a7f9bbbfa82",
+"size": 824
+},
+"Words/αδύνατον.md": {
+"sha256": "21240bd31792ab429df1586e9051b4848f93a9e05a19c43f016cf85792a1252a",
+"size": 566
+},
+"Words/αδύνατος.md": {
+"sha256": "d8279da5749268b19ab5ab28d94ad31713095c625b7ec02a004da8ffca40112c",
+"size": 1112
+},
+"Words/αεροδρόμιο.md": {
+"sha256": "85d94873dd1d85d0860a5bf98b2fe51bf4b7133dbda5a6ad91f47c91289cccb0",
+"size": 1530
+},
+"Words/αεροπλάνο.md": {
+"sha256": "4039e69ff7081cd5072d19ec19912865a1dc7260247724341a7013ab598f59a6",
+"size": 1381
+},
+"Words/αθλητισμός.md": {
+"sha256": "f6f033f9ee8822571524950f33ec48b524468d32c684153e3dd54ad2e7b04a0c",
+"size": 1224
+},
+"Words/αθώος.md": {
+"sha256": "dbf397d19bc44be2a7429812a4843d028922dc84875432c7221d03e6005f3ae6",
+"size": 1139
+},
+"Words/αισθάνομαι.md": {
+"sha256": "374a9c4b1aaaf13ad5208f32a8825d51f9f85e82b8e177c1db0d4bd85cf30d7e",
+"size": 1663
+},
+"Words/αιτία.md": {
+"sha256": "72dfaf6880e062f2e0a5702c914478bf3afe4856a6216f78268d81b96175c32e",
+"size": 1051
+},
+"Words/αιώνας.md": {
+"sha256": "49e719e61d1ac0d41f600ddef1392256533b2c896740e925a337d2c61dad9beb",
+"size": 1011
+},
+"Words/ακολουθώ.md": {
+"sha256": "ea4cf5b403df68855225121fbd57c28e2370dc59193e3587d7fad611169cca3a",
+"size": 1820
+},
+"Words/ακούω.md": {
+"sha256": "ef12a7b9915448c59d2a5b146ca004eee008ae3373d44e1b627d976c2a6c7bbe",
+"size": 2127
+},
+"Words/ακριβός.md": {
+"sha256": "e73f43adaa05054c9e94c57f5fe561cc4b6704a7dcdea463bb13f2e9b227da8b",
+"size": 1139
+},
+"Words/ακριβώς.md": {
+"sha256": "62ee5b6240cd7bd92b4a663d39a2ade808e8c9e3c35f92490f3c498331e7ee3b",
+"size": 1303
+},
+"Words/ακτή.md": {
+"sha256": "52c32531cec7e7d4bc67af4d6f71032c1bd9c30b6052ab8ca98e2f36d8e33541",
+"size": 1033
+},
+"Words/ακόμα.md": {
+"sha256": "73feb9e81d00ac1edd0bf5cc7667419abfc90a04d374c6ebd47ef41c3d794fbd",
+"size": 2158
+},
+"Words/ακόμη.md": {
+"sha256": "15cfccf6f415aec7e46c236316cb42c58340b768236c19a064974e507686a44f",
+"size": 1098
+},
+"Words/αλάτι.md": {
+"sha256": "a604e12412cdf7ab7e84cd85dc729eb822d2bea4dc00449fced83048dbc0bb23",
+"size": 845
+},
+"Words/αλήθεια.md": {
+"sha256": "65b219ed28b7217a471dd19825c157ecc8ba1542cb03f7af060a42fa3b0f6fcc",
+"size": 1537
+},
+"Words/αληθινός.md": {
+"sha256": "63770e2fc5f9e0640684bfe2bc7cb930ef65b877df227a55b79f2767e0861f7d",
+"size": 819
+},
+"Words/αλκοόλ.md": {
+"sha256": "c93a96e8395530ae98d800a16af86c9b705e56800a1dbbcf4d14c7641fb7f66f",
+"size": 897
+},
+"Words/αλλά.md": {
+"sha256": "a13bcba9013ae2550bcf83d50228a40013cb47551dee805f5be674f84da15b89",
+"size": 1842
+},
+"Words/αλλάζω.md": {
+"sha256": "ac4f46fb02499b349e5716dbf6964913c35068e19f39141bf879c67829384241",
+"size": 1883
+},
+"Words/αλλαγή.md": {
+"sha256": "b49736fe9a99370f5a4a67f6c6e4239e44c2ff33b6e590ea676ffeae785f10ce",
+"size": 1051
+},
+"Words/αλλιώς.md": {
+"sha256": "0e373680d82a709244f356ee3f341e9117174235c3a4e77bb099cc810a6e3494",
+"size": 960
+},
+"Words/αλλού.md": {
+"sha256": "9fe5e3fd7e8647e8bf0d7a9eb6a6fa612dfaed0ef17ae9ed25e0c840f160a83b",
+"size": 939
+},
+"Words/αμάξι.md": {
+"sha256": "2024c970cbf26f4484d6062371b936d9a2eabb4e8dc276e97e5b0b84d43096b6",
+"size": 1164
+},
+"Words/αμέσως.md": {
+"sha256": "ab0e0b95d5d61ee79fbb836c27c3dd851e0ce99abfbac6f22bb611f5ac09222a",
+"size": 1886
+},
+"Words/αμαρτία.md": {
+"sha256": "adba1f762551b2240f5f5eb8ecf125ff2a2de7e8bfb377cfac98c3f6ade1bde5",
+"size": 690
+},
+"Words/αμερικάνικος.md": {
+"sha256": "32dd544493672da43fd3da8c0cdf47259494bccbee03cb1e358e5947016cb65b",
+"size": 1164
+},
+"Words/αμπέλι.md": {
+"sha256": "9d272d9987764bb5454551e85defab40df698c5fa99d89e5d7cf004ad3c1be22",
+"size": 772
+},
+"Words/αμφιβάλλω.md": {
+"sha256": "a9a141baa58e57fd248cfc088cdad091981c62a194f6d206e716a9a05a790867",
+"size": 1130
+},
+"Words/αμφιβολία.md": {
+"sha256": "221a5642bcdf059a3e25a031aff7867a181df13d23ce5ec238694574f01c9554",
+"size": 1048
+},
+"Words/αν.md": {
+"sha256": "4f547b358768b911b468cfa55037e316479213233879b8a745c4d4d039e92b07",
+"size": 1224
+},
+"Words/ανάγκη.md": {
+"sha256": "7966230a656ee5cb2f602e8bdeaf78ae9cd1a36157db76050c8a1dc6ccf8e433",
+"size": 1144
+},
+"Words/ανάμεσα.md": {
+"sha256": "167e73ce919f5c44be90e86b63e8cb03ffefc2987e711b5a5e4c1ebce6d75a4d",
+"size": 1067
+},
+"Words/ανάσα.md": {
+"sha256": "292fdafa9ca43efaba5a61817d1f5ac69b91c68c91aad2f7995ecadd6070ffc9",
+"size": 851
+},
+"Words/ανήκω.md": {
+"sha256": "2dc6fbfe7e445f9eddc3d3277ff109f7a72da173fdeb7868c89efe10aab4cb25",
+"size": 1861
+},
+"Words/αναγνωρίζω.md": {
+"sha256": "4f95ed6264d08a28525c22ba040ad2f568db72c75b4281cafbb647055ad0c732",
+"size": 1582
+},
+"Words/αναλαμβάνω.md": {
+"sha256": "04e83cbdbcd2b1af9be1110402cf708f823f7fc17f35c1bba9ad7ea52d43bbd2",
+"size": 1584
+},
+"Words/αναμνήσεις.md": {
+"sha256": "949f7a677e3b27644c128df7042df24fe41456b25c739154b87d9b3c0e6deb64",
+"size": 690
+},
+"Words/αναρωτιέμαι.md": {
+"sha256": "2ccf05a2d46ecbbbfbe42e4609f62cc7babae68783d6e258b8aa082a32697ace",
+"size": 1917
+},
+"Words/αναφέρω.md": {
+"sha256": "e9ef71d91372f56658167cf61bdb7a3021c3747cd368b005878e9efce5290e9d",
+"size": 1507
+},
+"Words/αναφορά.md": {
+"sha256": "b150656ab31599dc416bd019acf4a04ec66167a0b010f6ee7b5c6e771103e754",
+"size": 1137
+},
+"Words/ανεβαίνω.md": {
+"sha256": "a22f8aebad57ceb20edc55c94bde556f68000274019711392630c425bf06525e",
+"size": 1404
+},
+"Words/ανησυχώ.md": {
+"sha256": "5189e991e942bc5d011aec2d16384d1954a00e331598b83f01e1323af065b3ca",
+"size": 1990
+},
+"Words/ανθρώπινος.md": {
+"sha256": "017d8f0659c751c1f58cd949e18ac9890a9fdaa924a9a1098f8460882aa9ebed",
+"size": 1693
+},
+"Words/ανοίγω.md": {
+"sha256": "37901696ce6d82f6aaa0e3cd1746f66cebbc200c4399d5e071cafe634d4dda0e",
+"size": 1732
+},
+"Words/ανοησία.md": {
+"sha256": "bb008503c39c34700885b24e4f2655a03ceb58bde414d06a368656a3b0cbd80b",
+"size": 696
+},
+"Words/ανοιχτός.md": {
+"sha256": "ffd7a87b386fed947ba2a48147e683c1be245668bb1344d1e06d5e5092b0cccd",
+"size": 1590
+},
+"Words/αντέχω.md": {
+"sha256": "df026a6196139514cf3234cbfb39e1ad056fe3002d143098f56584ac8a7c39b2",
+"size": 1232
+},
+"Words/αντί.md": {
+"sha256": "bdfbe57b64c9fdeffc9577ad3f00299a8bde19a06c1e9f184d6865a07e2b1a88",
+"size": 912
+},
+"Words/αντίγραφο.md": {
+"sha256": "3c1b87c4d7da576d8b380064150384715c5dfa6e66f8e3f6d2d405dc3419821f",
+"size": 773
+},
+"Words/αντίο.md": {
+"sha256": "8ce7fe33a54d24cbf8f1c329d4c5c57de56d0cb3be658829b6719714c6d06e8b",
+"size": 561
+},
+"Words/αντικείμενο.md": {
+"sha256": "98a699813126ae2c8917eb99ac1b1f1517b0ad24dfeeb9b74e094c1fc7564f74",
+"size": 1149
+},
+"Words/αντιμετωπίζω.md": {
+"sha256": "f6ebad273b1995ced5ae270b8f4fc6cbc62cdf417b7751d2e3998a1e021e924f",
+"size": 1665
+},
+"Words/ανυπομονώ.md": {
+"sha256": "453c41e511cfe6e3d76bcff8cdc4b0b943f85a6aad45706f76decbe2aab1258d",
+"size": 1525
+},
+"Words/ανόητος.md": {
+"sha256": "3cf070bb50c49ddf10e27bbd5e024c072a7933eb46cdb57581f9b5f7a2ea6a3c",
+"size": 785
+},
+"Words/αξία.md": {
+"sha256": "89698b7cd82cebdae2d806b9348a73de5895accd7d9c60a40e9675f52461f4c7",
+"size": 1100
+},
+"Words/αξίζει.md": {
+"sha256": "b972d2d1fe1930a115519c58048e15cd3fe302eabb2d04c6c1b1c06d371aba62",
+"size": 1316
+},
+"Words/απάντηση.md": {
+"sha256": "604759680be37774d541dd15f7b5c0626012c6aece492877e86fe1722ca88bc7",
+"size": 1752
+},
+"Words/απέναντι.md": {
+"sha256": "f279f2ea006c1f5bd0af036c4a05148c6bc625309864f25e2a9018a360b3a700",
+"size": 1088
+},
+"Words/απίστευτος.md": {
+"sha256": "a41922c1ebbcdd4b041b67bcf2f6cbacdd86c6a1cfe2ef25c1b58505f0a11dab",
+"size": 676
+},
+"Words/απαίσιος.md": {
+"sha256": "32f04c94ff5c28e51c6514bcee252146babb75c3415f450ff6208b55b2dbb428",
+"size": 717
+},
+"Words/απαγορεύεται.md": {
+"sha256": "9021d087f8e2562bdc533ab5212e72bdf7423f539133b40d35e1589e88102b8b",
+"size": 946
+},
+"Words/απαιτώ.md": {
+"sha256": "35ba93b1386e01662d7fe68f7ed1e510a9078ea6a36be0cb664e2eacc5251a07",
+"size": 1379
+},
+"Words/απαντάω.md": {
+"sha256": "6f8bfa54b0548638867e70d6de1333e63d764fdbfde932fd33a59efba2167e95",
+"size": 1390
+},
+"Words/απαραίτητος.md": {
+"sha256": "cb969944b4db807fc943e63c2fb9a3c9be3fc5adac82cfae178fba9981a2e063",
+"size": 1597
+},
+"Words/απειλή.md": {
+"sha256": "cddf145ad1775f5a84b3157f3ca80f0cbcde7cf74a2fd82da77f6d3f4ebc008d",
+"size": 1054
+},
+"Words/απλά.md": {
+"sha256": "838e3694f2e760925a6cd961360e2a1a797bd26dd451cbb38c08c6dd5366debe",
+"size": 1110
+},
+"Words/απλός.md": {
+"sha256": "56369f53f8cf0e86ccb8df087a7fc5ba1351a179e5b9ee5fc81c0251a1d630c1",
+"size": 1212
+},
+"Words/αποθήκη.md": {
+"sha256": "89e969872c86c03ff4b35337f79d9457a9b07a012419c965881e0a7e659a6c5b",
+"size": 1001
+},
+"Words/αποκαλώ.md": {
+"sha256": "32d5cd5cf8350e4224d6b09109bef02f9f29ccb3db58096905c6247ab4329dba",
+"size": 1091
+},
+"Words/αποκλείεται.md": {
+"sha256": "d022c68456b706806de833dae08f81d80c21eac3c08b7d2c8666cd576bffb730",
+"size": 796
+},
+"Words/αποστολή.md": {
+"sha256": "ac6e23aa8bd6292ca1f3464dfcfa387e52052b115e44dd96cd7f0bdb8b112147",
+"size": 1123
+},
+"Words/αποτέλεσμα.md": {
+"sha256": "7c0cc24681d4d9f6b426a499686ebfe9f08cc54b0c95667c04a599fa754b3744",
+"size": 1092
+},
+"Words/αποτελώ.md": {
+"sha256": "db17b48a08ddcb9399b22ffb4b272da4904da0cd30b917babaf7c8b24f0db85a",
+"size": 1837
+},
+"Words/αποφασίζω.md": {
+"sha256": "30e1d58f43fa957822d281399486ef3c448948cfe236536b9475576e5c93580d",
+"size": 2019
+},
+"Words/από.md": {
+"sha256": "09951f5b744f04bb692870f6c719c03443a881f66e4f7f267d87d9160e221aab",
+"size": 1890
+},
+"Words/απόγευμα.md": {
+"sha256": "71af10c31de985effd4a7c9547bd2b4ecc955f928d189770cc0637ad2d79cc3a",
+"size": 1586
+},
+"Words/απόδειξη.md": {
+"sha256": "ce877fb65f7e1cf52cbfbcb49cae6f8ead8e96f49f8e0ebb2f9b7933f3082c13",
+"size": 1041
+},
+"Words/απόλυτα.md": {
+"sha256": "f804cb05ee4c041b78e43818ec9d9cbe8b108895b9262c5d7068fff41ea888c6",
+"size": 962
+},
+"Words/απόλυτος.md": {
+"sha256": "1f931477840d7216a7f65e35be25bcc1d53cedec6087820f43c9ffcd16ed66ee",
+"size": 1171
+},
+"Words/απόσταση.md": {
+"sha256": "0d3dff22fc5ba2e2bd44f6c835c789544ed87c3c3995fd2c75fe0ea0b6900c99",
+"size": 1120
+},
+"Words/απόφαση.md": {
+"sha256": "305bf36bc086cf33c5d33d20739e0e92ad058dcede0a25fe40095071e5243a2a",
+"size": 1234
+},
+"Words/απόψε.md": {
+"sha256": "d131752d6b25db40912e789628dd02eb07be2565f7dfc0cd50fdb1dec88d19a9",
+"size": 1446
+},
+"Words/απώλεια.md": {
+"sha256": "e249a022ac5af10db22a4317e76d55bb1aa91708ca5906fcb87c354b2e91902e",
+"size": 1095
+},
+"Words/αργά.md": {
+"sha256": "c764627c3a85b87a1b06dc9e3e26638bea2309fa52e06fa0b2ed8af8e856de51",
+"size": 1960
+},
+"Words/αργώ.md": {
+"sha256": "7669bbb0b3beab2e1cc6aff85a9dc0939b37eb6fd9bebf096e31fafb41872cf9",
+"size": 1699
+},
+"Words/αριθμός.md": {
+"sha256": "bfc2ec16c9562ccc10a1456583ac5d54ef56bb24697bca824a3ae5f4666fe2d1",
+"size": 1218
+},
+"Words/αριστερά.md": {
+"sha256": "4bc9c4837026da690143a8baa46b7be1b619de412aa2cce66525e6c7c3757dd3",
+"size": 1149
+},
+"Words/αριστερός.md": {
+"sha256": "cd94330bb6a12739cee749b0ab3e22ddaaa59875466f65d6eb33f101e9e4c186",
+"size": 651
+},
+"Words/αρκεί.md": {
+"sha256": "262d578769a18bd64d85acc6277315fd35b0f96552dd95eb95c7a29a5a3d6c3c",
+"size": 957
+},
+"Words/αρκετά.md": {
+"sha256": "aa40ada5f915f7e4a6c885880335fcc8b60a6bd83f49c394ae220421eca4f7a5",
+"size": 1206
+},
+"Words/αρκετός.md": {
+"sha256": "c9098b257c328f60a0b4d8498b6b97cb801e87724dc3ae02a8aa42e6875a815e",
+"size": 1142
+},
+"Words/αρκούδα.md": {
+"sha256": "11fec8c2879322d76fc15f8047a137ae85a1c52e550b24382492303acbd56d4c",
+"size": 701
+},
+"Words/αρνητικός.md": {
+"sha256": "4a39f67ef20441dfafa35085afc223d0124cf7b81916d360abf95452d6a00c7f",
+"size": 890
+},
+"Words/αρχή.md": {
+"sha256": "8f622a02ce4a43862288037b75f31a50677affa55b57fa4fc23804e26ea52cc1",
+"size": 1488
+},
+"Words/αρχίζω.md": {
+"sha256": "8f38b58a7401694d0042040a112d45e97d57bcc48257049bac6c999e9cb315a3",
+"size": 1888
+},
+"Words/αρχαίος.md": {
+"sha256": "48fb5773205531aeb7d6ae5d38a32c20a0be1aa1067b2243bbd2e3567f2aa3c3",
+"size": 1262
+},
+"Words/αρχείο.md": {
+"sha256": "3a01bb1f4b856667f69c6602590d56d71a10a559887124e9865b7865ea3e9e1e",
+"size": 943
+},
+"Words/αρχηγός.md": {
+"sha256": "622bf3d339d06a4914820aaff7f018a75673589a017edabdad32b1842f6c676c",
+"size": 1427
+},
+"Words/ας.md": {
+"sha256": "0fbb5002523db638cf7e9ae61b2d0ebf7ad897e0a5d6404856ecd1faa9a28e4a",
+"size": 1303
+},
+"Words/ασθένεια.md": {
+"sha256": "d49d3682a8a1ae463621001acc24a83bb52c637e5e8c28bab1702d7eaf21b0d7",
+"size": 1065
+},
+"Words/ασθενής.md": {
+"sha256": "8c6e10712fbb9f87cd602571feff1bdb03a2abea081200fcef75a64141d26b10",
+"size": 1060
+},
+"Words/ασθενοφόρο.md": {
+"sha256": "976cfbd4d2b71d981ca373aa0780f7f55d5603c1e564424026093c9a8fb568c7",
+"size": 1082
+},
+"Words/αστέρι.md": {
+"sha256": "0ff047cb163e2985e7019a3f6830e72b477c5df42518c2a378544d5d540c4416",
+"size": 889
+},
+"Words/αστείος.md": {
+"sha256": "020f9da713112c3190c47dedf1af3923193257e90da07c8f13ebacaa2d0b951d",
+"size": 797
+},
+"Words/αστυνομία.md": {
+"sha256": "a86b9139130ba026efcfa33f203e4e751153b84d3896b3e488c6274ea58953c3",
+"size": 1387
+},
+"Words/αστυνομικός.md": {
+"sha256": "d5c8eaecd0aef51d849a54df6f5dac6fb69e4a51de79f30350120342c1baa1bd",
+"size": 1185
+},
+"Words/ασφάλεια.md": {
+"sha256": "0870634426b4e7f44d911166e1001874b50c5d8f5d49de10492acd19083ad9e6",
+"size": 1228
+},
+"Words/ασφαλής.md": {
+"sha256": "77792bd0d6811a24fcb49e97b33907b032d18903b702298b7ca6b855f9826e07",
+"size": 1147
+},
+"Words/ασφαλώς.md": {
+"sha256": "3a2803768295bbd7f9e8d50e7ea979b1ebd4f05abd2845442bf4666f1df0cb57",
+"size": 538
+},
+"Words/ατύχημα.md": {
+"sha256": "3e5248dc02e7cf0061a7bdc2aa2460da7675161a0ff2840c174962954eddc98f",
+"size": 1259
+},
+"Words/αυγό.md": {
+"sha256": "df144de00d92a494dec26e3a5e59c240f5a7c69e447b95a70bab4cdb697169c3",
+"size": 1226
+},
+"Words/αυλή.md": {
+"sha256": "ed16f2247796976a14e310d295178585826173542f65a9e1a958b06d5cf5c19d",
+"size": 975
+},
+"Words/αυτί.md": {
+"sha256": "8f54fec7679386639068368fd7d895cee844b40b233c57e8ef6af89edefa8e70",
+"size": 669
+},
+"Words/αυτοί.md": {
+"sha256": "a486c26cb8ee43c0461df8a7203c73fdc9d4c95b2892c2b10bf9cc74fb9901e9",
+"size": 1118
+},
+"Words/αυτοκίνητο.md": {
+"sha256": "5a5d78fe82daa95c73002c6e33124a31dcb8b9e4222da3910bdfc4929613b5eb",
+"size": 2463
+},
+"Words/αυτός.md": {
+"sha256": "9eb69cefc6df2134f41778c2ac3cf99f4cfdd513e64c42ca1f95b5901c22e8c3",
+"size": 1761
+},
+"Words/αφήνω.md": {
+"sha256": "87d302ac2714ffca1e818a801e3d35279f1e64b0e0b3df7bc0d7691adf93d7c7",
+"size": 1899
+},
+"Words/αφεντικό.md": {
+"sha256": "21a60d4bade4dd0c3f185dbc07d9145ccb4673c2f4e748c83a9e2fa0c8f7f5c6",
+"size": 866
+},
+"Words/αφού.md": {
+"sha256": "b4d63178f34706bef99843ba7b67df2f57e11a0531c402d2c6ef0371e8be92b5",
+"size": 736
+},
+"Words/αύριο.md": {
+"sha256": "439c4c7e5e5acb8d23a53f6cc15a53794c1bf4b527592f084de4434645259312",
+"size": 2412
+},
+"Words/βάζω.md": {
+"sha256": "2273a26d81f6c41d7b79309f83513f9c0cabee9a0b249017bf2f638a92023e8f",
+"size": 1658
+},
+"Words/βάρδια.md": {
+"sha256": "16a1ff0980a645aebcab4c390540d2fe299c3c8eeee057e65038a2db1f69aaea",
+"size": 853
+},
+"Words/βάρκα.md": {
+"sha256": "c5acf0bbb59b5f7aa29178fbf32dbac0aebb51df95de186d172f3886434504b9",
+"size": 735
+},
+"Words/βάρος.md": {
+"sha256": "7f6d3420c4cf873ae27a43243ac1e370c0656eceb1a82dcbcc5819881e0f1d3b",
+"size": 1171
+},
+"Words/βάση.md": {
+"sha256": "f4ce19b515d2eba96324b2971b146060fc0e56cbe3514e2d059d1fb5602e246e",
+"size": 1363
+},
+"Words/βέβαια.md": {
+"sha256": "01cb2e0b400a38f05f80e89ac0143d8c33c8a5747449ea43e9a5cf3f8c367822",
+"size": 1076
+},
+"Words/βέβαιος.md": {
+"sha256": "b8cf4054909205e483a7c39fc7a7f56b213ee39ffe5c3f82b83747dd15a98979",
+"size": 796
+},
+"Words/βήμα.md": {
+"sha256": "9c89a46d13fc08d194ef086c21398a4161f65272b2167dd0725ceabb70fecd1b",
+"size": 1009
+},
+"Words/βία.md": {
+"sha256": "c7b18073eff59e7184629e39758b838353fc5a55e9f596556ccd47d0e1e4bce2",
+"size": 1318
+},
+"Words/βίντεο.md": {
+"sha256": "e27b8494c0e1d7d7e65f036a0c5f7b87de9739683b23ea58fd96ddd5e195649b",
+"size": 1152
+},
+"Words/βαθιά.md": {
+"sha256": "e05b9ceed665f5f5f6c6c0cf95416922626f6ffaa474650797969d47533f3caa",
+"size": 884
+},
+"Words/βαθμός.md": {
+"sha256": "356fa91277186edee61d2d4685e90f4f2398f92a97f947eaa6765db5a27caad3",
+"size": 1219
+},
+"Words/βαλίτσα.md": {
+"sha256": "1d7bd2213d103534c1e7650aee483cd0cdf1342d6b12ccba4ad90ee8f6616483",
+"size": 1295
+},
+"Words/βασίλισσα.md": {
+"sha256": "160e3702debc6d7e32ce6fe86acc6885d7c189b679841912ec9ce530786c81bc",
+"size": 823
+},
+"Words/βασικά.md": {
+"sha256": "4fac80a21b07922d7d11796db865d8d992714098ee0336ea4e6418638f8e5925",
+"size": 826
+},
+"Words/βασικός.md": {
+"sha256": "9db2508f04a208d9d7d9644be01e30c5ad8573f3c37d30acfa3b4973d2566793",
+"size": 890
+},
+"Words/βασιλιάς.md": {
+"sha256": "2e743196f5fcc88d5f351291b424bdbc22b781ce56e2837f07d0ff497e57b41a",
+"size": 1133
+},
+"Words/βαφτίζω.md": {
+"sha256": "fa18d2dc80d382b9eabd5bfc18c18dc86e649d0a2b9212c5749ca674afc8b5fc",
+"size": 1011
+},
+"Words/βγαίνω.md": {
+"sha256": "6dba3551a01bf63fab2797a81decbce2bfbb819b3073503ef6c08ccf1ee48af6",
+"size": 2000
+},
+"Words/βδομάδα.md": {
+"sha256": "21a3d06f5219cf3fdf227d6650c276bb2cebdabeee45ad8cdaaa2c2d35aa5a76",
+"size": 1487
+},
+"Words/βεβαίως.md": {
+"sha256": "71106b96a086883898ffaabd28b9c5bd000619c73524374f22e6836b6a2c31ee",
+"size": 679
+},
+"Words/βιβλίο.md": {
+"sha256": "10c4894317c9b56a7d481480f219fffc587ee550286902de123ccfe3d901b23b",
+"size": 1908
+},
+"Words/βιβλιοθήκη.md": {
+"sha256": "2a057a655d90939888d9befbebf32cf40852dd791f03a2965f7ecdfa5084e567",
+"size": 1293
+},
+"Words/βλέμμα.md": {
+"sha256": "17e634131e363f1790aa1ea8f8ea8969890b5628f5e21602a9ad825993a9d3d7",
+"size": 899
+},
+"Words/βλέπω.md": {
+"sha256": "b35144960f7b7cf89145e327597f923da223b789b8e57434647777c1f363b16c",
+"size": 4200
+},
+"Words/βοήθεια.md": {
+"sha256": "fdb209fc85e667bec9e0938567760015595bd0af2a25dacc1fb712762f1f13ce",
+"size": 1635
+},
+"Words/βοηθάω.md": {
+"sha256": "5e89b978698d18270fe9ee6d009924eb9463961b51a71d78219156eade13605d",
+"size": 1839
+},
+"Words/βολή.md": {
+"sha256": "14ce9a2aae40a55f5184a9062ec22343afa15e82b65c1d1e89a90693cdc8dd46",
+"size": 669
+},
+"Words/βουνό.md": {
+"sha256": "df9df532f54c65aa3b3d544b888beb72671b92b2e67cb2aaf600a46539abb130",
+"size": 1091
+},
+"Words/βράδυ.md": {
+"sha256": "1376ca05018ed20169d74ebdad0f1863326a2bf6971bd15b9b582a91c3295a6d",
+"size": 1696
+},
+"Words/βρέχει.md": {
+"sha256": "02dcf6276a3a234284ce9cd96eea962d37d515bb098f6455799b3aecd10ba9e7",
+"size": 1060
+},
+"Words/βρίσκομαι.md": {
+"sha256": "75766e8c54aae04209f29c2fc2203003f40dadad232e5aa46f2afe0a44d2a530",
+"size": 1497
+},
+"Words/βρίσκω.md": {
+"sha256": "306f00af100f0842c42ad91ced3cbb57f0f0a4bd2683951dea9bdd6915a71b2d",
+"size": 2082
+},
+"Words/βραβείο.md": {
+"sha256": "ebfc2ba8ca8b1dd79086815dbc0f297ee53c78c242d606d89fa26b121ffd2c0b",
+"size": 1181
+},
+"Words/βραδιά.md": {
+"sha256": "6f348c302ab92077d97328163048d4af73731d873d630ba837795fa563a9b718",
+"size": 922
+},
+"Words/βρε.md": {
+"sha256": "77aac057216ed1f1ea11284082ac4525f9223912f87083dabb64031d05218878",
+"size": 512
+},
+"Words/βροχή.md": {
+"sha256": "4a825b8d988cbfc4d073d6aeb98ac3100cf0d586b109236d59c410ab28a704c0",
+"size": 1117
+},
+"Words/βόλτα.md": {
+"sha256": "8821a39cb230328a73622541aa18644bc87fbd1184b98e5b289971f53b7b997e",
+"size": 1281
+},
+"Words/βόρειος.md": {
+"sha256": "bb287ad7192ccbe3dcfa3c38ee6bc5f3e06db7adabd25295582d429434972272",
+"size": 1213
+},
+"Words/γάλα.md": {
+"sha256": "6c2144ae00d377726fc127f50806d53cb2d64ff1f72b3562ae008093e40cf62c",
+"size": 1656
+},
+"Words/γάμος.md": {
+"sha256": "904e9c10a90db2bc753ce1d4cffa23bf777d2db6af88e841100069deaad26c9c",
+"size": 1225
+},
+"Words/γάτα.md": {
+"sha256": "a75cc83578a5fad72c3aea3920663b9d0716403b0eb9d8497a9ae67b8799ee72",
+"size": 1606
+},
+"Words/γέρος.md": {
+"sha256": "92584278cbbdbb767802d52986ed42c3c385ffaa440904dbde27abecce1d2a42",
+"size": 1049
+},
+"Words/γέφυρα.md": {
+"sha256": "b36c829267fa8fc692e17d48a3b5d3e6da593b51f8e339ff128d8dd663c8a5ad",
+"size": 1113
+},
+"Words/γίνομαι.md": {
+"sha256": "c55897786cb24cfe73d6e1f491383ee590aa450bb7890048c950db247baeab8a",
+"size": 1848
+},
+"Words/γείτονας.md": {
+"sha256": "5a1f121ac59a646698bbbbfea50caa5e1e83ebfc6fed4a866300fd58e4e772bd",
+"size": 1129
+},
+"Words/γεγονός.md": {
+"sha256": "0a15f6a83465350899952fd2f59e29d87cde8f3931f8fab3d8c4c3e62c868c8f",
+"size": 1010
+},
+"Words/γεια.md": {
+"sha256": "798ebd7cd3d7a166bbcbc6fece0793451dfb05e7e3c8cf6bc1ee9d8c0fb85fbb",
+"size": 843
+},
+"Words/γειτονιά.md": {
+"sha256": "3808dd2eeeb78acb3cd35f32a28691ea869b028da2e3ff8db95c03d784c2980a",
+"size": 942
+},
+"Words/γεμάτος.md": {
+"sha256": "001ad01fa9e40b444a3c7ce5c1c8e35a5a73f576685d434b4c5ad8574ae7a363",
+"size": 1159
+},
+"Words/γενέθλια.md": {
+"sha256": "a0c9aab3e23bd7538149b59f495fbd854030bbac5c95f10c837f0bfeed0fd0c2",
+"size": 1121
+},
+"Words/γενικός.md": {
+"sha256": "a35f979a3b9bca9424f6c1346ee74d4efe37981762a6c9f44745a2d7383385b2",
+"size": 1115
+},
+"Words/γεύμα.md": {
+"sha256": "6b3e4cc453651f4f19b7f18194a8748654a141f1627ffb716acc3628a3dd1c12",
+"size": 1095
+},
+"Words/γεύση.md": {
+"sha256": "1aa8448e0092425dfb881d269ece4f9144a3267a08371e2311238ba63f2d5021",
+"size": 740
+},
+"Words/γη.md": {
+"sha256": "dfcc4170676bd006c1899bc06aefe5a4c76be40b9059bcda012c444d24fab5d2",
+"size": 1197
+},
+"Words/για.md": {
+"sha256": "09844db0c033a0256b5d728cf37580f99d60d8d6c7c72bcc08bf779f66c0ff2b",
+"size": 1879
+},
+"Words/γιαγιά.md": {
+"sha256": "4c925e8d6d7f9d3c2bd8b5a42efbf83755ac064bffd9b2dd13a0af3dd1ac3a4c",
+"size": 1177
+},
+"Words/γιαούρτι.md": {
+"sha256": "b9229514ba74294cb5e7d4286528d161e158298f18b15f77a2186f9fc3bcda4f",
+"size": 748
+},
+"Words/γιατί όχι.md": {
+"sha256": "7c3dccb41eb0676e9c95600d2ff89f90b1e167210776c7789333ba1bb9487422",
+"size": 433
+},
+"Words/γιατί.md": {
+"sha256": "ae173ff43aced28ea17752c868c1fb919ef56a1b03f492413a65a55248f9fd2b",
+"size": 1694
+},
+"Words/γιατρός.md": {
+"sha256": "bd47f5702e86afaa79d31ca4d7e97102d84631ae232105dfef15639e4ca4d756",
+"size": 1681
+},
+"Words/γιορτή.md": {
+"sha256": "eef63b58499696537420ffffeb4e12d2af2e24fd3a6331b48900dcfcdcdf9b6a",
+"size": 1185
+},
+"Words/γιος.md": {
+"sha256": "b1f2a6b8a74cb30ba92a8093cea4ccc2ddc29e34bcf0055481591c215ac35cf2",
+"size": 1445
+},
+"Words/γκαράζ.md": {
+"sha256": "1303c2f8fbd3d904642161abd69447e6cca9db982a5f3e3f0f6d8ea78c5f78f1",
+"size": 865
+},
+"Words/γκρι.md": {
+"sha256": "e151c6ffe2cd398ff9f5acd129cb63dc3f3253b2517f08ab4c05f31e95d790ac",
+"size": 491
+},
+"Words/γλυκός.md": {
+"sha256": "e495d7bcb18ba1c08064a81423441299b582bbf39467b997a7bb2f9a6bbe7b1b",
+"size": 1028
+},
+"Words/γλώσσα.md": {
+"sha256": "b223b71b2241d9b87a4da44187a187b51e60111981ec2bc90c3240945ad1a7c8",
+"size": 1680
+},
+"Words/γνωρίζω.md": {
+"sha256": "457ec0124324254383734657fe3de38b5f4428788a471f1f660444679f81d365",
+"size": 1950
+},
+"Words/γνωστός.md": {
+"sha256": "3168e86735165a30cea5efbe7a527a655e1d7b9da0296e553735097b4f435afb",
+"size": 1351
+},
+"Words/γνώμη.md": {
+"sha256": "105a90fb8830f7694b04f20a6d33917946445d2b79673a8e47338f5d7bc9c1a0",
+"size": 1522
+},
+"Words/γονείς.md": {
+"sha256": "31e81f4a941f5e63d885e278f3d7f88d79d4634595558d98582538b63d0094c3",
+"size": 1667
+},
+"Words/γουρούνι.md": {
+"sha256": "b8510eaa524bf83742a2d0756cc921a78b630d04bbc9ad35291f89ee8444da62",
+"size": 756
+},
+"Words/γουστάρω.md": {
+"sha256": "5ac9325132540f78b76476bae5f617d031f5a73fe239433b755eacf6eb62a07f",
+"size": 1171
+},
+"Words/γράμμα.md": {
+"sha256": "0e1f1cf12580f74af4d646376fbb2159cb2e356f8c762934ae898d69e12442de",
+"size": 1756
+},
+"Words/γράφω.md": {
+"sha256": "144dcbfe62437c339784b162a781268b557044fa27efd724ed81d01e3b1d3460",
+"size": 2122
+},
+"Words/γρήγορα.md": {
+"sha256": "6ffe268ce1289596a74aed09b3cb2fe3521d6eb37943065c51b6b106cb5f0868",
+"size": 1780
+},
+"Words/γραμμή.md": {
+"sha256": "55b68ea20aadde13b9c6a6b49ce9c8917cffe6617d720457be89858c09d7a918",
+"size": 1154
+},
+"Words/γραμματική.md": {
+"sha256": "a5b1908a8abebf35956c83b6b15ffd84fa5b6dadac777ba7c78e9595def9a2ba",
+"size": 916
+},
+"Words/γραφείο.md": {
+"sha256": "8aaa399544c01c67b5b64a0265ea8b2a82a98686d37ef082fd8ffbc876443ad9",
+"size": 1526
+},
+"Words/γυαλιά.md": {
+"sha256": "a55403d8fab8670d84536b16e60eccfe269a8267325bf31bb5b5d685d7ce6f92",
+"size": 934
+},
+"Words/γυναίκα.md": {
+"sha256": "a35633f2ffb87c6f370fec02fe242893fb27a1ec7a0330a6593b03308498ec1a",
+"size": 1499
+},
+"Words/γυρίζω.md": {
+"sha256": "7404ce50ccda8d9260b9c1032dda0e6a0fd5967a03f01bb3b89fce0624f950ec",
+"size": 1937
+},
+"Words/γωνία.md": {
+"sha256": "a6888675bc9b671a7e460ca64607b8afd547bc4df7e13d2c4ab4afc59b66948e",
+"size": 1083
+},
+"Words/γόνατο.md": {
+"sha256": "4ded554dc691070b13027d4874da369ca5a78a600bed985ef04c57c7e6eaa70e",
+"size": 719
+},
+"Words/γύρος.md": {
+"sha256": "f554f87784da2f6a5442f5a4b4e9d3e1f13e6ebd5df4b6ef1132f160c0c323da",
+"size": 1055
+},
+"Words/γύρω.md": {
+"sha256": "9d3b065b2f5fdb740e585efd997ad4c390a11addc1abaf69ee6e7309f3d0da9c",
+"size": 1200
+},
+"Words/δάσκαλος.md": {
+"sha256": "7268a758af600b2337dad5e642b2d5340e61559c263e9600cbd4bb6d314a7a8c",
+"size": 2027
+},
+"Words/δάσος.md": {
+"sha256": "36b134d7fe53fdab7c888d599462fddb630144991154a8cea428fea8da30af41",
+"size": 937
+},
+"Words/δάχτυλο.md": {
+"sha256": "40069872276ef809abfad434aba18101dd4107e4b2690a19da90e3e85042e637",
+"size": 919
+},
+"Words/δέκα.md": {
+"sha256": "f70d63ff188b13bd4e6055a3c17d117f4487d4bd61c28e6c2fb99ae7a3d6af17",
+"size": 1257
+},
+"Words/δέντρο.md": {
+"sha256": "37ea9e60bc802d1038b8d01aeffbf111bfd0f76cb870b87e85ec06755da36446",
+"size": 1398
+},
+"Words/δέρμα.md": {
+"sha256": "1024ccfcc6ba3ddbdf73b3a57f5431a5b5310274b39824eb347fa0e269cc3e70",
+"size": 878
+},
+"Words/δήλωση.md": {
+"sha256": "e40b44fb1cb46d332b3a0c4a9da1b4aecee351c02e87394418b583b35055b92b",
+"size": 1122
+},
+"Words/δήμαρχος.md": {
+"sha256": "12c326c960029d6fb19c088f176005b3fdba5cd800d27d06f53a14f656338a15",
+"size": 1122
+},
+"Words/δήμος.md": {
+"sha256": "2d250c84a0ce08ed9b2191c94d9553b5621d71074c05a57862717a480ae2c794",
+"size": 1086
+},
+"Words/δίκαιος.md": {
+"sha256": "372545893fd0272da02f30c6dc26c3b7f89ee7bba330e6d2ab4c5a4593013182",
+"size": 866
+},
+"Words/δίκιο.md": {
+"sha256": "c47d6b0156e18a408dcb8ec330d6f99ec64ad9a22938c1ff0a7f56e11e459644",
+"size": 1346
+},
+"Words/δίνω.md": {
+"sha256": "e915d5114011b8442598920d35f6308fd816cdd1adb3a4446213520def999801",
+"size": 2242
+},
+"Words/δίπλα.md": {
+"sha256": "79c5322a41e45e523a7c70d0a162643af806ea139f890059b036b5605515edd8",
+"size": 1629
+},
+"Words/δίσκος.md": {
+"sha256": "7b8e654b04d032289e057696aa3025479e349a8d3a40dbb0d7a243dc5799d6d2",
+"size": 954
+},
+"Words/δαχτυλίδι.md": {
+"sha256": "be6aa97e3c063dbfd42c858b1583188607c8a7341a881be9d76b51ff015a20c9",
+"size": 781
+},
+"Words/δείγμα.md": {
+"sha256": "dd9484c0590e25e2a2d0010d64b952d368f2462d5cf20e16939f22ba1a6bc6ed",
+"size": 1244
+},
+"Words/δείπνο.md": {
+"sha256": "9d88eec6fe2f646d8364d19d62363abe2ed6a7d90ced8dee9f007493abc60507",
+"size": 1174
+},
+"Words/δείχνω.md": {
+"sha256": "c67e83c541e452878eb6e9243152590e468b1e46497867976b7e767a69cf2380",
+"size": 1776
+},
+"Words/δεκαετία.md": {
+"sha256": "ef2d93f05f7905069e94989034f7ae69e7858dfebe302ccb5248a01a0573ded8",
+"size": 1089
+},
+"Words/δεν.md": {
+"sha256": "146c680eb686f486a00299982871cde80752e2dd3e961bbcd691147396afe400",
+"size": 2323
+},
+"Words/δεξιά.md": {
+"sha256": "98ec03e73101776c6e8faf70c08e4e2ceb599110b62708c56ac5ec1c2c283393",
+"size": 1088
+},
+"Words/δεξιός.md": {
+"sha256": "207f52dc7cdb0af4887f5b90c3824a7fbb6ec3751663b239e03578adad6d68bc",
+"size": 434
+},
+"Words/δεσποινίς.md": {
+"sha256": "4c6ba1179785b8fe02526df47bf53927218fef3fa6366e21230d8ff109d3b27f",
+"size": 762
+},
+"Words/δευτερόλεπτο.md": {
+"sha256": "223fc99d61d6032d99ed3d5c13b8a14baa86d2f244b739b448375428d6c4304e",
+"size": 1164
+},
+"Words/δεύτερος.md": {
+"sha256": "d4c188bc39c1424cad44ff121fb1afc416688abfdca0382f3698c82d91e8e831",
+"size": 1518
+},
+"Words/δηλαδή.md": {
+"sha256": "589cdb2c7bc5e52a109c465e443d2968458f693058e2c69e36e3c616f25c5e99",
+"size": 827
+},
+"Words/δημιουργώ.md": {
+"sha256": "af2da5c318932a97e44fadb94f97191258355bf3799e9ebf58c2de215feabae4",
+"size": 1796
+},
+"Words/δημοσιογράφος.md": {
+"sha256": "d06e4ee27c38559075325dd2078006c7cac1e92a3ffab0e4f4abdb83c96c6a30",
+"size": 1395
+},
+"Words/δημόσιος.md": {
+"sha256": "62d37ecec4b78c2d9280f1ac1a00ae841e391abd41521e0722218cd441deaf45",
+"size": 1143
+},
+"Words/διάδρομος.md": {
+"sha256": "8d6d67cd4b17fab4373678030c521f60b3f67e6c372da0bfc8ab8fed5aa8bc50",
+"size": 805
+},
+"Words/διάθεση.md": {
+"sha256": "f044a84b95cde8a517777ab5dced040c6af3539f11b2b4ac7d89e8b1ccb23f59",
+"size": 1253
+},
+"Words/διάλειμμα.md": {
+"sha256": "34244931ccb084d43a3c71630541704282ce0da730b19fd6c107931ff061d170",
+"size": 1111
+},
+"Words/διάρκεια.md": {
+"sha256": "ba13998a744ee162b7934c9eef3a4d0417a3f90c718793b61580d79e7bb4553a",
+"size": 1436
+},
+"Words/διάσημος.md": {
+"sha256": "bfb011c073d0dd1305711c8230d83538faadd3db629ce2ef84cc27c2f993b493",
+"size": 1181
+},
+"Words/διάστημα.md": {
+"sha256": "733f39965cd4cc75a849f934b1a9f29a5e2ce3855ec751636d83494b4e7da6ff",
+"size": 1266
+},
+"Words/διάφορος.md": {
+"sha256": "2b8bf98f3e3adb4fdba3f69cb9d4bccf13bddb80155ccf2b3b173ea333275aaa",
+"size": 1074
+},
+"Words/διαβάζω.md": {
+"sha256": "01833056b8337ce1889677b3d8bce21aa5b0e5787ad9841dad76f04e05671593",
+"size": 2033
+},
+"Words/διαβατήριο.md": {
+"sha256": "74a3d46db1a1cc179fee24fb01a70ca824705c4eb4850e2f97adc7d0ce684d6d",
+"size": 885
+},
+"Words/διαγωνισμός.md": {
+"sha256": "a7b1a427bd7966e75ee1a571721354b31375c7d038b2bb1cf1261ca4881578db",
+"size": 1141
+},
+"Words/διαγώνισμα.md": {
+"sha256": "c85ee550f82042c04ef267c09dbfc788381dc3de90daaed155825bcb0efd4436",
+"size": 825
+},
+"Words/διαδικασία.md": {
+"sha256": "2ba19dc75838143bda349c5fba29efedd46d47c900e8f5ac488c60c7db0e53e0",
+"size": 1039
+},
+"Words/διαδρομή.md": {
+"sha256": "611396ca8590103e4bdb80d6b3b62038df7f9bb8d8127c5d54996742783b9602",
+"size": 1281
+},
+"Words/διαζύγιο.md": {
+"sha256": "c0106b4f44de4e4baf497fd710abeb5b92d85504480e85db7cb58f8834fc14f8",
+"size": 763
+},
+"Words/διακοπές.md": {
+"sha256": "90219a6eecefa932d88857f93b21e4ab683aafe76f2c50bfd85adf67f646a54e",
+"size": 1887
+},
+"Words/διαμέρισμα.md": {
+"sha256": "1aa8575992d92314de660fdb9eee02748f7a272ae3d44a7a617e14e9d64ce91a",
+"size": 1366
+},
+"Words/διασκέδαση.md": {
+"sha256": "e80e3090073be98ade36138c67880b20efc9afcea04e4c6d552e75ad0ab90af0",
+"size": 890
+},
+"Words/διασκεδαστικός.md": {
+"sha256": "a8e4b7e2b149d7aad702e1b4480d900c169d9f89e3b23f104df64198ecbadf43",
+"size": 946
+},
+"Words/διαταγή.md": {
+"sha256": "d89347b3f81ade31c9e52828d0ae022ac2aa98f998888188bb90bf9065e17ce1",
+"size": 709
+},
+"Words/διαφορά.md": {
+"sha256": "326b0fda4e0d747f171dbc5a5a1fa853f3a567b4963bfb712e007fdd9f0c0ed1",
+"size": 1513
+},
+"Words/διαφορετικά.md": {
+"sha256": "fdbdc4a53f13dc77ad255edbf251ceda67dd2f194421834c09be987960d1df24",
+"size": 1167
+},
+"Words/διαφορετικός.md": {
+"sha256": "03f26c5d31240f5c1a89876201f8fe20198e2b4b551ecfafe12a2d52ba8219e2",
+"size": 1364
+},
+"Words/διευθυντής.md": {
+"sha256": "bef1f9b5d8da7f60c4b7005c49e3228b4de2ec793540648effcb0629cecc1424",
+"size": 1215
+},
+"Words/διεύθυνση.md": {
+"sha256": "bbfd999510b62626406b45ef8d58ed0d323355793514b1551d06b3cd1abfcdfb",
+"size": 1373
+},
+"Words/δικαίωμα.md": {
+"sha256": "656a315cb541574e7fd6c1c90fb386203d5f205ad0aec8c453dc9153a296df5a",
+"size": 1715
+},
+"Words/δικαιολογία.md": {
+"sha256": "dd62fb405ab9c381a1d3abb63b13df307ad6ef898e76f5a3ab95179e734a0fe7",
+"size": 852
+},
+"Words/δικαιοσύνη.md": {
+"sha256": "947ef14283d4388fdd2debbd88c631a64d9bf4ccf8f81d7ef718f183dd1855a1",
+"size": 1274
+},
+"Words/δικαστήριο.md": {
+"sha256": "d8bac3dad9f9fa09662f12f129abe832624af2a6cd1f9aeffa4c9aa8ccd6e073",
+"size": 1200
+},
+"Words/δικηγόρος.md": {
+"sha256": "638bd247f13efc5639dcbf7fa1e9d4d785bc566a0181b87ff1e5b4b57a617f50",
+"size": 1297
+},
+"Words/δικός μου.md": {
+"sha256": "c992a94acdc9e17a1219f3a4688eba294ac0d3e0ac8128e723ef8ce81a553239",
+"size": 780
+},
+"Words/διοικητής.md": {
+"sha256": "5cd1a578e41ca830080edac1054c102ef9e5cc4d521ec52b471504ce452daa17",
+"size": 882
+},
+"Words/διορθώνω.md": {
+"sha256": "c547cade9cfc574bcdf599745777a7ee816a0e3c2d78dbe59119896f284339b0",
+"size": 1372
+},
+"Words/διπλός.md": {
+"sha256": "04d7e0889b9ba7d8ee2c2fd73a88e6060e9208d55303cd18427d2eeaf90a552d",
+"size": 859
+},
+"Words/διότι.md": {
+"sha256": "d3dea051a01339cc49080b958825af8063cc1f5fb8ab230a59cb29da7d44e5c0",
+"size": 798
+},
+"Words/δοκιμάζω.md": {
+"sha256": "5793bb99b2c596b1aeea603190c9b8a16c75f67047fd79911bb8c0c122f4c8b0",
+"size": 1742
+},
+"Words/δουλειά.md": {
+"sha256": "af5d23db3141cf2305f1f330f307104823dca6b47bdeba00cf78b2a39a0b7339",
+"size": 2372
+},
+"Words/δουλεύω.md": {
+"sha256": "2e20777739452401c34571b27bc8337f63e2dec429bf844e75afdefd78d4f7eb",
+"size": 2716
+},
+"Words/δράση.md": {
+"sha256": "88a2a62695cacb5bfb481aea2d2ab53cd1a5a60a9d52e0aed8e14f1ff33e07f1",
+"size": 1118
+},
+"Words/δρόμος.md": {
+"sha256": "a261826342fa72e3eb5878d23d1a825baf7949dd71143c0f332d279f338a9305",
+"size": 2313
+},
+"Words/δυνατά.md": {
+"sha256": "bc65cbd17754b2623729dbe3ba8f73f11eca004370923aa5ba938905eeee6b2e",
+"size": 1566
+},
+"Words/δυνατός.md": {
+"sha256": "59df745d38254981f9c195ea0c8824e733ec5d8b5a29ac1ff558e697606b1189",
+"size": 1556
+},
+"Words/δυστυχώς.md": {
+"sha256": "9e8d1c4413a870c4bda83a1e35b32a34bce78aa4766adc7ff84b8412e022b44c",
+"size": 798
+},
+"Words/δωμάτιο.md": {
+"sha256": "23334a8f0ebf4ca7b46a2aa99786bfaf600d23e88f9c1de5cd5ba45e8829274d",
+"size": 1880
+},
+"Words/δωρεάν.md": {
+"sha256": "292ef6f386909e23626505b63b76a3510938a4bfc9d9b2eaab99ee20039481dd",
+"size": 1270
+},
+"Words/δόκτωρ.md": {
+"sha256": "fb0a4125d9c164c980ee9f971115fe8fbcf0cc1d7e76fb1ad9f7127e9f95a991",
+"size": 711
+},
+"Words/δόντι.md": {
+"sha256": "2d6f72ba0a2e41f27e168924ba5c5b9bdff9b770bdd0646c952a4026d156766b",
+"size": 1308
+},
+"Words/δόξα.md": {
+"sha256": "42aec6f81f0b059fa32a5ac8552e08686d3f6e858516503660d38bd5896bca33",
+"size": 829
+},
+"Words/δόση.md": {
+"sha256": "6ee8625c567dbb0dc5e00b88727105ace35732b09625d0a326214e0cd273124b",
+"size": 1100
+},
+"Words/δύναμη.md": {
+"sha256": "43fc937b2ac187a2340e3e606c3aaaa6abab74ce122c40eaf52c2d6e040677ea",
+"size": 1261
+},
+"Words/δύο.md": {
+"sha256": "c79274433c344d75d2f8ee274d9c8263429c93227fbaf24ce805c25f1eddf65f",
+"size": 1575
+},
+"Words/δύσκολα.md": {
+"sha256": "76a45c6b0b7da21bd1bb574477522746ed47db5f1ed80994337417a62f46daae",
+"size": 955
+},
+"Words/δύσκολος.md": {
+"sha256": "096effb24c87da101f5446158122d64e0254d35462551a6fb17e69bb60f7c570",
+"size": 1733
+},
+"Words/δώδεκα.md": {
+"sha256": "0ad6e31c13a37847debfe9fbf05babe7f8ec6b4c1b51cd27bea17a6c85b7d2b1",
+"size": 659
+},
+"Words/δώρο.md": {
+"sha256": "d8bc795366c43a775164727bf47e5e348b70b26dae1e41fe5917ff529db92da2",
+"size": 1608
+},
+"Words/είδος.md": {
+"sha256": "a0d3401db3b46d194b2cac7a212ec0b7b5e442602e0c601b193a0c89ba45347a",
+"size": 1868
+},
+"Words/είκοσι.md": {
+"sha256": "a19f2024e6aed8145671b22538ff214d9fe5a1c88b519b104b2c141a8d717960",
+"size": 1145
+},
+"Words/είμαι.md": {
+"sha256": "788d88c9e88a67d505bc98722600b3358c79f9b76d65790fab68b03fe863bc38",
+"size": 3869
+},
+"Words/είσοδος.md": {
+"sha256": "1fdfeb876fa9f30788d561f095cc7585d4a2e409cc475a4b3fc6c6ba7061cbc4",
+"size": 1356
+},
+"Words/είτε.md": {
+"sha256": "d84b752bbd76758e950c3d465e523b83fda3eb2c85e88253ab4b263dbb1ce04e",
+"size": 998
+},
+"Words/εαυτός.md": {
+"sha256": "46b1553117ca415665d4cd6f323f5af8ecfcd699a77be0d7a9c1ba1a6de1e60e",
+"size": 1414
+},
+"Words/εβδομάδα.md": {
+"sha256": "7c87f1fe5346fc95b1bc3d495915e9a99a2c5481d60bf3e6aa40e4dc90bc8cb5",
+"size": 1532
+},
+"Words/εγγονή.md": {
+"sha256": "04ea3aaedb8fd38e87b4454aa6b3c90c3d4aed1f9981dd42444c475530587d84",
+"size": 749
+},
+"Words/εγγονός.md": {
+"sha256": "d152c66d612136564c62798e3ef1ae70bc00f6e708a94fc9807ba2bbd3820f91",
+"size": 764
+},
+"Words/εγκέφαλος.md": {
+"sha256": "6dbd655595a6c6ed39512207e85e2335049ee5a37b4660068bc7e78c75f65256",
+"size": 952
+},
+"Words/εγώ.md": {
+"sha256": "cd80f0ffb4527b6acc215d13d714a69dd887d4074a118385982fd319f39e0c75",
+"size": 1944
+},
+"Words/εδώ.md": {
+"sha256": "395406397784abf3c122a0af91d68fb3d497e89ea237593a94d78fe4ad3c546a",
+"size": 2316
+},
+"Words/εθνικός.md": {
+"sha256": "3c1f948e0dba7845720e92934c1eabb20bec7f83d2f2a4ad0f7ff3973b444336",
+"size": 1128
+},
+"Words/ειδήσεις.md": {
+"sha256": "cbdc2dfa376be5df422ca7a650cbe52f7d4ffed298a4f98d1799a568de3ffa68",
+"size": 1124
+},
+"Words/ειδικά.md": {
+"sha256": "d83f6a3ea5ac42f2b9c50a0dbd74d559d6d52378d1f7d72d4fbd1af04e5794df",
+"size": 854
+},
+"Words/ειδικός.md": {
+"sha256": "34eecbe86881e466e5e6f0f61aba4fda43fd37399dcd7d64b9980b27edcec00d",
+"size": 1363
+},
+"Words/εικόνα.md": {
+"sha256": "3bd20f32814cb038714600a95c4b31ea4b042592a5e945db5413d58945a2760b",
+"size": 1403
+},
+"Words/ειλικρινά.md": {
+"sha256": "a65805385eb960762ad557aa607a8b251058e310e390ec5595e51aeffe4a3e29",
+"size": 1109
+},
+"Words/ειλικρινής.md": {
+"sha256": "3c59184cc80615a4b315a1bcf26388371e40290aabcf9a46395ac3f994dfea28",
+"size": 927
+},
+"Words/ειρήνη.md": {
+"sha256": "f7c315c4355767b4654f83a80eafdc5d0ff6a01826fcc01c86c1f079aa8ecb80",
+"size": 1171
+},
+"Words/εισιτήριο.md": {
+"sha256": "62d08c9f7838199ade57d26fcc3ac08ac1320761d95846aef038a7499eaf8b29",
+"size": 1510
+},
+"Words/εκατομμύριο.md": {
+"sha256": "86c313171e1c4e85fd4026e6ec9cc224b3b0510358bc1a581c31b1d6ae2d6ffe",
+"size": 1226
+},
+"Words/εκατοντάδα.md": {
+"sha256": "8369887628cbb59952399777aeb5150d98ba9bff90343c99521f08be7d071399",
+"size": 1208
+},
+"Words/εκατό.md": {
+"sha256": "9340be6e7392fdb23d7efc7b982bf3ce88dd545fe066b99c282af205d3249dba",
+"size": 925
+},
+"Words/εκεί.md": {
+"sha256": "a3b31cb8e8c6135f6fcc65bb82bc37cf12ab17b7c3bae65eb1ee4fe20d1834c6",
+"size": 1499
+},
+"Words/εκείνος.md": {
+"sha256": "5aa5b078a1f613c0f7c5f077bb23f063735ee9ec48f11034d74c67767ce5f239",
+"size": 1359
+},
+"Words/εκκλησία.md": {
+"sha256": "a3514d75e380fe3855faa8426bdf55f6d621361b7ecd5a88416edbefdd8fd86d",
+"size": 1464
+},
+"Words/εκπαίδευση.md": {
+"sha256": "fdd97b06f1968cdd2701a241bc14d1e2de38027603d4950dce13951a5bdd050b",
+"size": 1337
+},
+"Words/εκπληκτικός.md": {
+"sha256": "0b731dc87f1131819e2522c4d9bafae711dc8ea7a142a9c88634f70710b2e68d",
+"size": 682
+},
+"Words/εκπομπή.md": {
+"sha256": "6c662031f425a285313e53256b95e6f33e6a6f6a4cc92cbd23fe5194bf5db55b",
+"size": 1165
+},
+"Words/εκτιμώ.md": {
+"sha256": "cff768f353eb72c22a69ede4868f98dcca9d779ef347d17c9a0e984814fb1182",
+"size": 1576
+},
+"Words/εκτός.md": {
+"sha256": "dc1ca60be2ef529b5f380d4abc791e7c7077ac7fc4f05fafc55a046170bd8095",
+"size": 1331
+},
+"Words/ελέγχω.md": {
+"sha256": "f83349e028c3fc9cb8493301538ccc5a5f40be9ce2adca5f941247d1b8a0b684",
+"size": 1604
+},
+"Words/ελαιόλαδο.md": {
+"sha256": "fba4125bac9f48c422edcd1d7c60cecddd4a0048d13ce23492ed4d4997d91dc4",
+"size": 1029
+},
+"Words/ελευθερία.md": {
+"sha256": "ecfeeb058cfcc86a70b898fd076e8283c494e5b33947afc19ed687a9a66cb0a0",
+"size": 1325
+},
+"Words/ελεύθερος.md": {
+"sha256": "1eb4303273fd5dbbc1f06340bfc4143ab3d6e53f495b9bd320ec90903537ac2e",
+"size": 1530
+},
+"Words/ελιά.md": {
+"sha256": "fb75fcefb0cae617da0f952f47265c5c09b5ce741093401b8d55b1a777a426a6",
+"size": 951
+},
+"Words/ελληνικά.md": {
+"sha256": "d4cdb26f30571c2c51f03ba10c92959d15e6230139b9cec377a2b0220e4217dc",
+"size": 2225
+},
+"Words/ελληνικός.md": {
+"sha256": "381e2f3be24817741429bd9419604caf1cf925a0ea4636cc0fb32e44ceca5a57",
+"size": 1571
+},
+"Words/ελπίδα.md": {
+"sha256": "f6ad9d4dd1cba85131309015ab251fbaaca975d350588d7affd897a726ccfc84",
+"size": 1064
+},
+"Words/ελπίζω.md": {
+"sha256": "54ac1cf9bdabe357642f22c578c21402d7b2b20d20c07b2c2e108b7697f07af0",
+"size": 1538
+},
+"Words/εμείς.md": {
+"sha256": "7de859981dac493fe3cdeddabb99edd6a28470b3ece6f5d96a9cb170d42e7ca9",
+"size": 1305
+},
+"Words/εμπειρία.md": {
+"sha256": "201b35c686079a84f6a4959e5754dd2af1121c6323941c4161f805b4e7d37285",
+"size": 1300
+},
+"Words/εμπιστεύομαι.md": {
+"sha256": "4f104ef35463a9d74838c2b829bcf600cc89afe0f006e80e1001a1173f6f38c4",
+"size": 1386
+},
+"Words/εμπιστοσύνη.md": {
+"sha256": "71239b0bf9bbeb80a602425f1d60dd39b2c32f611cac2eb75194637306f6d027",
+"size": 1404
+},
+"Words/εμπρός.md": {
+"sha256": "8e841c6b6b5de9a086f4f7a29b85e4e7c148d2b081f2ed2eca09f1939f2c5b50",
+"size": 684
+},
+"Words/εμφάνιση.md": {
+"sha256": "612b23617634075831dc9cbf449b41599c185846cd68a66794313cbb41045f58",
+"size": 1115
+},
+"Words/εμφανίζομαι.md": {
+"sha256": "8f7978eca6fc071ee81983fce0db9e1272fd04deb416401df63164ef99283b8b",
+"size": 1627
+},
+"Words/ενάντια.md": {
+"sha256": "6dc6133a35077b8034c92fb63bb6f5e2f3526f590a0660cc52e58d78398fa2b7",
+"size": 900
+},
+"Words/ενέργεια.md": {
+"sha256": "9b97c507c28a28b88bd5aec6abe633361da330ad34350501b92b33549203cd72",
+"size": 1351
+},
+"Words/εναντίον.md": {
+"sha256": "d2a09fe7ead3e1a06dfa74dfa719ca5dd4f308d7af3bcdc9b68319cbe0bc273b",
+"size": 886
+},
+"Words/ενδιαφέρομαι.md": {
+"sha256": "697200b94336cdbf431cdf2c318557157e217cd071d0d974fa1c0821020ea984",
+"size": 1904
+},
+"Words/ενδιαφέρον.md": {
+"sha256": "2270f2f0fd0eec35fbbb7767530b1702e41bdbe01cb5f5076176346ae28f974f",
+"size": 1476
+},
+"Words/ενημερώνω.md": {
+"sha256": "a40f7884fc6a41ca4045dd539f7c7a6802ecf0719f64997025d741e4e0ef45e9",
+"size": 1512
+},
+"Words/εννιά.md": {
+"sha256": "b940d80b5fd0f71f531cf40b45945b66ba3b3bbcde884a023861041cb612ab6a",
+"size": 731
+},
+"Words/εννοώ.md": {
+"sha256": "8e062177912f3ca1fc1b04a45e975d4fd5a95f2ea4dc732a76be64fde7fa9180",
+"size": 1460
+},
+"Words/ενοίκιο.md": {
+"sha256": "637ea84a9cf1e09525b5e8e935d86e6cb3de907673e37bac93f958e82d694c42",
+"size": 784
+},
+"Words/ενοχλώ.md": {
+"sha256": "edf0215a383ad0c1d103b7f707979cbe5c701b78150431718999dacdaf8f3078",
+"size": 1226
+},
+"Words/εντάξει.md": {
+"sha256": "5119557bbc51f0634d128dd3af3af0318db7416098ec015a2ba8ccf751ab93af",
+"size": 1121
+},
+"Words/εντελώς.md": {
+"sha256": "093cb92ebaf5a3e25f232e25635bb57a2ba69b66a138494fe4e73b593a2fe64b",
+"size": 1197
+},
+"Words/εντολή.md": {
+"sha256": "1837518c3d6a90985da15862c9d0c90cfa9248e46064399ac8ec0cf4948e8a3e",
+"size": 1026
+},
+"Words/εντυπωσιακός.md": {
+"sha256": "a5aa2efa9dd24e65914cd2e7b22385b3a423ed2f73057705d2743d697e8bfca8",
+"size": 819
+},
+"Words/εξάλλου.md": {
+"sha256": "ea4b1a5fde0d3eed0714d662ddf7b3fc3a9fa5f28c01862f8f4ab0b309472060",
+"size": 705
+},
+"Words/εξέλιξη.md": {
+"sha256": "324df5be651eefe12d433a1ae5abf049236be4bb7507d25bebeb27e44977e8f1",
+"size": 1091
+},
+"Words/εξέταση.md": {
+"sha256": "c338882c3d370e5be5141a32e4f5e4ada27d83f607993529e62279cc148e2701",
+"size": 1069
+},
+"Words/εξαιρετικός.md": {
+"sha256": "fa7dcd41ecc0f4c3aa07f24984411a19f67b9a310e63255bd597f435e39d1ec6",
+"size": 1073
+},
+"Words/εξαιτίας.md": {
+"sha256": "a5e047aa35046791e2f12118dc85e5f10317ad4b3f84f03b8144159da01d7e7b",
+"size": 886
+},
+"Words/εξακολουθώ.md": {
+"sha256": "70e1b58f718f5b8d451242c9dee697bcd877f9adb0c14759add5e5957d5688d0",
+"size": 2057
+},
+"Words/εξαρτάται.md": {
+"sha256": "2a86d4785d70f247f9793a547cfa2a4bdf591df60de9a52a3715e1dde29b5171",
+"size": 858
+},
+"Words/εξαφανίζομαι.md": {
+"sha256": "174122f9a395679b54312bd1a790815f4cd0952e9be45cdc97b621528aba32a0",
+"size": 1302
+},
+"Words/εξετάζω.md": {
+"sha256": "754dc42602cbc75e8f1b1a50db471bbd8c0940c5ef65fb776c10efce4548a691",
+"size": 1547
+},
+"Words/εξηγώ.md": {
+"sha256": "5785985e2916b51f538e528a5b8fae455f58095a3d8f8cd54c0ce7761aa521df",
+"size": 2179
+},
+"Words/εξουσία.md": {
+"sha256": "12472e6847547588d95adb9314d60c2eb31d1bd965ad2efee2d825b0c3beb831",
+"size": 1305
+},
+"Words/επάνω.md": {
+"sha256": "1dab234612aaa0d09ce210db3a8054c88304b57c62f82028422b081417e0509e",
+"size": 682
+},
+"Words/επίθεση.md": {
+"sha256": "2ea5f2fabce5cb0faecf7cb317ae82238a333770adfa84be5e542a57cd13b0b0",
+"size": 1082
+},
+"Words/επίθετο.md": {
+"sha256": "556a498e71b15cd901a283a2e4179703cbc18c407d98616d4b22521ef9084cbd",
+"size": 963
+},
+"Words/επίπεδο.md": {
+"sha256": "31d7dd9f2bd0d4b56a0de5f27c9fe14bdcf10bd2f6e8ea94082d858e6089cf62",
+"size": 1035
+},
+"Words/επίσημος.md": {
+"sha256": "e0f62bfd4186242a3a9b1e693da7ae29d6d95337884ffd3292aee5e9da9e04ea",
+"size": 1405
+},
+"Words/επίσης.md": {
+"sha256": "1e4f0b11a7cc6b936c152b6b2182c2afa45fc78280303692f710ac7ffc7661d1",
+"size": 937
+},
+"Words/επίσκεψη.md": {
+"sha256": "f530545cbb2ec1810f8942781351bbaed1626b8dbf7aa46ca861e02468145460",
+"size": 1098
+},
+"Words/επαναλαμβάνω.md": {
+"sha256": "cf99f05706dd61e5b23fd716ada31a313dbb05b40a7af0c6a1f386da5d088174",
+"size": 1509
+},
+"Words/επαφή.md": {
+"sha256": "ebc00daa4cf231315c82cef6a6feeb8c06c781e4973d92c561fa4c5838e57fa4",
+"size": 1418
+},
+"Words/επείγων.md": {
+"sha256": "443c8b1164b9ced28e1d4cb9d80937fe1429eb4c8df8408d098365ae023fd35b",
+"size": 864
+},
+"Words/επειδή.md": {
+"sha256": "42955c5f256e92fd886535a5d056c8fcacab2a3d37d595593a20569d19627505",
+"size": 679
+},
+"Words/επεισόδιο.md": {
+"sha256": "aca0810316cbc0457de804245d1084a53206cc678c881d711f2ba34ef00df668",
+"size": 1086
+},
+"Words/επηρεάζω.md": {
+"sha256": "7d67edf88d3debcd0a77fc3aa2d4b734a896ff55a51650a8e08f527d5f201bc7",
+"size": 1363
+},
+"Words/επιθυμία.md": {
+"sha256": "84b18383f9e9620355ae290a649c6bddd2dd70f880735f218683b58306c63748",
+"size": 1231
+},
+"Words/επικίνδυνος.md": {
+"sha256": "4493c037b8d10456c4df726c9c8db1884c14b194ead9204f7d1a256c1e9ca616",
+"size": 1105
+},
+"Words/επικεφαλής.md": {
+"sha256": "0b8d2df61525c356bf40b8035886417658833ba0fd3a73b304a3109c05229425",
+"size": 1211
+},
+"Words/επικοινωνία.md": {
+"sha256": "c341cf8dbf3ca104c6ce2437c1ecaeca6b551d681c56bf23efd73225db7229c8",
+"size": 1335
+},
+"Words/επικοινωνώ.md": {
+"sha256": "0f87e1fec718af10fbc6cd149cdd08964b5497c6830c3271df40aef0056b7c0d",
+"size": 1584
+},
+"Words/επιλογή.md": {
+"sha256": "c3337fff3680fb4d077fcb6ed548de4803f01b6d8089c3a04d28c5d5afb998dc",
+"size": 1529
+},
+"Words/επιπλέον.md": {
+"sha256": "fb1bf930ff30e6bc927fa5c929a708bfa9d5f1fc7cbbdc67693d71a891fc9652",
+"size": 876
+},
+"Words/επισκέπτης.md": {
+"sha256": "fde79c1fb779a50d2df2f354bcf950c562d67f4cf9abb0bbbd0fbf3e2b52ffcf",
+"size": 1070
+},
+"Words/επιστρέφω.md": {
+"sha256": "132b54d2bd0e0549933ecbdc3761fc64be01fb621ecb5a6e55526cf9a3d2ee23",
+"size": 1857
+},
+"Words/επιστροφή.md": {
+"sha256": "864ddaa2bcb4bb99b0e45cf446053b5f2b16cdfc86edb6aae05f45a2772a6362",
+"size": 1146
+},
+"Words/επιτέλους.md": {
+"sha256": "9a01e802ce6732e1ec3543d4ee1829b0fda637eb8c4f0c0935cdd8378479e696",
+"size": 1503
+},
+"Words/επιτρέπω.md": {
+"sha256": "2ade4beb76823e6e4fc0ea015b908bde55efb4210fc715ffcecbadad54b0a206",
+"size": 2008
+},
+"Words/επιτροπή.md": {
+"sha256": "5ebeebe4b676cbd27f0d655c291f326bfa731739264c0513ead793b3ae2f62cf",
+"size": 1113
+},
+"Words/επιτυχία.md": {
+"sha256": "503ca8b6a4538aa2994b04b62f8ff511ba559b210e52757f77b31abfdebf1b6b",
+"size": 1164
+},
+"Words/επιφάνεια.md": {
+"sha256": "8fcb0ae07c7a5982764940bf5d89630b7ddc96a75d2947322e8ab5044fdf7f5e",
+"size": 1319
+},
+"Words/επιχείρηση.md": {
+"sha256": "edb1552a4793f15580e4f00875c6fc0264f5cbbe2a1dee51c038364d0a52a5e6",
+"size": 1349
+},
+"Words/επομένως.md": {
+"sha256": "74efa495e38882c0a4f9012abb54901fed6596f928cf9939c07a58a58e529fd6",
+"size": 802
+},
+"Words/εποχή.md": {
+"sha256": "cd14e466c006caefc4c53a2accce00c82695e4703e1cfc1944803459372b0bfd",
+"size": 1279
+},
+"Words/επτά.md": {
+"sha256": "f229d3ce7cc3ce2e9b80cd8c2aa2b0bd9abdfa2123fda586df20d5c531b60a94",
+"size": 1225
+},
+"Words/επόμενος.md": {
+"sha256": "2efa70b28353dfc6cd4c2e41445c131cffe377e246a6de1d25805dafa42ca37a",
+"size": 1740
+},
+"Words/εργάζομαι.md": {
+"sha256": "18a989a06450ed16410cf10d74f261e66164123820f19267fa9995c89e37a0d2",
+"size": 1936
+},
+"Words/εργαλείο.md": {
+"sha256": "d2938f63b84662fcb7db4b817a3db57ae4adcfd1f0baaa6b989029ba3368e45d",
+"size": 1283
+},
+"Words/εργασία.md": {
+"sha256": "148378583e4bc42a81649e85692e2aed4541c67cbddecfcb26f0fcca47e33598",
+"size": 1411
+},
+"Words/εργοστάσιο.md": {
+"sha256": "aab6b3568cde94c11b5f12e3ed80e64e694011652dd1897b034545af76c71218",
+"size": 1176
+},
+"Words/ερωτευμένος.md": {
+"sha256": "7d75cb20db5b4ac4ec78a51fcdae5fe611720fd04ae9ac0dd66903faec0f8977",
+"size": 1235
+},
+"Words/ερώτηση.md": {
+"sha256": "32481bfda423108928ae4baf71e88d204e60c7978f21fafee3000857dcfcbc67",
+"size": 1983
+},
+"Words/εσείς.md": {
+"sha256": "6816c78b016ff5c177fb298ab52f909c412bd8c2c93327aa7cfd14e9b9c19751",
+"size": 1238
+},
+"Words/εστιατόριο.md": {
+"sha256": "6d78093f47e9fc461134116136836a0da374946a0a9173897487272bf735c2fa",
+"size": 1211
+},
+"Words/εσωτερικός.md": {
+"sha256": "2f3231709bad96a6d0a72ceec116a1b26724adbe65a5303590e3b0ca934cdbfb",
+"size": 1027
+},
+"Words/εσύ.md": {
+"sha256": "0a1c1dfb15a2b9acf72dec8bb3c8242fa70c0c5dc0da5e8fcd36a6504c84a808",
+"size": 2121
+},
+"Words/εταιρεία.md": {
+"sha256": "d850bd73a76dfcdf7970ec4379568bc7d7db51d71dc745b3d3e1b2c195718aba",
+"size": 1473
+},
+"Words/ετοιμάζω.md": {
+"sha256": "6042154714757068fa598ed325ead491b15c59c4efb7802a89fc939dc96eb68f",
+"size": 1539
+},
+"Words/ευγενικός.md": {
+"sha256": "56d485696fb36540e7942f25e3074b5c5ca800b08b3b4a961cc5240dee640701",
+"size": 1510
+},
+"Words/ευγνώμων.md": {
+"sha256": "df7bffc8b9bc4be777d9b7b4348dbcf98a71711668d4c8a2cd6828265af35c70",
+"size": 482
+},
+"Words/ευθεία.md": {
+"sha256": "557026c4b9eb7983748292169471383bdd30cda813a54f12316c067c11ac1381",
+"size": 1481
+},
+"Words/ευθύνη.md": {
+"sha256": "de42b2632044d4053518a829b0ec2f4e69cf29f542c366b49d102358fcbdc411",
+"size": 1078
+},
+"Words/ευκαιρία.md": {
+"sha256": "cd09c05cf43be7a6bab06055105cd712848bc263e678ec5857e1a65eb056bd4c",
+"size": 1316
+},
+"Words/ευρώ.md": {
+"sha256": "8510a41f1d3c54ae6c121f63acea4878f3ae97396992a0020956e7da49994291",
+"size": 1496
+},
+"Words/ευτυχία.md": {
+"sha256": "4c57f19fb7d914edc3a55292e5b2a93961f67f7e6207c0bc596c092fca8690dc",
+"size": 998
+},
+"Words/ευτυχισμένος.md": {
+"sha256": "f59b038a9842053bc1549845878386e05d61caa7a4b12b80df03aca3b38a623b",
+"size": 1579
+},
+"Words/ευτυχώς.md": {
+"sha256": "74d3a04b88847cf95db7e2aa8dc763be57e00b6695de556a34cb26257b667108",
+"size": 720
+},
+"Words/ευχή.md": {
+"sha256": "cf4dbb4c3d6287a29115bb5482e5b8f599d8328bc5903a97a43708b58e7a109e",
+"size": 961
+},
+"Words/ευχαρίστηση.md": {
+"sha256": "342ec6bbce08d31fe89cef196922f9e1808ee8b796fe512b2e0cd0b882657c23",
+"size": 700
+},
+"Words/ευχαριστώ.md": {
+"sha256": "c144c617ff64c604313fa6d9b147460aed87ea45d791ba1e1c8870a6bedba147",
+"size": 2236
+},
+"Words/εφημερίδα.md": {
+"sha256": "6cccb24ef6169bb566f26e12aabc05adae06bb62a274d627f4655b01fc8b3e84",
+"size": 1503
+},
+"Words/εφόσον.md": {
+"sha256": "afa37d583a5d4007b77865aaf94a9a7648e4ef5da1c6b3387f3b45998540941c",
+"size": 839
+},
+"Words/εχθρός.md": {
+"sha256": "4fcae0c6d443a4fb024124951a7845a564ea7e023bff3a4d230afec1a3bf627d",
+"size": 923
+},
+"Words/εύκολα.md": {
+"sha256": "9dc5b2896f501124580d2fb2d73178925ceb90fc64c76e9b5abeee1c617fd113",
+"size": 1519
+},
+"Words/εύκολος.md": {
+"sha256": "389dc36ff637f94703d1e0c7bfed5c49672a00609d7aa546321876ea7ec21a2d",
+"size": 1553
+},
+"Words/εύχομαι.md": {
+"sha256": "0539b867d87362890d56932fdf04376c39c38ade6c5c7dd9879fc239c890f65f",
+"size": 1579
+},
+"Words/ζάχαρη.md": {
+"sha256": "2272765706a6ee0ee2910ab1d050cb4eeef7c97d361d9d53a437b60f0e8b52f0",
+"size": 1263
+},
+"Words/ζέστη.md": {
+"sha256": "dd013b124b3742cdb40c462d50d56a11f68cc9aa55b2c7e479a85a5632b2e62b",
+"size": 1427
+},
+"Words/ζήτημα.md": {
+"sha256": "803a9c9a458de4b5707b67cd39dee245b0670b674cb6a08f9c3c5174bb288467",
+"size": 1183
+},
+"Words/ζεσταίνω.md": {
+"sha256": "5e967dd48c202a36befd45fa1f7b37ae4a52503b1098ccafe0bdb50e84c1b503",
+"size": 1061
+},
+"Words/ζεστός.md": {
+"sha256": "2be697ca48342bd0d04d1dae85e80d1d6ec64eba2263e7654620578645074343",
+"size": 1537
+},
+"Words/ζευγάρι.md": {
+"sha256": "8275ff0d388ca1a2294bceeaea90a13d345bbdd672953c4fd167e88d791c2b18",
+"size": 1526
+},
+"Words/ζημιά.md": {
+"sha256": "2ce5065deb55ee3f6fa4aa49321635a75aa9861222935711fc43446545de92ec",
+"size": 1088
+},
+"Words/ζητάω.md": {
+"sha256": "b71dc66d602a6aa7225002b0ab18fce9df234de8fe9b4c37230f39379110a287",
+"size": 1480
+},
+"Words/ζω.md": {
+"sha256": "fad6bace75fca762753568beff370248f9931b45234527e78c8953d589cb007d",
+"size": 1925
+},
+"Words/ζωή.md": {
+"sha256": "b8f4febe5f214bd920af2a6a7c63e173a380541fe3c103fa0e1a48e25d4430c4",
+"size": 1825
+},
+"Words/ζωγραφική.md": {
+"sha256": "be8254cf132ac00acfc0c478044f3e2933895d359458757154aab7c331a43bc5",
+"size": 734
+},
+"Words/ζωντανός.md": {
+"sha256": "98eba35de30f87459d12e55c2a350cc01046596e160f0e049e65edd50c332329",
+"size": 1144
+},
+"Words/ζώνη.md": {
+"sha256": "6b3eeddf56026678c59f2dfa2279a1f16313c9f6fcd33c0f42b6b3a44dfbdecb",
+"size": 990
+},
+"Words/ζώο.md": {
+"sha256": "71bb01faa34300df9be29784ebf8f93f2ee1fb8dd555f23699fd13075fdb70d5",
+"size": 1464
+},
+"Words/ηγέτης.md": {
+"sha256": "b0d0a39ae7b610b037db30eed43c0912b40b8a1788337672024f155b2d651a82",
+"size": 993
+},
+"Words/ηθικός.md": {
+"sha256": "1c5da0246aaac76118afbda716e09a52db6a5383172774a9db8290ffdc4cc96f",
+"size": 803
+},
+"Words/ηθοποιός.md": {
+"sha256": "b421d6b762280eb289943df771cab1057cee92e39fdb5ffbfdd51e8178b82b4d",
+"size": 1438
+},
+"Words/ηλικία.md": {
+"sha256": "cd4be3971a8206a23dbe8a9ed2e2622d709ec3b2d7a50541461525cc3771144d",
+"size": 1420
+},
+"Words/ημερολόγιο.md": {
+"sha256": "9b58a6bd0245488ce14be13053738fec795193a89bcee0dc1e7e16e900a81d98",
+"size": 824
+},
+"Words/ημερομηνία.md": {
+"sha256": "95b42e6b1591ebed04074ca3b46643f7fbbc5f49668bf44a144ed87094033a5e",
+"size": 1239
+},
+"Words/ηρεμώ.md": {
+"sha256": "fb7fab0ca303c48bef23518f7f66ffa43ce673512d3452a8d9a3b71a7c5403d2",
+"size": 1114
+},
+"Words/ησυχία.md": {
+"sha256": "a328784a3df1b9a91dfe9a0e35808bcd4d875058af31e900a5b3cab695311cfc",
+"size": 732
+},
+"Words/θάλασσα.md": {
+"sha256": "1fcce85f2a22707b9bb12daa97d2ce840ebc66c91aec1ba847102dc45c2cd0d9",
+"size": 2461
+},
+"Words/θάνατος.md": {
+"sha256": "962b2042b8f79a9a050e1f6cefdad88a5d5da9fb51efa88d7947a75e3376ab80",
+"size": 1369
+},
+"Words/θάρρος.md": {
+"sha256": "558bf195a003cd18c18ec84cf4c33d6d13dd43cbbed678604cb74e712bcac1f6",
+"size": 740
+},
+"Words/θέα.md": {
+"sha256": "6c344679374a48a6c601344b5d379eb709987a444bb05720d285c211d5cae227",
+"size": 994
+},
+"Words/θέατρο.md": {
+"sha256": "001f276ec520737ed7fcecfbc3cbe802ed95571c2e2fc2444c983f494eda6f82",
+"size": 1274
+},
+"Words/θέλω.md": {
+"sha256": "84dddaaa95015bb73b2b9755fada2e512c658dc1e5defa81b7b0593c70042397",
+"size": 4060
+},
+"Words/θέμα.md": {
+"sha256": "a36fe4ac8e9585059573a272db12fe325a1aec8b6febd1efbd02d77a133b8fde",
+"size": 1362
+},
+"Words/θέση.md": {
+"sha256": "8947e8c3a78286897119cec54dbfe48acda9aee0ed92e085100cf5303451ff7b",
+"size": 1496
+},
+"Words/θα.md": {
+"sha256": "1746845e5343da828b0c175714547f7630ab7e32343f85b23429bffcfeb1afa4",
+"size": 1856
+},
+"Words/θαυμάσιος.md": {
+"sha256": "9035a3233b7afaa92f7a8c54c1c721ca55754481f258c1c5a568f419c5c4e420",
+"size": 683
+},
+"Words/θαύμα.md": {
+"sha256": "8ec3cdf095b3ba27592a561fea872424777b359ebc13cdba6209f164dc996f96",
+"size": 793
+},
+"Words/θεία.md": {
+"sha256": "de7c9bd94a1623b2642326bdb6e65aa755dbd256bb3a11f8acebbc841ecc7335",
+"size": 1146
+},
+"Words/θείος.md": {
+"sha256": "da800668a2b66a807a80a2f277668e1c4a06b4cec405b77589d5128ff2c5dfaa",
+"size": 984
+},
+"Words/θεραπεία.md": {
+"sha256": "f6208a89d37c1203a70410d222dfb359f69d0941c38912fb2f0760146b593401",
+"size": 1193
+},
+"Words/θετικός.md": {
+"sha256": "5c567b8c13d5aeba7fbec6be46fc4094e6b0f99539211e47b63ba715e20e795b",
+"size": 868
+},
+"Words/θεωρία.md": {
+"sha256": "5da8c322ac1669bd0e99da76d6f96f8ed000b92c18a2274b925edc1642288838",
+"size": 1229
+},
+"Words/θεωρώ.md": {
+"sha256": "8bf917200fe4ea3c0121921ddc2405ca0df440ac2cb49899d0c45aec5db32ec5",
+"size": 1511
+},
+"Words/θεός.md": {
+"sha256": "b1ccfbdf27920b1cda13edea11ffe7ac0d5be44d7ab894b3699be136cc3bf750",
+"size": 1186
+},
+"Words/θυμάμαι.md": {
+"sha256": "f4487f3e29740a3008bdd5205b842f3da7b2f8a6c5cd6323d386b28e8262e096",
+"size": 1948
+},
+"Words/θυμίζω.md": {
+"sha256": "eb6c153211a83edb76690b9f958bee9f423ae14d7778c14ee4f564e6940d5a08",
+"size": 1505
+},
+"Words/θυμωμένος.md": {
+"sha256": "69be8d28a51836c49962e39fc12b6057af7dd8ae69d825314f087161cae1a8e0",
+"size": 1247
+},
+"Words/θόρυβος.md": {
+"sha256": "e9c5d57e3c702635ed27859e257f152979e3d0ee6c5c5e56e13e7e08a8c91074",
+"size": 1078
+},
+"Words/θύμα.md": {
+"sha256": "30992fafecd5cd034a0f4160f3250abe5a3e87249ce36c78ac01c5ac032d6949",
+"size": 1014
+},
+"Words/ιατρικός.md": {
+"sha256": "1fe34e8a1d82c0cfbd7251bac706b4bc4704fa54e19eb555b2cee75d7d9f7944",
+"size": 1066
+},
+"Words/ιδέα.md": {
+"sha256": "11cb3ad1882e31091522c359a399d744ac46cfd3f6934664c4f6262b7dd5dd80",
+"size": 1580
+},
+"Words/ιδιαίτερα.md": {
+"sha256": "4537dd5a0f9dd98c8eb988493cee4a09285ebaaa6c04196af4c94ceaa6a9c1a1",
+"size": 1016
+},
+"Words/ιδιοκτήτης.md": {
+"sha256": "b523a3d44c52c0ceb58daeac091e5365a4a174343faafa3b236792f13e875b7b",
+"size": 1303
+},
+"Words/ιδιωτικός.md": {
+"sha256": "6ce10348356fd0a317c501a53fdbfc26cc228d7da81125c1c52901f574425652",
+"size": 901
+},
+"Words/ιερέας.md": {
+"sha256": "ead252164e5509d6f10b22ae9e2e40c4449d76296be712907028a1e4dffb3532",
+"size": 962
+},
+"Words/ικανός.md": {
+"sha256": "73696671fd3e8c1e7235a4d9fbfa40bd42b068112c322d76ef913d14586173b7",
+"size": 721
+},
+"Words/ικανότητα.md": {
+"sha256": "eb74e8100fa27b1296cd4a20cf84e97dacb88bad735474a570fb4c160159f35d",
+"size": 975
+},
+"Words/ιστορία.md": {
+"sha256": "d23ebc57861d7975a21156b6a20234f509131bade24632f6e930bee1f9841477",
+"size": 1763
+},
+"Words/ιστορικός.md": {
+"sha256": "78faaad0ca4d89c5de892233b487f029f76fe87353e69914f565f1ff38693620",
+"size": 988
+},
+"Words/ισχυρός.md": {
+"sha256": "cd6a986c67b7dc031257e32f91a9b3cccad7e3ec135a7e5e5c0b18ead459c115",
+"size": 931
+},
+"Words/ισχύει.md": {
+"sha256": "3145a7351ef2b83e1198af1b6c5e722090905b233a13a7b00b054c5dc9765e5c",
+"size": 716
+},
+"Words/ιός.md": {
+"sha256": "f002094bf553688f26694a87ed4959a7fb15dbb5b11012f230fb27673efaf302",
+"size": 1039
+},
+"Words/κάθε.md": {
+"sha256": "cea0c25c9c71538b9b5e6a4c8529d0891adc55ce2d62a5ccd27cb7a005afaa1e",
+"size": 1897
+},
+"Words/κάθομαι.md": {
+"sha256": "58a42657d61e471bfb708df56e98f07bf2b43252249182cad00f2ff102c3d62c",
+"size": 1639
+},
+"Words/κάμερα.md": {
+"sha256": "ae7180e12e0a21d0b14a24ec752c4f33327dd0b6ce1c485111b01bf47408d912",
+"size": 1284
+},
+"Words/κάνω.md": {
+"sha256": "d4060e983b6afd345c4fe638571a456b61db053c782e19e9bf85cd3fbbaa34ae",
+"size": 3634
+},
+"Words/κάποιος.md": {
+"sha256": "85d8878ed105d1646fae9b3fa285f1b894c1ea141cbeebd0546f583486cfe32f",
+"size": 1410
+},
+"Words/κάποτε.md": {
+"sha256": "6b22e8fc29e07f4be8b820d12a38c949a7e3ef7866da2abbaf18bdc2eae75648",
+"size": 692
+},
+"Words/κάπου.md": {
+"sha256": "3ed1afe4aae431df799239b5a1b0dae38de8a198bb7575a190f4592b0ea500f9",
+"size": 1009
+},
+"Words/κάπως.md": {
+"sha256": "485439547ce59495f4f5a4a54737d529510ed74da1f9a606710c693beaa7858c",
+"size": 588
+},
+"Words/κάρτα.md": {
+"sha256": "70bc3927721300a204cfc7e9f2b1fa6e0b7f9a4b66a7e70757040a83cb126a8b",
+"size": 1128
+},
+"Words/κάστρο.md": {
+"sha256": "9894fa80a3f8173734fc5748c3ccd1badf0caeb1e89c65fc34540e4624dfbdc8",
+"size": 883
+},
+"Words/κάτι.md": {
+"sha256": "3d8abfb6d889ba76f3deaba67ae2927ddba813edcfcf38a7cb546d1bfca0c746",
+"size": 1685
+},
+"Words/κάτω.md": {
+"sha256": "e932c3f89e682ec21ca91292b32dbfb1bab412d9b594992c98e82c03bbd7a624",
+"size": 1511
+},
+"Words/κέντρο.md": {
+"sha256": "295ae6df2fd6f11042439b8b031327eaddf9ba30ae6de08aadef9b7360d05d1b",
+"size": 1636
+},
+"Words/κήπος.md": {
+"sha256": "8ddddcc13a93787048f647a54b88898c06f4cf80e545c24aed7b7205371f50a6",
+"size": 1598
+},
+"Words/κίνδυνος.md": {
+"sha256": "71ac7368a13521c55d066da3352031feb2e89776d6748beb9a3a823ef39cccfb",
+"size": 1000
+},
+"Words/κίνηση.md": {
+"sha256": "f3ee40e99220ece5ddb0a69b4b8b04ff5e56d2f4248bbabaeae6d79a68dc5d9b",
+"size": 1101
+},
+"Words/κίνητρο.md": {
+"sha256": "866727c525ef5713f4124b6f70034106c109e6f180b619f860ac98e12a8002b2",
+"size": 1081
+},
+"Words/κίτρινος.md": {
+"sha256": "f2bf7579cd82f886e66b22cf25fab5fed3218a51cf77b408f77379140a8a0fca",
+"size": 1009
+},
+"Words/καθένας.md": {
+"sha256": "1170a61f4e0dd20360d3c33bfcca40b352e6b10480d9776ced165e6dfa1239ba",
+"size": 948
+},
+"Words/καθήκον.md": {
+"sha256": "9f758ef9dff7b28fbd3acf6e55d19e58c408ab163c50fdd5b2c618cef7922531",
+"size": 1233
+},
+"Words/καθαρά.md": {
+"sha256": "88ace903f69a2ebdd43ff3d07d627bd2eb986cd4627a3bfb2d2d11212044cd08",
+"size": 1377
+},
+"Words/καθαρίζω.md": {
+"sha256": "7a75f31b944585ca533958383973506062807b59ca22c669778add6bd944e581",
+"size": 1320
+},
+"Words/καθαρός.md": {
+"sha256": "2d4985c5f4c0c4bd6024a0700c72b316376b760428c6ebcc95e1d62290b634e1",
+"size": 1448
+},
+"Words/καθηγητής.md": {
+"sha256": "21e4b3d3b2518c55233e9405d284aace4f7f8416e95575b56fa6b06436f520fc",
+"size": 1207
+},
+"Words/καθόλου.md": {
+"sha256": "8c7e402d72670d6e49eca02eac02298b56050b086a8a2a71219ce8a9eb7252b5",
+"size": 2042
+},
+"Words/καθώς.md": {
+"sha256": "cea5cb1deecef4deb44d4c2d09dfb002047ab028e3907c914e6bf140841220e0",
+"size": 740
+},
+"Words/και.md": {
+"sha256": "a409c6152b140224901cdfb72b1de3e8fb214a7659764f98310126860a5d561e",
+"size": 2026
+},
+"Words/καινούργιος.md": {
+"sha256": "23568281d05df251f9c81b365798c4747ead1bd7b56df4e6a6248b89876e63ca",
+"size": 1958
+},
+"Words/καινούριος.md": {
+"sha256": "72062c783ba5b3e3c08f28495b3b18515396a788e3223c552f9891eddaff20bb",
+"size": 1509
+},
+"Words/καιρός.md": {
+"sha256": "5f54e28aaf1f5a9b52485287079a2187da5bbf7a8dac3cf8c0738e2ee98e31b4",
+"size": 1710
+},
+"Words/κακό.md": {
+"sha256": "1c0bc541be48c1ee20ed9419e18b87ea257bdb7b66493239600e4f324d7c3334",
+"size": 1239
+},
+"Words/κακός.md": {
+"sha256": "7e74ab90e159720a3e27e193338a04dabdaf6b9b4b8f092bcec6df550ca74c3e",
+"size": 1670
+},
+"Words/καλά.md": {
+"sha256": "796f11519b51e781dee61d3cabab45c7834d66565144b5473cf8856f66b6aad1",
+"size": 2570
+},
+"Words/καλή όρεξη.md": {
+"sha256": "e376bf47a811cd2a554e581866c06119551ef6907e26ec2e7c714db89c3f39e4",
+"size": 637
+},
+"Words/καλεσμένος.md": {
+"sha256": "179d5b6506e47e56754ff85829858e203e6257ffd68d45261726aba298e2db2e",
+"size": 948
+},
+"Words/καλημέρα.md": {
+"sha256": "06304afd5a8c16fc21474d5f085617c8b61876866cdb94ad54fcfb92df9c63ed",
+"size": 911
+},
+"Words/καληνύχτα.md": {
+"sha256": "ff8ac801034b6a75361f0cd32e8ae7e53df2c28db4bf1b22d96c48f22b3e4ad6",
+"size": 503
+},
+"Words/καλησπέρα.md": {
+"sha256": "4642974e224e4d7987ccedfea572a9343f5632ef58cef347bb2accfb074c9487",
+"size": 540
+},
+"Words/καλοκαίρι.md": {
+"sha256": "08081faca67ce9739bf1b7c696481b737a3d5fea6029f57223393f85668a50e7",
+"size": 1742
+},
+"Words/καλός.md": {
+"sha256": "9fb2291450257e3bb9e46890de693770622a070f629b083bcd39bfd005b978d0",
+"size": 1992
+},
+"Words/καλύπτω.md": {
+"sha256": "15bd9a07bc288016af6efa614bebc90f88f4fefe552d8806f1bf5d3bd402fa44",
+"size": 1498
+},
+"Words/καλύτερος.md": {
+"sha256": "31f1104fc79ae04fafce9f7f410bceb15ce2ea01d04bbf6fda5f968384619eb2",
+"size": 1472
+},
+"Words/καλώ.md": {
+"sha256": "b2660aca0efde666424cb4b21e4df8fc95e1ab247a82bfd26c7ae5869dec5f35",
+"size": 1632
+},
+"Words/καλώς ήρθες.md": {
+"sha256": "d52c18bbbcc11b86336c23acf449b93d5a84cd7689ead98a723101d6e9ab3a63",
+"size": 499
+},
+"Words/καν.md": {
+"sha256": "d13a035b5c0d5c8a965538595e69f3672ff0eacc167c07ca43b46a83df2b0869",
+"size": 1083
+},
+"Words/κανένας.md": {
+"sha256": "3713a29cc0257aa4d85e22bf29b1774c94d361ddce801021da027a909460b5e4",
+"size": 1129
+},
+"Words/καναπές.md": {
+"sha256": "7cf59eff5fcf5ddf9323005aae710db9bcbf3eb816f421d93d3428f30332e0b7",
+"size": 1125
+},
+"Words/κανείς.md": {
+"sha256": "abdaa1494a5b4e011fc7f2d0a22a782dd5bd5101a90eb507135bbd3785aef071",
+"size": 1153
+},
+"Words/κανονίζω.md": {
+"sha256": "6afa47e34920ff7a4e65f35244ef88fae7d55dfa1e8d9a4a09e854b018a604de",
+"size": 1172
+},
+"Words/κανονικά.md": {
+"sha256": "3da5e4669d236ae4cff39738f9a131e16ab9781c86f3712d25dd02ccc56db4cd",
+"size": 1110
+},
+"Words/κανονικός.md": {
+"sha256": "d06dff1941c3380363e9e3eccc008ce50afaa426efc8043122018b5bb1a12e4f",
+"size": 1057
+},
+"Words/κανόνας.md": {
+"sha256": "1092b6143a615dc43d42c540c07a1f0e346890c4effb0d3fa47277ff48e10c44",
+"size": 1244
+},
+"Words/καπέλο.md": {
+"sha256": "3b77abf16d889ba2e16dbd867be07d12992161ea82f91ca427e4783c3a3cc1e0",
+"size": 954
+},
+"Words/καπετάνιος.md": {
+"sha256": "2d8ea73a92e41a59b6ee1cf2009795449e45a3f366393c704f80e4b85298fef1",
+"size": 806
+},
+"Words/καράβι.md": {
+"sha256": "67aeb6463208ef2ed8aee117f836c4be3334d3353a80006273112dda37894872",
+"size": 765
+},
+"Words/καρέκλα.md": {
+"sha256": "549e22fb06729a32f2eecce7bb4ff93cfe1d8a29c9d6a651ec6ea778406e944a",
+"size": 1481
+},
+"Words/καρδιά.md": {
+"sha256": "18c4640368df23a335b02db81728f99ff282fd4c1a59945240e75d30ad78a988",
+"size": 1290
+},
+"Words/καριέρα.md": {
+"sha256": "e41000dac88aca7c2acea42ec12d34347ba808bf51b8b951c8d07498f9bbeb77",
+"size": 1151
+},
+"Words/καρκίνος.md": {
+"sha256": "67655a30b2c2f44729701e8f6df945ad089125de7d26d0b3436b8ece550fa2d7",
+"size": 1068
+},
+"Words/κατά.md": {
+"sha256": "7fc1a197c58b16329f346f2135aae5464a7e9486a39f76cadb555e20a1c85697",
+"size": 1367
+},
+"Words/κατάλληλος.md": {
+"sha256": "73b75f3072b1ef6090d67026b095c4bc831350112e97695de9bb7229563255df",
+"size": 1067
+},
+"Words/κατάσταση.md": {
+"sha256": "90501ac499ab4cb7e368600e706fa84e930d15b37b884ddeb120ae48435b1e4f",
+"size": 1660
+},
+"Words/κατάστημα.md": {
+"sha256": "3179289f2c17eb9885f10562073d755c386d086d80ce765df30e431202b38d97",
+"size": 1318
+},
+"Words/καταιγίδα.md": {
+"sha256": "4c4b1c29a70842b1457a46dd576c27e8d863becbd8d8630098d14e85f4a5d5b2",
+"size": 1052
+},
+"Words/καταλήγω.md": {
+"sha256": "4336569dc1aeedee2d26be76d8cd62e2bf2ea717811e1453d6a5cc2f43ac1824",
+"size": 1479
+},
+"Words/καταλαβαίνω.md": {
+"sha256": "f1080734be5711b83ae1f2df8f9f353655fbd3b17af0a7fa556bd03cca522abe",
+"size": 2419
+},
+"Words/καταπληκτικός.md": {
+"sha256": "6ebbe7276a8355bc011e8c410edafa008a1b76d6a6fc25c0fff3097c0ddd7bb7",
+"size": 520
+},
+"Words/καταστρέφω.md": {
+"sha256": "9acebc1bc7b1b833910d11b595cc8d87700eb5034c423f09799a758ad4210f39",
+"size": 1286
+},
+"Words/καταστροφή.md": {
+"sha256": "34af1ed749d0e23a31bef4cbced6914783bd844db6ebadb1062a2843dc943c60",
+"size": 1201
+},
+"Words/καταφέρνω.md": {
+"sha256": "c5894ebcd8c031a0fea63f1fe74022056cdcfc6bfed9cd7a94c24daf83675080",
+"size": 1729
+},
+"Words/καταφύγιο.md": {
+"sha256": "1ea55eeab11a725d8415d1fa17c4a8b5520ea1d0931b491add944f4876433b63",
+"size": 847
+},
+"Words/κατευθείαν.md": {
+"sha256": "629c37a327d3c819f36f6579c14a9be5e7feedb69afcf5ff472b03fee55953f4",
+"size": 587
+},
+"Words/κατεύθυνση.md": {
+"sha256": "97b3a2d571340d8c439a5fbf06e2769e998ef02f0ac6103c7230dfe508f81e06",
+"size": 1037
+},
+"Words/κατηγορία.md": {
+"sha256": "322947fb43fa3ec89b9320641d15cf7535f37afb5632645f18a0abff5d785c1f",
+"size": 1107
+},
+"Words/κατηγορώ.md": {
+"sha256": "9cda63177e215536668f00d7f54343afad3ea59a0c18b118212161dc9d30e48f",
+"size": 1437
+},
+"Words/καυτός.md": {
+"sha256": "e5011d75d2f88a45f7e5d59d5374c8b063211a58767c567c9eda478cc20dfde2",
+"size": 897
+},
+"Words/καφέ.md": {
+"sha256": "ac1b63245d0b2953841738bb24f7ac357fc0e7f5987fd54dbb6d7c4c209a361b",
+"size": 1172
+},
+"Words/καφές.md": {
+"sha256": "930d2f34f5233d9e1640c32869b968f53c2212cab434cd26096ca43d26e4a264",
+"size": 2837
+},
+"Words/κεντρικός.md": {
+"sha256": "388481bb52ee4c053c131b3a4c42735d50f540aa1d3fa7d75bb36543ea02c831",
+"size": 973
+},
+"Words/κενός.md": {
+"sha256": "6d6a25f7715b9d0d9a7c626f96b328817780a84a2e4abffdd2127015a899f6d8",
+"size": 603
+},
+"Words/κερδίζω.md": {
+"sha256": "249463800dabff60d9cf91072098e036bdc98aaf3683b55020b5a6115f302576",
+"size": 1981
+},
+"Words/κεφάλι.md": {
+"sha256": "8812c7d27841c928208f9880b3468d00afb0220ff52e92daef3adfc282e20747",
+"size": 1631
+},
+"Words/κηδεία.md": {
+"sha256": "d20573b6358ca5e472d98c8f254f534c7983b3fef48cda7e563939b464540e67",
+"size": 872
+},
+"Words/κιλό.md": {
+"sha256": "6c96650381081296663f494585bdf0b44562edcfcfd781ebbebabf8f03c1d078",
+"size": 1215
+},
+"Words/κινητό.md": {
+"sha256": "af914dcc54698e99f9cb7c4394fadb199154cdfdbdd5e1088c47c40c2fc6949f",
+"size": 1784
+},
+"Words/κινούμαι.md": {
+"sha256": "7a5dd1335bbf454ef6ab3a7d415d6b3e79fbabd4195ce94e1aa585fd53d93660",
+"size": 1206
+},
+"Words/κιόλας.md": {
+"sha256": "3e152ed152e576973f7f3add61e43a23ee6d799f82d843718095634ff815b7d5",
+"size": 590
+},
+"Words/κλέβω.md": {
+"sha256": "710142f35b753696471bde666d3bd8af571a030a3f97c76134223c76ed9dfdb6",
+"size": 972
+},
+"Words/κλήση.md": {
+"sha256": "286fab8e27582a47c8edaf5de062739f788b63be8ecf4cf38fe4c06b309682c7",
+"size": 843
+},
+"Words/κλαίω.md": {
+"sha256": "519893bfe7f7a14620333529020c42e67c1eb78743be20950007e4ed613054d3",
+"size": 1148
+},
+"Words/κλείνω.md": {
+"sha256": "a31f72d5d1092288552b1b1e8bcad872414e342ab28637aa9faae8eca66b53e5",
+"size": 1943
+},
+"Words/κλειδί.md": {
+"sha256": "f337a79f58abc858b3f665d7568fd64555ecf2b7b9afce39b0a2abdda33046a4",
+"size": 1971
+},
+"Words/κλειστός.md": {
+"sha256": "81177e0ccdc3004bc3466d7fe633e64f888c70c35b499b8c3226fa5909a67d58",
+"size": 1355
+},
+"Words/κοίτα.md": {
+"sha256": "9a0f69ad22454dd4699531d8c2c92a117b3b54e0562aa8c10d0760570e5fe0ae",
+"size": 481
+},
+"Words/κοιλιά.md": {
+"sha256": "f965b88283c1d77f4be029e5a60c80fbe69dbb0ab73393cbaad539df4a8a0ff8",
+"size": 958
+},
+"Words/κοιμάμαι.md": {
+"sha256": "f44300d6036cf1d0f6df8c6522fe1aa7ff5cf03f9cce8b91719c09ff118276ba",
+"size": 1575
+},
+"Words/κοινωνία.md": {
+"sha256": "72cc10266388b6b982a9ed15153753622d8d03c1b0da2bf652dde413bf170ff8",
+"size": 1106
+},
+"Words/κοινωνικός.md": {
+"sha256": "546b274976bfc5119b67d18feb171f8ba9afb5590bc14f11bca4b3ccdef2bbcb",
+"size": 944
+},
+"Words/κοινός.md": {
+"sha256": "fbf9717f7ed775c52d27ab098375389816e71017f0293d4eed5e62892825452c",
+"size": 831
+},
+"Words/κοινότητα.md": {
+"sha256": "8c433c1846ea05e51718aaee5b1326b630c319f20975884be061779e2aff40ae",
+"size": 1112
+},
+"Words/κοιτάζω.md": {
+"sha256": "f4c0430af5df7a4670563f4b448a62941fdddd92e93e0b5f33114d43a856c143",
+"size": 1502
+},
+"Words/κολέγιο.md": {
+"sha256": "1ffdec0253a6414957dbcc4d9e9573cc4e72c1cca42939c8d42b1cd3d5227cc8",
+"size": 894
+},
+"Words/κολυμπάω.md": {
+"sha256": "ea181c18d367f6ced493df9e3f071d55983a07d3208def741a962f317f273f02",
+"size": 1844
+},
+"Words/κομμάτι.md": {
+"sha256": "055f3790144765ab041e69c3adfa44f23f8bdc6f571c6d75e0ed68f2905bb87e",
+"size": 1444
+},
+"Words/κοντά.md": {
+"sha256": "dfd441b79677fefa46e2f05a0276cfb38df390e999390c2d68bf2b08431cbb78",
+"size": 1515
+},
+"Words/κοπέλα.md": {
+"sha256": "1f20ee097f9f8f42c2049e61c4d486043b4c2ca7a64437c40e5d07982b8654d0",
+"size": 1150
+},
+"Words/κορίτσι.md": {
+"sha256": "89fbc88654599c84b6ad989442eedc32f8f93f9043d51cf9a86dc62192332dd3",
+"size": 1322
+},
+"Words/κορυφή.md": {
+"sha256": "9190d34fb3f61789b009a96b9d64176bc98e2f570d085e1d24aed93eaf4e2f5c",
+"size": 1151
+},
+"Words/κοστίζω.md": {
+"sha256": "7706eb6a0d8a35939989f69ab583d774e716735460f52c52834f882ad3ffd81b",
+"size": 1503
+},
+"Words/κοτόπουλο.md": {
+"sha256": "49fca401beb2eb1fbe1b24973c70c40252e88fd73e4d89f11dce3241a1fca471",
+"size": 802
+},
+"Words/κουβέντα.md": {
+"sha256": "be1030559bb217084ed2990ea7deeded00bb10db519eb5da3087b3f351d08514",
+"size": 882
+},
+"Words/κουζίνα.md": {
+"sha256": "05204e89d4f432a8576f0f071ab87d2da0e9fab252af071f958cf6afde1c0db4",
+"size": 1332
+},
+"Words/κουλούρι.md": {
+"sha256": "a8fccfac476cc122ae7187a4d9768eca1b0f8e76755962993f3bf2404052d8e3",
+"size": 740
+},
+"Words/κουρασμένος.md": {
+"sha256": "bc621f3e95c845659abd675bc29e3fa5584af56205c53c1a09cc7a0e77804468",
+"size": 1899
+},
+"Words/κουτί.md": {
+"sha256": "40fe96e2e2df13074559a14859ebb9bdac7fa43fc4ca59372fb30dd467bc4c4c",
+"size": 1223
+},
+"Words/κούκλα.md": {
+"sha256": "ca471720d97980dedb76da367e2b385088b5454d5257b14b75217b5a0104ff47",
+"size": 745
+},
+"Words/κράτηση.md": {
+"sha256": "9fe77606b661a3ffc12735688056bd517c1a82117805dd2b2b468d5778bd584c",
+"size": 1534
+},
+"Words/κράτος.md": {
+"sha256": "d60cc2abd00a301ab07b840c6829de072c9683848e671336b037ef3d6eb0d5fc",
+"size": 1150
+},
+"Words/κρέας.md": {
+"sha256": "76b1d97f8e390bec9411ba50e79ce91c596832907baa7ce60988ee199934af72",
+"size": 1702
+},
+"Words/κρίση.md": {
+"sha256": "ff40b86a15fdee35cca0e58648760e7453dfc69f5d98696468c791978eb49dec",
+"size": 1117
+},
+"Words/κρασί.md": {
+"sha256": "3c753ba263ed696229f04bb70423962251f0ca4e992a8ebec1be0500088ed43e",
+"size": 1958
+},
+"Words/κρατάω.md": {
+"sha256": "be6ddb318037707e14fca630caa4710db4925555b6bf66dc43ccbaa4d9f0baa4",
+"size": 1721
+},
+"Words/κρεβάτι.md": {
+"sha256": "07551e3e30b5d3b9d1ec10151489ae499d83e4dd4a6b8d04ca6322ab4237bbc2",
+"size": 1201
+},
+"Words/κρύβω.md": {
+"sha256": "406b034bf0a3f08f1111315745f0cb41d05ba4144776a2707a3fa89e224c7994",
+"size": 1708
+},
+"Words/κρύο.md": {
+"sha256": "6a3cc0344d9405406ba407a636182ff3f34ba9a66a2b53e32504c2ef8903a7ec",
+"size": 1650
+},
+"Words/κρύος.md": {
+"sha256": "c105cec6378c6baef779f7839217275481963d23379421d476a928d7c9f8dd2e",
+"size": 819
+},
+"Words/κτίριο.md": {
+"sha256": "d712c66a4e80576760835dae1f383c3d57fee3fe2bcb6017037515c38cfc1d1d",
+"size": 1230
+},
+"Words/κυβέρνηση.md": {
+"sha256": "7b40f146d0839cfee10e2060670f9edc5db3237e3c888fab927c3cf345726318",
+"size": 1202
+},
+"Words/κυνήγι.md": {
+"sha256": "b9a8518c4320a7f6c2bfaf188ffa39fd81726579561f29441103ef9aeaaff8aa",
+"size": 750
+},
+"Words/κυνηγάω.md": {
+"sha256": "89d2a5bf530cbac79f7cda6ad66e16b6e58d361cce126bcbd747c94ce4e820f9",
+"size": 1165
+},
+"Words/κυρία.md": {
+"sha256": "0009f98c696fb0018006f221d5b1d299e39dc698df623cec33100b646f7967a3",
+"size": 1230
+},
+"Words/κυρίως.md": {
+"sha256": "50a69639e0cd3d6bd4c156a7ebab2b903bf51e9655da1e0e95d5894a788da29b",
+"size": 782
+},
+"Words/κωδικός.md": {
+"sha256": "ebdffd50dbebf94bfe2c81c20d7a8df8dd07004d6fd2bb377485d49c579d1413",
+"size": 1139
+},
+"Words/κόβω.md": {
+"sha256": "a3629d1274149d32afbc53590107ca883e60265d411a1aa51b5a1673bccdded8",
+"size": 1264
+},
+"Words/κόκκινος.md": {
+"sha256": "455374f2744e63fe1c41af9ee8ef0467aa61431fe637c9a54839653b37df914d",
+"size": 1700
+},
+"Words/κόπος.md": {
+"sha256": "8d2cc54aab7a19aa68f9afe7c821740d09fed16c5c07365253b4acb082bad350",
+"size": 1082
+},
+"Words/κόρη.md": {
+"sha256": "cd005b4359411700cff61a22e7533dadc39331795451d7bbf0278dd4f1ae0a29",
+"size": 1386
+},
+"Words/κόσμος.md": {
+"sha256": "4f1b21dc46c2e260d95dc0393288dc73a1593f1fdf96450f1b6e87b4200ac1ab",
+"size": 1571
+},
+"Words/κύκλος.md": {
+"sha256": "6b1017bf94a1ea87924cdb0eebdf924413b781e9c5b808aac00b90e7034e2472",
+"size": 1138
+},
+"Words/κύμα.md": {
+"sha256": "f21520be4dcf0bc088677f9cd9a0fa40fa43e0dae54077b11b39966fe5048417",
+"size": 953
+},
+"Words/κύριος.md": {
+"sha256": "b8c3c668a4a6369a22bb268c16fbefb6e38c6b9c27581a908838bd94f6f474dd",
+"size": 1387
+},
+"Words/κώδικας.md": {
+"sha256": "11ea5fd4110a2ce97c3acffb52837c4db5762d33bb35561a69947c61b2591793",
+"size": 924
+},
+"Words/λάδι.md": {
+"sha256": "b0a136e9b1016d4f20c005e22421b0c4088ad844bee615fe62179af043c36862",
+"size": 847
+},
+"Words/λάθος (wrong).md": {
+"sha256": "497ac57e02c6d464d8ad3381b2e47109055df2ad405c12f9720d0318f41e18f1",
+"size": 718
+},
+"Words/λάθος.md": {
+"sha256": "33bab737da0d89b36263a117faf0cabb03e26722ac144cd57b64a6716c33ece1",
+"size": 1564
+},
+"Words/λέξη.md": {
+"sha256": "0f5d5f9c3496982254bc13b4a99e96137231cf18054ac1b37a01b2e273934a85",
+"size": 2246
+},
+"Words/λέω.md": {
+"sha256": "08733921e800540d178f45f9aaee509787f4b702c38acfe703fae80c57c547ec",
+"size": 3671
+},
+"Words/λίγο.md": {
+"sha256": "40e4c9caa0651e935e3a9c9fcb8be16f3ff5a68b6ecc8b83b21bf9ea7185576f",
+"size": 2358
+},
+"Words/λίγος.md": {
+"sha256": "ae3a072529a3659a5e5bcd0877850747916cfcbd6cf41bb6b0fa18a7cdb46364",
+"size": 1516
+},
+"Words/λίμνη.md": {
+"sha256": "9b746e9783d7ca4bee86c19fe38944ad11c6bff75b941fed43197c28d9bc8f79",
+"size": 1155
+},
+"Words/λίστα.md": {
+"sha256": "d0cbb9dee37e098ef34c88ecddf30c3650f7dad602f4f84318f0d6cb509eb45e",
+"size": 1504
+},
+"Words/λαιμός.md": {
+"sha256": "2620e6fa461c6f13a0aac49eb8ea7a49f4c08583cd2f1d4921d001a729ec74f6",
+"size": 918
+},
+"Words/λαμβάνω.md": {
+"sha256": "5f174b8ba27fa5f687f6c325f122523acde7cfb11e7e49fd670a3771a8619df7",
+"size": 1838
+},
+"Words/λατρεύω.md": {
+"sha256": "11ee76584c216c61f8bb2d1fc76f45f00de54d97ab25a1929f3472bab92d70af",
+"size": 1436
+},
+"Words/λαχανικό.md": {
+"sha256": "10003b0dfd476031d11cb3507685e4d52e89bbdf14e249b6ca7791f55c5bf9fc",
+"size": 725
+},
+"Words/λαός.md": {
+"sha256": "86cfefc6846ab77cdb1158e7e187e84e52f17a6c3b83c7e73f3a6ea52ffcce55",
+"size": 1079
+},
+"Words/λείπω.md": {
+"sha256": "9d12e667c272d6713ad58ba83885ea6b4752d0d67d4cdde0de28ef9072845a13",
+"size": 1844
+},
+"Words/λειτουργία.md": {
+"sha256": "599f0b9e15eff71f7106eb0d1b079a086c12320d360af6ed10b8eac717ee57e6",
+"size": 1433
+},
+"Words/λειτουργώ.md": {
+"sha256": "1dea4b19ba74a375e84d4be12fbec5c737b93f4d350e03d27b3f243380ed5974",
+"size": 1787
+},
+"Words/λεξικό.md": {
+"sha256": "c9430bcae3d21ff3327f5fc15a04b26bc68c685742cbb6a32520b5f45e6fc7e4",
+"size": 1565
+},
+"Words/λεπτομέρεια.md": {
+"sha256": "8222da75406f9d0dbb5a9e41cd06a458ccb69af10eba7c199fdcb0a64429df1d",
+"size": 1041
+},
+"Words/λεπτό.md": {
+"sha256": "85fcc4b4045ff94d3048b820bec3e8a62054faccc884c3fe2fef440666230b67",
+"size": 1347
+},
+"Words/λευκός.md": {
+"sha256": "92ce9e84d71bf664239ce70b21a08cfb9667d5f3f67ef7f11ff62eb70012d7ee",
+"size": 1411
+},
+"Words/λεφτά.md": {
+"sha256": "8f6fe3eb02f93262e4e5b581668f7b3b4b3ec25b32df92c01689d99da2a221fb",
+"size": 1890
+},
+"Words/λεωφορείο.md": {
+"sha256": "002daf9596d1fc0403e4a54a51fc87f5b70a1ef7a4465e0cd0eddee0fb6c1551",
+"size": 2301
+},
+"Words/λιγάκι.md": {
+"sha256": "42b22da2787bcdc9bb11f76a28680d063cbd491a3d620c33e8932ca15893b16b",
+"size": 641
+},
+"Words/λιμάνι.md": {
+"sha256": "c3a87d89c4c214e503d76ddf1999e53221ea0cc34f1edf5c8f865b3aac3a06a9",
+"size": 1233
+},
+"Words/λογαριασμός.md": {
+"sha256": "798e105350a3754996b55cdfb1e02c63fd76eff72c4720787dc0dae33df20e65",
+"size": 1908
+},
+"Words/λογική.md": {
+"sha256": "cdcf227ebc0ef4959f4d4eb23f0ca6c263ffd95ed17fe4af016cece7e0262d77",
+"size": 1047
+},
+"Words/λογικός.md": {
+"sha256": "68e4dc644752ef00bfa4f564bb82c9bbbdeb8ba256f2a570be1fb2869fa8d6d7",
+"size": 883
+},
+"Words/λοιπόν.md": {
+"sha256": "8586f02c3ffd0e5be0223d4fb1c451b07a7af36ac1f07f9433050dfbc1b782e2",
+"size": 742
+},
+"Words/λουλούδι.md": {
+"sha256": "eaf706180c69600d3b2b60f57184d3894ee0427150322fabb3a12944185e53fe",
+"size": 1736
+},
+"Words/λυπάμαι.md": {
+"sha256": "ece3772b3095078f20840a59914b737bd3103cca87d341d62da856848dc2be60",
+"size": 549
+},
+"Words/λόγος.md": {
+"sha256": "8502406b651239b6314528324adbbfff11019810c487e65f48a081383e47c737",
+"size": 1516
+},
+"Words/λόγω.md": {
+"sha256": "fcedbac681c378af452cfcf9554451e762e719a1f9fa177fd8326515b7fdfd3f",
+"size": 871
+},
+"Words/λύκειο.md": {
+"sha256": "d864e7eabf6be958edf23c69d269e11b927717963508b2a5c22a91734559cba4",
+"size": 910
+},
+"Words/λύκος.md": {
+"sha256": "ac37456d3058ef1eccbe765f0f70a263ca69372dd5eaae59ff7178c310ff629f",
+"size": 768
+},
+"Words/λύση.md": {
+"sha256": "c056c3254315dee4245b5a9ec39ea301d38347976bdfb0d0d9ad60dcfc320e0a",
+"size": 1242
+},
+"Words/μάγουλο.md": {
+"sha256": "3c451829eece8b5eeeb6d32ee0a5ca3fb34244f120b684bab14ec7ad5180b6ad",
+"size": 721
+},
+"Words/μάθημα.md": {
+"sha256": "7a894da052eabba3c4a0e99db13583bdd30b88c5aa8998e43f3a836efe7e116d",
+"size": 2513
+},
+"Words/μάλιστα.md": {
+"sha256": "f7e1d7ce9aa456d4a8e033ecad1521ac2c6890c13e7c056ad987353fec9f96e7",
+"size": 833
+},
+"Words/μάλλον.md": {
+"sha256": "03775f20959a2d21186dfcdea2f4dcf88deea25ec48e41864311e13f570c4d79",
+"size": 1242
+},
+"Words/μάνα.md": {
+"sha256": "96f7e7d8207dc9d870ec20dc95b2c170ca9103f4322892181b06d25acb0db911",
+"size": 810
+},
+"Words/μάρτυρας.md": {
+"sha256": "3254f8c93169f6ce399bc34f9433877f9ace52fe5fb2a2cd0f819929e0ecbe18",
+"size": 1070
+},
+"Words/μάσκα.md": {
+"sha256": "e04db90d09992f9c36f7972f70ff90d57cf5c71bdc4189068fd06a0b69488316",
+"size": 1026
+},
+"Words/μάτι.md": {
+"sha256": "234ff10d85a2928fa40f7503201476814b3fcf9fb8215d22a91bf76ecdd64169",
+"size": 1313
+},
+"Words/μάχη.md": {
+"sha256": "99a083c95b524ecd92fddd359c49d7d8b4bdaee5900d4addc7dccf7969f1dd4e",
+"size": 927
+},
+"Words/μέγεθος.md": {
+"sha256": "5529326043e31618974141b6bb96f9ff59caf68b289e12a3ebe2f81df166b736",
+"size": 971
+},
+"Words/μέλι.md": {
+"sha256": "31cc34d050241ae10f31359a74851101f6f644e6b9d5dbd04da6ed62c52535e5",
+"size": 708
+},
+"Words/μέλλον.md": {
+"sha256": "aa2f1fa0bfb3a351f5d3ef062e8fd9fb4a4624faeab27f6beae60441775407d0",
+"size": 1240
+},
+"Words/μέλος.md": {
+"sha256": "22b1e37067bdcfca00f61ea3d9e06fbcaf000a0393e899d4f7351152669530c2",
+"size": 1379
+},
+"Words/μένα.md": {
+"sha256": "821b4d83e30b8d87f1c2f4be9e9a594026556ff3fbb6eaf608251ca20652ef6c",
+"size": 684
+},
+"Words/μένω.md": {
+"sha256": "bddbda5e650e044724b1c02d4ba58870707905458bdd82ee81026e9c0169eff6",
+"size": 2457
+},
+"Words/μέρα.md": {
+"sha256": "05e6a15a277d743ddb505799adf6cca7991baf0777659ec5964b453b46d6a595",
+"size": 1952
+},
+"Words/μέρος.md": {
+"sha256": "5bb71bc53b4d84937f03a9170beb10813e98636e65c50a9046214f7594f26694",
+"size": 1296
+},
+"Words/μέσα.md": {
+"sha256": "1400ea7d94e2f038b15a3d4b0085cb71b1db68c2eb4c4f4ac7d90097d9bb957b",
+"size": 1542
+},
+"Words/μέσος.md": {
+"sha256": "62db5caba002c8319bbb1a2a11ed5e460320486e147688a5eac9433d31763399",
+"size": 1578
+},
+"Words/μέσω.md": {
+"sha256": "020ba6b6192272dcb50eb91d1bd0af63cea94514676c06dcf25dd637a7a2403e",
+"size": 911
+},
+"Words/μέτρο.md": {
+"sha256": "24401e13317e519bf266e66e39a4f0edb0feb3ebb146c89df1cfc889b7638109",
+"size": 1347
+},
+"Words/μέχρι.md": {
+"sha256": "c81345a4492307b711bc9588740e0bb888d9b725a1a545c61a6e2ae9d8b5f187",
+"size": 1304
+},
+"Words/μήλο.md": {
+"sha256": "7b9fc95ee4e801602559caf4c8014ef90d23a5908046076738bf1b184c9a7d08",
+"size": 1253
+},
+"Words/μήνας.md": {
+"sha256": "999c9ba19f2873b09a18b88c27fb4a843e499bb2d49c618b20b44af83f64578c",
+"size": 1463
+},
+"Words/μήνυμα.md": {
+"sha256": "ae9009b1e919ccb8e2d8ff9c01349b537872b8870a92ac856a2e2d6341031f29",
+"size": 1879
+},
+"Words/μήπως.md": {
+"sha256": "8748edbb1aa778a7eea481a8e876b75b9e13de93bdf3cde19872a284864f8d09",
+"size": 668
+},
+"Words/μα.md": {
+"sha256": "8693fb5fa716ee5bb3b673c0d1c9a0ae5b96520207dd66aded23cf8e34f4d77c",
+"size": 698
+},
+"Words/μαγαζί.md": {
+"sha256": "00fd6a8c9ffdbd86200b41f672bb33235fa87e1ee671d150938733453a3e0959",
+"size": 1282
+},
+"Words/μαγεία.md": {
+"sha256": "b161ec97a4db8b0454611bdefd5ce8a0138de705ed3fc852b4641d7b410686f7",
+"size": 646
+},
+"Words/μαγειρεύω.md": {
+"sha256": "160af0b90c404adcd55825693f8fbc517c415ac4cf34228050373140b148bfa5",
+"size": 1843
+},
+"Words/μαγικός.md": {
+"sha256": "52c0d5f7975990f9d96b2350ea81e9eded70b1b31b7913d99c2ccaeaf2989327",
+"size": 965
+},
+"Words/μαζί.md": {
+"sha256": "8eee60925e06a927d87e3daeebe256207a3ee6c6be60238a1e492f3858fb9106",
+"size": 2087
+},
+"Words/μαζεύω.md": {
+"sha256": "518a80d9b919d70e48bc7074987413451bcea30940c6f6aedd81cce1b6438331",
+"size": 1167
+},
+"Words/μαθήτρια.md": {
+"sha256": "b520e6fa810b054def94c653d9d2116eb68e1c5179e1977ab825fa9d90280646",
+"size": 916
+},
+"Words/μαθαίνω.md": {
+"sha256": "f10404812233119f7143401981a9d384b271bf114a5ea2efb6930ad0880e838b",
+"size": 2825
+},
+"Words/μαθητής.md": {
+"sha256": "341569752d589d4b7b1dc8c25babb98e5750e8be7b6edc6f49b0310f4ae8f1e7",
+"size": 1717
+},
+"Words/μακάρι.md": {
+"sha256": "af865febb462974731e07cc34fa908c35f386343290605366bdd89a8820cc3a9",
+"size": 984
+},
+"Words/μακριά.md": {
+"sha256": "7ded7c53171fb26fe58f883afd7c64dd177189f13be608ca6f97ea0c8a359fb1",
+"size": 1448
+},
+"Words/μαλλιά.md": {
+"sha256": "e6573356ca6455d98b7f01135836aa2d4dd63474f48f7e5683b41f13da341e4c",
+"size": 1289
+},
+"Words/μαμά.md": {
+"sha256": "cba625238daa22b6774867fc6c76609ac853cf60b60dc617e64e3c82cd209b2b",
+"size": 1866
+},
+"Words/μαντεύω.md": {
+"sha256": "d969200249bf143801c2ce496fcd037af47faa66fd4f781e48ad36cd931afa43",
+"size": 1013
+},
+"Words/μας.md": {
+"sha256": "4424adfa89adaf042aaba7c199f819eeffc194ac250d68e0a4df2cd5ab7f298c",
+"size": 1014
+},
+"Words/ματιά.md": {
+"sha256": "4aad25181a90ac8dc8959773cfc090f98f8c9f20dd2af342ca7355d37da8867f",
+"size": 1173
+},
+"Words/μαχαίρι.md": {
+"sha256": "de2486c740430b83bd297fa745c5960ac2e2b512461098429ff9b2cf365f0fdb",
+"size": 1349
+},
+"Words/μαύρος.md": {
+"sha256": "52f26b6b328a4ccda7db0481e90443a39bf482486c2053fc8411af13b54a0370",
+"size": 1469
+},
+"Words/με ενδιαφέρει.md": {
+"sha256": "7d84469f7fc7a7e371cb5f9cf49cc7dc210446fcb1971d8551f5f03fa697760f",
+"size": 546
+},
+"Words/με νοιάζει.md": {
+"sha256": "bd83325d3b5a715e43008e9524eef8faed7824c9b068cd2f87fd369be201e055",
+"size": 1158
+},
+"Words/με συγχωρείτε.md": {
+"sha256": "e14c54a511ba958aea9ee0d5e77f2c598b085914e5c1134bde9307a0650d2de5",
+"size": 459
+},
+"Words/με.md": {
+"sha256": "5113f4c6742e419d80e104b4f5b55c819f7d2c289fa1bcdb5cecb538eb931eb0",
+"size": 1519
+},
+"Words/μεγάλος.md": {
+"sha256": "b47376db9f5a3e8f23b8b6a46c01e4bc278f7f14497faaf2bfccd2ac1bef6bac",
+"size": 1848
+},
+"Words/μεγαλύτερος.md": {
+"sha256": "d011cf1ddd06e778898960de1c37204401072e394fe8eb659640ba410a592ec8",
+"size": 1649
+},
+"Words/μεγαλώνω.md": {
+"sha256": "405d15dabb83552ba6fdd12ade5afe0ee95789b22462c3be0b76ab069fcd41ea",
+"size": 1305
+},
+"Words/μερικοί.md": {
+"sha256": "0af922e1495613199ac2c0b9b2c528b8487a67cfff4f70819d3f59a83cdbb077",
+"size": 1281
+},
+"Words/μεσάνυχτα.md": {
+"sha256": "fb50b1009e879cf72386aab2438f6ef0a230a0c3d1c6cb24318e08e40b428418",
+"size": 847
+},
+"Words/μετά.md": {
+"sha256": "71853334aacb8bcc863d73cf7d601371d8918736173b5acd0c4e0952b46eab9f",
+"size": 1639
+},
+"Words/μετάφραση.md": {
+"sha256": "0dc0fedb1b736fdf41873172bf307705b0e81935a4ff66bb4fe0e86aa2afc485",
+"size": 1094
+},
+"Words/μετακομίζω.md": {
+"sha256": "69bea7075116eaeb7455f9cc58082882104ef40b094f72298e32943c4c75cc47",
+"size": 1371
+},
+"Words/μεταξύ.md": {
+"sha256": "3a91dbbfbddd97c53e133e11afdf13636a06d3888746d363c9cca0dd2e81d8f5",
+"size": 1254
+},
+"Words/μεταφέρω.md": {
+"sha256": "825736cdc3543d8688b8451840c61fcbe093d59d00b51c8b78b548c9d572ba20",
+"size": 1708
+},
+"Words/μεταφορά.md": {
+"sha256": "2a4ba62cc2091a965055fed4fb5488281539798008d120294bef7217822f532d",
+"size": 1171
+},
+"Words/μεταφράζω.md": {
+"sha256": "1db69b78f3109d1bb36ff875d2b2907c910b3f85226db1fa0e6eb292873c743a",
+"size": 2266
+},
+"Words/μετράω.md": {
+"sha256": "0b38e5fddb59b889ce48fd6bf0ce6dbc5cf1ecac15bf022611e361e9982097ba",
+"size": 1382
+},
+"Words/μην.md": {
+"sha256": "36d1304c55ea2313657e2fa2fad178a373a1cfda255ae9a5a4dc044ca8a31a4c",
+"size": 1292
+},
+"Words/μητέρα.md": {
+"sha256": "c58e097cad62c664a678deef88a1692a3d18a62c84b0d9e169521ab0eae210fc",
+"size": 1567
+},
+"Words/μηχάνημα.md": {
+"sha256": "380e8e8cbb6760167076e3b400de1de165ee9bd133f25c4c61a359c0fb835f36",
+"size": 911
+},
+"Words/μηχανή.md": {
+"sha256": "25c43b32defdad7280ce5c12d20b3d251dc323a19544cdaa340a0558d85112f2",
+"size": 1466
+},
+"Words/μικρός.md": {
+"sha256": "f3f2a06612c65a778c2bc183daac563ebbf090e31464caa4cf4a4821074986df",
+"size": 2055
+},
+"Words/μιλάω.md": {
+"sha256": "465bae435a273041b5153fcbc7a45d8413fecfcdba9ea6e18fc7b92087344f83",
+"size": 3495
+},
+"Words/μισθός.md": {
+"sha256": "c39fa2a20646c7b80965f52cb7b95d5946fe94680171dfa16b81c9823aea8162",
+"size": 1145
+},
+"Words/μισό.md": {
+"sha256": "206fa82fa6efad55020976a7e3606b7c9126523653a742cc842452bd266bd51d",
+"size": 899
+},
+"Words/μισός.md": {
+"sha256": "11a66144a95c31d491196e4fe0d5630fe57b6a21b688aaab58093791d8dafda4",
+"size": 1038
+},
+"Words/μισώ.md": {
+"sha256": "1d46df662b6657901d7975f79a87484f144ac1923d8937b25430fa27dca81b5a",
+"size": 1363
+},
+"Words/μνήμη.md": {
+"sha256": "d48c9eeb6b56c4ab8060ca96273715bdecb4c8a84e7ff4f51d245615f36dd7aa",
+"size": 1047
+},
+"Words/μοίρα.md": {
+"sha256": "b35a54c4863b043bd2e9696bdcb8f76d4f7fce228e0e3e2f861908e998b8e93b",
+"size": 924
+},
+"Words/μοιάζω.md": {
+"sha256": "207517ec255f2913b5cd3bf4fd3b2b8e47dfc457c73de0a7b0e2937f17256627",
+"size": 1994
+},
+"Words/μολύβι.md": {
+"sha256": "b9743d2801b1fa42c5fcd5278e2a98af2ab99bf2a43296aa2652bcea182e5305",
+"size": 1331
+},
+"Words/μονάδα.md": {
+"sha256": "91fb0c7830832e662a28ea4d04ab7cef92438327ab1fcab751fac0b82eb8bbcb",
+"size": 1116
+},
+"Words/μοναδικός.md": {
+"sha256": "cde3ec91d9ab138cc800e2c8a57f6b5c5ed9a875c93aab6f6bf0988b39a1447a",
+"size": 1493
+},
+"Words/μοντέλο.md": {
+"sha256": "7e194ad553715ea3b055f65e9dc54e26bea1ca75ac37161b93c00332ab504f73",
+"size": 1099
+},
+"Words/μορφή.md": {
+"sha256": "40a9efa5f6101fdf6a39dc03f32be4e789ee8604d4b0e1cebd440b9dad70ba66",
+"size": 1089
+},
+"Words/μου αρέσει.md": {
+"sha256": "9a9e94555fa34e8e3ff319ad8d9895b16fe6a430eb49cb6f60d45317855e1768",
+"size": 2464
+},
+"Words/μου.md": {
+"sha256": "605f4daef3b4e6f48c591d00a4a5ba143e3d373a9748f773bc2d10e81136002e",
+"size": 1855
+},
+"Words/μουσική.md": {
+"sha256": "02aed85c5a37bb0f21458a9d0e88c3fcdeed22c14e84adc6c45820f8c546e65f",
+"size": 2140
+},
+"Words/μπάλα.md": {
+"sha256": "243b49e71ea1358b8ccc73845fd1750aa8c77e99b3145426ea1147e9c86a6ff3",
+"size": 1282
+},
+"Words/μπάνιο.md": {
+"sha256": "451b4148b59f990f42f708a801e87d8bdcf7e415374a5bc6ea36e234e5167324",
+"size": 1353
+},
+"Words/μπίρα.md": {
+"sha256": "2b2c5b7299aaa24bd9dc22cf7f7ac06b882919408876a0c5feff161b318ee4be",
+"size": 1158
+},
+"Words/μπαίνω.md": {
+"sha256": "5195d4888dbe65978b100c574e4193825c4ca5a3b120df49f132f9c69ed2bb07",
+"size": 1785
+},
+"Words/μπαμπάς.md": {
+"sha256": "7f712a90d9f2406f485ea8d0937957284911817c1ceec060da194ba0b1123ba3",
+"size": 1043
+},
+"Words/μπαρ.md": {
+"sha256": "9054d948264816d40f7e6ddcb4ed7b4a7207058a1bad9642a6baa54764d13c66",
+"size": 1202
+},
+"Words/μπερδεμένος.md": {
+"sha256": "af5d2b59e073732b1d9ae69e10cc5f458361796bbf4d9ec27746da62cf29624e",
+"size": 655
+},
+"Words/μπλε.md": {
+"sha256": "cf939d31c464eb5b73cc2efa7ffa77f48bc43223e8ec791e874f4523f94fc86c",
+"size": 1434
+},
+"Words/μπορώ.md": {
+"sha256": "89649c4b261f2e38aac2f60f31359e69ee9750022cf029211a1e182511357de7",
+"size": 3900
+},
+"Words/μπουκάλι.md": {
+"sha256": "d184f073e4c4a37b9b4f66792d5d23d3119242ad231914346cb0da5400b93fe5",
+"size": 1311
+},
+"Words/μπράβο.md": {
+"sha256": "657ba453a3521da9fc8b66bce97cac4797fd660086f68d5f81cf17b667d10f39",
+"size": 892
+},
+"Words/μπροστά.md": {
+"sha256": "33d96a0cbcde0c44581a47579c9613be3ec620ff6a1c871288b923a890866c63",
+"size": 1390
+},
+"Words/μυαλό.md": {
+"sha256": "3f38766a81993a395517e66e287af3d80b84e0f259ddd0739e3dd4b45230b2c5",
+"size": 1288
+},
+"Words/μυρίζω.md": {
+"sha256": "73b5ea7ec882dcb3fae8976bddb8d3e83c1abf695919fbc7f72fccb1d6432aa1",
+"size": 1311
+},
+"Words/μυρωδιά.md": {
+"sha256": "ae98d860cb18bc0f7f1ad120cece5be464bf41deb65f437bf64426f543e35440",
+"size": 713
+},
+"Words/μυστικός.md": {
+"sha256": "6df1175fe20b205ad5ad7cae155e5bccd7c949303240bb59020d2b705f4a3562",
+"size": 1155
+},
+"Words/μωβ.md": {
+"sha256": "ba82244ae3c8187d7ba007c326ff7e8548c382597743c1767d270ffb3770a19d",
+"size": 570
+},
+"Words/μωρό.md": {
+"sha256": "752665754a19b703c72cf62ee040716add2b9f815195c7b96e0bc7536e10dbf2",
+"size": 1119
+},
+"Words/μόλις.md": {
+"sha256": "c39ccc4514305bc2161419d2445a1c92306dd62b0a224e0bbb98a311dc12444d",
+"size": 1098
+},
+"Words/μόνο.md": {
+"sha256": "613ae8bc772b56f049018766b67179d47a2a1e58a1f0ede7b93dcb14679e75e2",
+"size": 1607
+},
+"Words/μόνος.md": {
+"sha256": "1ad4009fef4349f79f04fdb5752ec17f16055a7007384d637a5e537e5cf2adb5",
+"size": 1916
+},
+"Words/μύτη.md": {
+"sha256": "414082d02cbecdb8f7d64c56b6414f0d61c994560e545a99e939685f7a6e4873",
+"size": 1061
+},
+"Words/νέος.md": {
+"sha256": "2fb7b03efb3f28b7ce2cbe0b49aa93991dfca707f6eaeaf07a9425d4b73c8512",
+"size": 1659
+},
+"Words/νίκη.md": {
+"sha256": "5ded38b85632cf62e4912da204824abdd5ea0d18189558bf287797a2cfe1900a",
+"size": 976
+},
+"Words/να.md": {
+"sha256": "d85ff1fa6ce0c1b1aa0055e93a1d1fcf198f4e693b3c6dd1ee2db46b1dcc1a98",
+"size": 2159
+},
+"Words/ναι.md": {
+"sha256": "9653aeed878f1006447d319e36ecefbe0653f50627614b211f92cd05210e4caa",
+"size": 2131
+},
+"Words/νεαρός.md": {
+"sha256": "33e66ee937aefb3de8a0003cd12acfbe53795bd8cd28fbdedd5a09b8358fc061",
+"size": 1043
+},
+"Words/νεκρός.md": {
+"sha256": "d02224bbf85e566f83a2d304ad3029a287904fdf40008b1e4cd8c3980e53906c",
+"size": 1002
+},
+"Words/νερό.md": {
+"sha256": "9eda6a3b7dd73b6e1bf7d6b57846cb250ed7d0c535f63f2fd0fbb78eac05e1dd",
+"size": 2571
+},
+"Words/νευρικός.md": {
+"sha256": "decd93bde915938c1e490b212e1722da80e0b1dd5bcf5766c2d1373299b04b49",
+"size": 528
+},
+"Words/νησί.md": {
+"sha256": "66190dbab9d2f4794b04b1a33dff532f62a8a850feb48d5d0109e8c041cb4131",
+"size": 1775
+},
+"Words/νικάω.md": {
+"sha256": "80b0a12825ef7b885fb316972dda3ce28c4ab7deac9b9f9b15d9e2b0b3936556",
+"size": 1232
+},
+"Words/νιώθω.md": {
+"sha256": "5483821db66f414244696fa40d1862d9989ae531fb84ff730def6dee247f017b",
+"size": 1843
+},
+"Words/νοικιάζω.md": {
+"sha256": "82dd4982c07a3db74fffdd80b3b22d6cfcb825c9892d6652d89e3ca6a15e695e",
+"size": 1122
+},
+"Words/νομίζω.md": {
+"sha256": "388d33b64fb693d3e1b17a996a55f231593812d99b73fe77f7c8351c63d09b21",
+"size": 1933
+},
+"Words/νομικός.md": {
+"sha256": "4e5530c989577e833f48b7040d25ffd14939d7478fb9cbba9a19c99ad92eaa79",
+"size": 934
+},
+"Words/νονά.md": {
+"sha256": "b61d0641f80480397176dd11d94ac6ad37669ff99694994fbffa01d4d945deca",
+"size": 779
+},
+"Words/νονός.md": {
+"sha256": "436eadb49f70b2850486c85de8f62cbea91c78fca364e78e32f7137c8c8ebaa5",
+"size": 805
+},
+"Words/νοσοκομείο.md": {
+"sha256": "c547769e21d07cb9cb0f15060ceaf20ad5fd52bbaee028ed3cf8ead3a4573cee",
+"size": 1389
+},
+"Words/νούμερο.md": {
+"sha256": "819c68d82863ccddc1d32ece5bf63e5488b69dae926c1819b565875fb8ab706d",
+"size": 933
+},
+"Words/ντομάτα.md": {
+"sha256": "f35a9642e85e21d257cded5c882616ed721bf33e3f286d43376ab04a74e0d6c6",
+"size": 1160
+},
+"Words/ντροπή.md": {
+"sha256": "5d8eebd1d6a5ab1a1409815b59118f0c8a0811a4fc23755af7b57dcefd2bab9f",
+"size": 835
+},
+"Words/ντύνομαι.md": {
+"sha256": "471fd267b1963a180a32650d3a14562631f22ebcd6add105d52591a2419b62e5",
+"size": 1003
+},
+"Words/νωρίς.md": {
+"sha256": "02d42161e61ce18cd1200a0d5752c91750dd7ae2ce0e29e51296378ff6aa5908",
+"size": 1845
+},
+"Words/νόημα.md": {
+"sha256": "1b2de7fa81bfe8d4e703c445a9e9ddca14a6999b8caa000712fd2135241c8e1c",
+"size": 1420
+},
+"Words/νόμιμος.md": {
+"sha256": "23936b09361cb00c29d9513e30e601f6e56be302843ca97c12321ce9da378140",
+"size": 1072
+},
+"Words/νόμος.md": {
+"sha256": "1b1afa5f97558d3e02c87e84a0d371f2e99429e009c0b8cc993c06da628b3a22",
+"size": 1062
+},
+"Words/νότιος.md": {
+"sha256": "f3864c92edc3a5a020d6e0a93da7cbf3d6653b56867507047c6874ce11ab9b4a",
+"size": 1190
+},
+"Words/νύχτα.md": {
+"sha256": "609ce0ecce17dcbc2f3e201bd7e5b3617046572b9f2ebd81d31df18f0d8330cc",
+"size": 1537
+},
+"Words/ξάδερφος.md": {
+"sha256": "57cdd8b48f4aaaaa515a713716d255a2af83333a17a7cbff16c44b90c558f1f2",
+"size": 838
+},
+"Words/ξένος.md": {
+"sha256": "45686e9d2dc24e5672effe750e9b58de354b4ca8ac8949cdcb9e6d93743bb5fc",
+"size": 1682
+},
+"Words/ξέρω.md": {
+"sha256": "3b33e1aedcada7fca7887f2e3745c29b6a63221271dee885de73be9eefc8c57e",
+"size": 3066
+},
+"Words/ξαδέρφη.md": {
+"sha256": "9f2528605512b351f722deee84bc9222f1fe340bee2ee381f00f8b4369a9a93c",
+"size": 710
+},
+"Words/ξανά.md": {
+"sha256": "fda2349dcf313829f06501a4bd04bb8458a14183a1a21c234e98993831fd23dc",
+"size": 1501
+},
+"Words/ξαφνικά.md": {
+"sha256": "8a1c943127594cfb9df551101eb58587d0c9bf58076f2eb6555a707d2273be36",
+"size": 997
+},
+"Words/ξεκάθαρος.md": {
+"sha256": "6380f9a45bde97f194bace8f504e3e97f60cad738ae401476c66d7a5afcf8e66",
+"size": 1308
+},
+"Words/ξεκινάω.md": {
+"sha256": "b78019a3ab5f80d21f20fe7e3e16cacb08956f5499dece0ca4e6a2c834863ed3",
+"size": 1524
+},
+"Words/ξενοδοχείο.md": {
+"sha256": "1fcd66f66bc466ee88141df4bd0e7ab88d54aaf9e708584f18c7c47ab543e8be",
+"size": 1892
+},
+"Words/ξεφεύγω.md": {
+"sha256": "c16d941647fd0b8c341065b80f8bbaf93f8de1301f12f841bb4e0679bfdb4886",
+"size": 1143
+},
+"Words/ξεχνάω.md": {
+"sha256": "a4bfaf767643814521eca5cb0e61b52ee81a2926e1b87cdf638496944bb3b506",
+"size": 1553
+},
+"Words/ξεχωριστός.md": {
+"sha256": "af89a2e02c13b675cc588d2c3bb699048ed0c17b5c1abc129213291838a01db7",
+"size": 923
+},
+"Words/ξυπνάω.md": {
+"sha256": "8bdb9f8e5471b134bf61328c1d5a73be166a96bb8d75c08fe63ea928edfb776a",
+"size": 1282
+},
+"Words/ξύλο.md": {
+"sha256": "ff3066f012be2b47c711e15259441d65c20678de433c8546f8dbf3cdbf7032b1",
+"size": 1086
+},
+"Words/ο, η, το.md": {
+"sha256": "d0a0ae1a60469674e1de7323ef13d7808dfe3d2287f1151ea8fac8f0587c9308",
+"size": 2793
+},
+"Words/οδηγία.md": {
+"sha256": "9b78a73f37bbe80ac0d521afe61a30463d2acaa1badccae1e6412bf8b54bb23e",
+"size": 1041
+},
+"Words/οδηγός.md": {
+"sha256": "ac2abce86783b129541f8992a67dea2249569b4c3a308d4be999b09f81e0be94",
+"size": 1225
+},
+"Words/οδηγώ.md": {
+"sha256": "bc83b28f068cd4a79f813f752952e3c3f3440b195befb03e4bef6f3f6c77e872",
+"size": 1786
+},
+"Words/οδός.md": {
+"sha256": "e8887a3be397fae43b9aba1744972cb94d3837ad14ef390a2576d5c0b701ea02",
+"size": 1248
+},
+"Words/οικογένεια.md": {
+"sha256": "b47bf9b9776700d7395199b8a7de6c9380bbd04114a42dcaaddc76d87a46921a",
+"size": 2638
+},
+"Words/οικογενειακός.md": {
+"sha256": "8e1d776127474a798dd0a2d24ca6192a127462086c6fe41033a08d17d687a675",
+"size": 1334
+},
+"Words/οικονομία.md": {
+"sha256": "571522044d099268cb70402646a69cf8efeeea2dfc519244a2e3e94557301591",
+"size": 1185
+},
+"Words/οικονομικός.md": {
+"sha256": "7c659c430ba74429dc888869b83345f14e1502d98ad89d8e8838a1775f93391b",
+"size": 1055
+},
+"Words/οκτώ.md": {
+"sha256": "0e9d8506565a70caa620074189163b599866e6bc971cfd6f56dcb12d92ca23a3",
+"size": 1411
+},
+"Words/ολοκληρώνω.md": {
+"sha256": "ff6e9cf31afb2ef7d9a6cd25fba062b65c6463fc3491844250b15d46d13b8903",
+"size": 1535
+},
+"Words/ολόκληρος.md": {
+"sha256": "6dccf366ab2b24c6a8f6139ef7ee9d5a0c965ee02813e0189f1f07adbaeafb9d",
+"size": 1414
+},
+"Words/ομάδα.md": {
+"sha256": "512d206e2b4b96fddfcd869260c517d33311882c971bb4a5cd7c5c1046946022",
+"size": 1573
+},
+"Words/ομορφιά.md": {
+"sha256": "1f579d5c2635fb19f76de0e80a1f9f3a4bfaebbfd6a816add0fec5cc9f337403",
+"size": 892
+},
+"Words/ονομάζω.md": {
+"sha256": "ef6653ae6c85ded9d06d9c8c7639130927e77be07ddeb960b5d27a043b68e4ff",
+"size": 1494
+},
+"Words/οποίος.md": {
+"sha256": "cb567ccfab6b78ad7a2a0750a3e426bba35c004aae598f36e99c6cca094beeaf",
+"size": 1560
+},
+"Words/οποιοσδήποτε.md": {
+"sha256": "4380a60242de9b0da9ea94a2855b024001e09c5bfd89124258667c70a30d8fac",
+"size": 1592
+},
+"Words/οπότε.md": {
+"sha256": "6a93bcf9c0c8c4c19b07e5d62929a84cc8c9c3b5f3d8b811faa164b803ffef8e",
+"size": 695
+},
+"Words/ορίστε.md": {
+"sha256": "5195c7cf5cc0bc9428a5356f24faa71e39f049b4001cffa585660656bb010d98",
+"size": 615
+},
+"Words/ορκίζομαι.md": {
+"sha256": "3c9fc447e770d09e5370e90396e7e1b1eb73985eff1a1141990b6419ba3941f9",
+"size": 1053
+},
+"Words/οτιδήποτε.md": {
+"sha256": "4ebe208733ee8b2d0454e1e6b8747f27a40b0ba8944bc9f76352d8a8d31e5ac7",
+"size": 725
+},
+"Words/ουρά.md": {
+"sha256": "d9b03bc20ab90ed076388a9f907173dcf81a1f85f8c10b2f8edbf7cb6ac90a35",
+"size": 845
+},
+"Words/ουρανός.md": {
+"sha256": "994193b1115711982d35a6ab1872786af9bcb602bba7cfca96579e7b4c796923",
+"size": 1200
+},
+"Words/ουσία.md": {
+"sha256": "9f5901bb3c18b8f8eec98d3e399d5967f9b3618877c17c5b2159e0d6e631fc6d",
+"size": 1067
+},
+"Words/ουσιαστικό.md": {
+"sha256": "1d4c7ba8f0b9b978369525696db33807e406a7460b28758ae083670167c30740",
+"size": 906
+},
+"Words/οφείλω.md": {
+"sha256": "fa271df04dcebb74642f25d6d049cf4576d0bc92124498a28fc196de308f2003",
+"size": 1290
+},
+"Words/ούτε.md": {
+"sha256": "8e10913ee7810ca413097775b9121703a20f319d97d7d50f698b841039227616",
+"size": 1045
+},
+"Words/πάγος.md": {
+"sha256": "9870741866720f92a7e9d60316cd343ca70574a7b31b218d6f8558d6329afb2e",
+"size": 652
+},
+"Words/πάθος.md": {
+"sha256": "7d707b856db5ea3507c3e0e8f32f9f10f191195503153479d64fa5104d121bd5",
+"size": 904
+},
+"Words/πάλι.md": {
+"sha256": "e1385f4e5dafb30423cb802c52ad1a826c173319fa7d4d3d078b51bfd3aaabfb",
+"size": 1338
+},
+"Words/πάμε.md": {
+"sha256": "61d1d30439c9eacb724b7418b65713eba8dd7c872baa81685842758dfc8b72da",
+"size": 1862
+},
+"Words/πάντα.md": {
+"sha256": "ac904f5c86d9d2d83edc272ec5e16d28ad72ba5d89bae5f48c3fed56d08771f4",
+"size": 2085
+},
+"Words/πάντως.md": {
+"sha256": "d549472de3528fd62bf07cfb0fceefe3455197d2a099e979fa3c14cd225c785c",
+"size": 795
+},
+"Words/πάνω.md": {
+"sha256": "3a3c705adc6328ce15c2189a4f305978ec222635cf03e6d65ef61bd7d12c9684",
+"size": 1578
+},
+"Words/πάρα πολύ.md": {
+"sha256": "c84efce7649c914690c8b567d363d791af16aa63626f80ed5d668cbba4caba94",
+"size": 1018
+},
+"Words/πάρκο.md": {
+"sha256": "f0c0424d49fe242abd43cff18ebe0c4c4d0faec31071ad7c881a0c752b12bce2",
+"size": 1785
+},
+"Words/πάρτι.md": {
+"sha256": "c72c88ffb1362007eef270f0ab1b9f1653da72381df1e11053c859ccd183e132",
+"size": 1708
+},
+"Words/πάτωμα.md": {
+"sha256": "3580b70185ebab630751771c5f96ba329af3d410d68b5e4fe1145715b8693488",
+"size": 989
+},
+"Words/πάω.md": {
+"sha256": "4cd307b150fa45c06760d549ac62ff219c573afb74f0f140bff5485692f73d36",
+"size": 3967
+},
+"Words/πέμπτος.md": {
+"sha256": "d2b12de8b4100871b9b45c34fb6f7640a8606d63433b5e8b348da08551e5484b",
+"size": 860
+},
+"Words/πέντε.md": {
+"sha256": "63087c9fe067f5f1603673f65ccc0329397948db548f834d3167a688dd0ac1ab",
+"size": 1111
+},
+"Words/πέρα.md": {
+"sha256": "8682e0fd7b59c69793b7458d803dc21fa839c37fddce1aa06832753ab1d37a80",
+"size": 1246
+},
+"Words/πέτρα.md": {
+"sha256": "e22e84cc2ebdae7f39294dd417ea12d3bdfe5a1023ce576afc411b37d6c54888",
+"size": 923
+},
+"Words/πέφτω.md": {
+"sha256": "b730d7e2e9e70bf632d7f32ea0cbd5a4302e5108f7a6592feef27803f19aef24",
+"size": 1601
+},
+"Words/πίεση.md": {
+"sha256": "a5cd62b505379b69af8ed4d5924c91f0c2f04d0fffc8802548638db863fdecc1",
+"size": 1085
+},
+"Words/πίνακας.md": {
+"sha256": "54efaa2783e27011ddc80d50201422cb1aa06308ef4d7a70dc515daf1b9d53c0",
+"size": 1116
+},
+"Words/πίνω.md": {
+"sha256": "fa8c0dbde47c5163ac1b9a7b29354551d0be8bb5b1ee0bc38e60cd7706195083",
+"size": 3053
+},
+"Words/πίστη.md": {
+"sha256": "2a5c0dacb9ed43055209339968b6ed8b89b26a9dce37e9a695a7abc12f7fac31",
+"size": 944
+},
+"Words/πίσω.md": {
+"sha256": "d615809ccd7f9609a43037f5d5a919b773f6fae3dcd5911a58af61721e660aa2",
+"size": 1640
+},
+"Words/πίτσα.md": {
+"sha256": "6e898de2f159d3cfab57ca89c527462f834251cdb64fb78412bb015fdbebc267",
+"size": 961
+},
+"Words/παίζω.md": {
+"sha256": "841fac2ece5e870e42d2b6b538e58a4725dec0646862c96ce53d19cbfd509aad",
+"size": 1996
+},
+"Words/παίκτης.md": {
+"sha256": "373b978d8864a28c2096223ec9fae42185c8b99bb9963c86acf34df85f13b33d",
+"size": 1321
+},
+"Words/παίρνω.md": {
+"sha256": "09f0bd3f0b49ff654b26be36cb47662ba0eeab41d5d4504ad8ed4399f774e495",
+"size": 2013
+},
+"Words/παθαίνω.md": {
+"sha256": "ac887352fc31a6b184f99cb6a6a08394f2601999b50d22156f335cfb72678c21",
+"size": 1199
+},
+"Words/παιδί.md": {
+"sha256": "f4e5955d231852a8c467515244d8369cde36f4323a2ed98d97137c67ba7c16ee",
+"size": 2680
+},
+"Words/παιδικός.md": {
+"sha256": "185c7394a271966e228399c55d7ccdbbff1401ba48c4286f2ed69a145e5c9c27",
+"size": 1476
+},
+"Words/παιχνίδι.md": {
+"sha256": "9255a828530c3dd75e8b64dbbd992fd587b792afe6d2955f5a5ab63dfbb8a9d4",
+"size": 1536
+},
+"Words/πακέτο.md": {
+"sha256": "45af2c6aaa56239a0a353ac301a44c779c4acd357349bd882da26c6e127398b7",
+"size": 1137
+},
+"Words/παλιός.md": {
+"sha256": "c38b9c6c0c534506191831cf7f403048d38fbe5936a9714d2e7c9dcf0bf95bf8",
+"size": 1883
+},
+"Words/παλτό.md": {
+"sha256": "36a0abc6dcf0b88f798f8de5fc106b28bbde77d64ffbb953fcf7e47258923e82",
+"size": 852
+},
+"Words/πανεπιστήμιο.md": {
+"sha256": "f31e71d5bee5eb4d41801441cbc7a5138fb5164088bf058b94b6e3effa3bbe8c",
+"size": 1427
+},
+"Words/πανηγύρι.md": {
+"sha256": "6c663522224edca238a486c87e85af19b0bca3b5cfa544d099670ffb86cf3eb5",
+"size": 799
+},
+"Words/παντελόνι.md": {
+"sha256": "d284f1c910e542e6912cf243692fa56e2c48b941e2f73e3fdf59d709beed7265",
+"size": 864
+},
+"Words/παντού.md": {
+"sha256": "74f904649ad329ade4ec78eccab4038b5abab12e22adba41b814017f87cd4902",
+"size": 1106
+},
+"Words/παντρεμένος.md": {
+"sha256": "eb99163c66e4f2a7b3f45bb8cc26621ff5922722366d3a171fa72934a06e70fc",
+"size": 1380
+},
+"Words/παντρεύομαι.md": {
+"sha256": "5eb91aeab03f130621314b81fc9e0867f45d46812d255fbc952609c6ac48e6fd",
+"size": 1174
+},
+"Words/παπούτσι.md": {
+"sha256": "0882179bccb99d55ecea2934897cd33dfcca987d1b35cc0aea2dc244fb4ddd06",
+"size": 1477
+},
+"Words/παππούς.md": {
+"sha256": "e7d0f6ce6ffe84f09901df727ae2370ed1e20f12f5539112aa1283d3f20dd675",
+"size": 862
+},
+"Words/παρά.md": {
+"sha256": "d701b41896e69811019de98f0844e9211ac7eb737577d1ea441163c69656e8b7",
+"size": 1279
+},
+"Words/παράδειγμα.md": {
+"sha256": "4e0619ccae48a8db767d70c35b4e4146ed960738577ea23e83d6a198ab9e0e54",
+"size": 1317
+},
+"Words/παράδεισος.md": {
+"sha256": "ff0a996b1a7ffdd64f850b950f6610ea68694833d104599a3c3f0171c6a06678",
+"size": 884
+},
+"Words/παράδοση.md": {
+"sha256": "078a14e0e871aa3a5cc53b3239072eeef49e57aa6bea03ebd5860dc5cb59ecf5",
+"size": 1043
+},
+"Words/παράθυρο.md": {
+"sha256": "0098bc01294c68696f0aba20c35db97ebc37993baf882bef4a091b7adab181e4",
+"size": 1619
+},
+"Words/παράνομος.md": {
+"sha256": "b2d51d0f28ed86e0aec87769f0a88a2f0f03126b9324ea201587f77fa9f6f9e7",
+"size": 1194
+},
+"Words/παράξενος.md": {
+"sha256": "ea6a3edd2907d5fe9bb54cb69a038838ddd4619a71de6a64f6f0d95462082749",
+"size": 947
+},
+"Words/παράσταση.md": {
+"sha256": "cf8721a4a974b221f421efe13e40a9db1ad9dd48773ceea39a15f4b4e6108c55",
+"size": 1010
+},
+"Words/παρέα.md": {
+"sha256": "b6e7183c2ae105c80d1012a16f45e266197e6367172f4fdab6a2831286a96769",
+"size": 1211
+},
+"Words/παρακαλώ.md": {
+"sha256": "933ead67f0f5a898bf87fbdd523b7d48b8c9f42579a485253da14a18854cd70e",
+"size": 2070
+},
+"Words/παρακολουθώ.md": {
+"sha256": "d1bdf488f2aa1420484a35bb5442120fff3a86b52d2ce1299e18b07aef835405",
+"size": 1787
+},
+"Words/παραλία.md": {
+"sha256": "2bd048124bc6ccfc065ed53106e511af14e8a0a4eac3e99349947108489b1b02",
+"size": 1386
+},
+"Words/παραλίγο.md": {
+"sha256": "c5b58e5d09daf4bfb9148208b487fb6fe222a0d9694d0df45979adb11358930f",
+"size": 568
+},
+"Words/παραμένω.md": {
+"sha256": "72852edb2ba2ef1d32042086b9fb4ea5273ada023d024b0f3975fa415363a708",
+"size": 1445
+},
+"Words/παραπάνω.md": {
+"sha256": "cbc295344c66765ac195a2f2129a94c196f0f08d28f7cfc2ec8099e756358d5b",
+"size": 1030
+},
+"Words/παρελθόν.md": {
+"sha256": "6b40f371f8576f6c4079d19a76a1dfd7efb010281017655ab9a7eeb995c0c3fc",
+"size": 1210
+},
+"Words/παρεμπιπτόντως.md": {
+"sha256": "c3a7e43fb9f2aeb819c616a468d279457ad7a1a0e39205b4be46852c26d0ec15",
+"size": 573
+},
+"Words/παρεξήγηση.md": {
+"sha256": "d0c490f80f62fc51ddf9e6b0855d2b78c4f5b63396ca4a1fbcbac88933ce7b7c",
+"size": 884
+},
+"Words/παρουσία.md": {
+"sha256": "55a10e0f4f4950e5beedcf803fddc849ea8949004fa54776d3ae9b4166f4c3e1",
+"size": 1074
+},
+"Words/παρουσιάζω.md": {
+"sha256": "1961aec16433b19f6751c024f406d145ecf0be5618657c8fed98bf08a7949bf8",
+"size": 1678
+},
+"Words/παρόλο που.md": {
+"sha256": "9c5397b3755bac4c9f0c3824efb458cef564032c1e5cd900f1fb986eca455bd3",
+"size": 626
+},
+"Words/παρόμοιος.md": {
+"sha256": "7f6e0643b12bf44ec3b2f69e3b855a17485f98769e8057e39e3568edc6522beb",
+"size": 1282
+},
+"Words/παρόν.md": {
+"sha256": "b2673cecf5831aab97ab45968689e51683de472e801de0414e7a630b90e38c6d",
+"size": 1171
+},
+"Words/πατάτα.md": {
+"sha256": "efd1feed703cf37dc546536564d3d47409864d978d3b3c1bc237f9582ed32cc6",
+"size": 817
+},
+"Words/πατέρας.md": {
+"sha256": "e0c8b4585ad5e888e7b557744c9026a158001fb17629f3b437730241f7a22151",
+"size": 1612
+},
+"Words/πατρίδα.md": {
+"sha256": "de72d054e44cb49672b02d05be8b885e4387559f436d1bba2b426c51cc778063",
+"size": 1268
+},
+"Words/πεδίο.md": {
+"sha256": "52be530b33db33d81e7fc64fbbcce870a93ec2c18a9f81f1869870d29f478056",
+"size": 1096
+},
+"Words/πεθαίνω.md": {
+"sha256": "2cc373d78142d8725f7e8c6b65107a3231e78b3a4e51e0cc4cb42280e1b5b6c0",
+"size": 1483
+},
+"Words/πεινάω.md": {
+"sha256": "2607177181a17dea9811ad305459e3b11c13bf4732b57f1180908b3cafd33beb",
+"size": 1254
+},
+"Words/πειράζει.md": {
+"sha256": "5eb6a50827dbdf34b800206f6eab9fcfeaa8d11038ac85e2e09f9793d3b5a581",
+"size": 1196
+},
+"Words/πελάτης.md": {
+"sha256": "820c3f6570471f3611760865b3a8412cdc01de3e263db61ae20b116409722870",
+"size": 1190
+},
+"Words/πενήντα.md": {
+"sha256": "16981e1d1d3a46eefd56010b470bad54c34a8afa68fc605f21a471d554739007",
+"size": 687
+},
+"Words/περήφανος.md": {
+"sha256": "5e4843ead1d4640a427bd4524eea74084ae384e1a5f339f91b9dd7a091999408",
+"size": 1536
+},
+"Words/περίεργος.md": {
+"sha256": "d72c4165c0bebb46d4114a32b2af0ce7c4a42779153abf3530ac52a027b9052b",
+"size": 1084
+},
+"Words/περίοδος.md": {
+"sha256": "6e186d339465f488a4f8e43fac2f9a08751cbcc2e8cce6c05167ae0a9421a2be",
+"size": 1134
+},
+"Words/περίπου.md": {
+"sha256": "cb2ff625848b269af5af1d329447b579fd0ed0fa2a6e1752838da9df0daa376c",
+"size": 1237
+},
+"Words/περίπτωση.md": {
+"sha256": "6bb8d8a47eb9218eb37e73c035fd5a6c8373da9bc7169e9ca1827060888f42c1",
+"size": 1248
+},
+"Words/περασμένος.md": {
+"sha256": "4f38169f635fe0ee67a5bbe4976531b8145b72820af384d92b235e1ead772965",
+"size": 1618
+},
+"Words/περιμένω.md": {
+"sha256": "1cb76209a7cb9c3270ba27dbce246384705dffe4223103b863f40ce97d137544",
+"size": 2100
+},
+"Words/περιουσία.md": {
+"sha256": "d2c4696cc306849f492c35f5de5b3e22838662ced6801d123935780e99253222",
+"size": 1079
+},
+"Words/περιοχή.md": {
+"sha256": "09e1caca78c9a7dc085edb0340b18bc9683919689692f677080221717ada80cd",
+"size": 1196
+},
+"Words/περνάω.md": {
+"sha256": "a02da02ddc3d28b7c1644f69217dbf96e35927f05d2a4274bfac6f0dc5873dde",
+"size": 1745
+},
+"Words/περπατάω.md": {
+"sha256": "cb95e0fa5a2061fdb3a6f5eac50ec4c785bc4f652fb0509a7a265fc9d375ff79",
+"size": 1425
+},
+"Words/πετάω.md": {
+"sha256": "4ed53b351018b9c66118801029371664dd356acb5db60873e4e37b5823772d5f",
+"size": 1234
+},
+"Words/πετυχαίνω.md": {
+"sha256": "f4c8776aeabdba9665180c8b051c69c637dc714974c8485354828769ec578bcc",
+"size": 1443
+},
+"Words/πηγή.md": {
+"sha256": "cf15e6814b1880475b43aff8c44b78d5ea91cb28b0aa3b86146732d97d8cc9c9",
+"size": 1196
+},
+"Words/πηγαίνω.md": {
+"sha256": "da42ab9020c90b6ab539b685d5e8dc3a9860834b396af0fbf4f911974f0263ac",
+"size": 2007
+},
+"Words/πιάνω.md": {
+"sha256": "becacc91d338419e60c33177e88c31c1d0ae1a9e7c71319bb9da83a19e2bb766",
+"size": 1684
+},
+"Words/πιάτο.md": {
+"sha256": "76f9ca8d13b06c62fcdfa94c10185c3fb131ee8821b8c73623e0220c62b8b7f1",
+"size": 916
+},
+"Words/πια.md": {
+"sha256": "29a2e8edc3bf553ab37cdc9a4cb3dfccf557c19690573175a98723b65bf5dadd",
+"size": 1448
+},
+"Words/πιθανόν.md": {
+"sha256": "e48e015f47f4fbcee463acd21fde9a439ce69bea025829c7655a98d86f593534",
+"size": 870
+},
+"Words/πιθανός.md": {
+"sha256": "b0a86bbe4410538a0adfb6fb77a9c5853333a71734a35298b7c6a01248bb68b8",
+"size": 1042
+},
+"Words/πιθανότητα.md": {
+"sha256": "6b85f25f3427a03cf300be5411d33a29b413b369fba56e3d83687e021859e6b0",
+"size": 1055
+},
+"Words/πιο.md": {
+"sha256": "4f07b99e8be9ae6abca45ff0856e47a6cf3d187ea4eb3e63a80c0a1e2e15e26b",
+"size": 1447
+},
+"Words/πισίνα.md": {
+"sha256": "1b0f19e8bb1da9097d5c1780eae54c3374a30786147c2edb420f52c7d9273cf6",
+"size": 1059
+},
+"Words/πιστεύω.md": {
+"sha256": "8aaaedc712b39401e6c844a1feeff9135228e66150d363a3f28838f6df58425d",
+"size": 2058
+},
+"Words/πιστός.md": {
+"sha256": "09037a0307d72925c69732599e5e7729dbcb3763b407b84aea77c86dd6dff1c5",
+"size": 850
+},
+"Words/πλάκα.md": {
+"sha256": "1a1e73d78ca06a50e9f2fbf495c2e14de29ab7f1e25abffb3829a4cc3aeb7d35",
+"size": 833
+},
+"Words/πλάτη.md": {
+"sha256": "2ed354e737daea874e2a52e5dcc0893b285f11722c05e76f90d1e121ae4d1ffb",
+"size": 1074
+},
+"Words/πλένω.md": {
+"sha256": "5621917dd2fb70ab74bce6764db51bfd987d77a4f8455d4a758659ea33c4d6c5",
+"size": 1580
+},
+"Words/πλέον.md": {
+"sha256": "cf5dbccda12444e5be217bd60eac20ecc6710110112619318ee9a9b728008b31",
+"size": 896
+},
+"Words/πλήρης.md": {
+"sha256": "36c1309b2773bd461d5d8aac583216e5b4163e7efa1e9708ab2c5e614e02716e",
+"size": 1018
+},
+"Words/πλανήτης.md": {
+"sha256": "b6ce0b34b08aa290015eb4bc7aa65dfd1b53244ca7ef081ea96450567107ae7e",
+"size": 1230
+},
+"Words/πλατεία.md": {
+"sha256": "b2b8d9695353c7b9d6be798203582b5a00fbaa8784b79f424e7a5c2fbfb27ff4",
+"size": 1400
+},
+"Words/πλευρά.md": {
+"sha256": "0e94962935255b18e27e1b1536f8c5a7ba62d16f1f64f49b1cc928d85836d71f",
+"size": 1165
+},
+"Words/πληγή.md": {
+"sha256": "3e1693100e0ea9a6c081f5e24df46aa00646c7df209baf0faf564531da3fadb2",
+"size": 870
+},
+"Words/πληροφορία.md": {
+"sha256": "afcb2968bed981debccbc004e8349691b4d41c9f0e6d6e922a5bd0730d59d54d",
+"size": 1382
+},
+"Words/πληρώνω.md": {
+"sha256": "7cb413f0d752ca301329aa86a377b7f8651ae7ae48863de5788f5df2a016c49f",
+"size": 2016
+},
+"Words/πλησιάζω.md": {
+"sha256": "8d7e0ad06a3b8ae931acf9c45893ebbb3f0acde7d919f54c730eed3f1a4b7f69",
+"size": 1355
+},
+"Words/πλοίο.md": {
+"sha256": "0c1cea7abb1c993db8f87fcb6ed4aed75ba67b7ae05132759b41cfc9d8da038b",
+"size": 1046
+},
+"Words/πλούσιος.md": {
+"sha256": "10b228bbc04677563e82037f35c416bd34e8a1ce123df59dd7bd5f6ed858f4a3",
+"size": 1610
+},
+"Words/πνεύμα.md": {
+"sha256": "fb443325776cd8c36be966f7d20c68a466e0ff1719cb068163fb1d35021b0602",
+"size": 868
+},
+"Words/ποδόσφαιρο.md": {
+"sha256": "7c1dc28aa61792a9fc36d8678352248e61a040e778df3c8c123b610b704312f1",
+"size": 1655
+},
+"Words/ποιο.md": {
+"sha256": "5c6d825b9213a926917719b56b5c9d18fa8e2f765ea57d7c158589c89e1f2647",
+"size": 1140
+},
+"Words/ποιος.md": {
+"sha256": "43b94fa1d863da70c55e6da29feda54fe66e3824df5a93c32daef280ee56dd6f",
+"size": 1600
+},
+"Words/πολίτης.md": {
+"sha256": "5ad008be175cee06bbfe7dc99e5a54ad144cab623d533811b8d3a7d4f12b44b6",
+"size": 1138
+},
+"Words/πολεμάω.md": {
+"sha256": "896f8b5fbb572787033bc270f3d46188c6d05d4cd477471c26027c1b78d4a979",
+"size": 1063
+},
+"Words/πολιτική.md": {
+"sha256": "897e39178e30eac1b19200c34d9000861b2a4fed21398e3663cd0c0ee8ac0175",
+"size": 1356
+},
+"Words/πολιτικός.md": {
+"sha256": "18b412786a17211b1c0c51d177b6ab68f3005e1b23a555215f815381784aa250",
+"size": 1322
+},
+"Words/πολιτισμός.md": {
+"sha256": "e0b8a73b90e2a36fdf87f1aed1f7c25224a3f37ec7df9a9aede5367246e4e052",
+"size": 1458
+},
+"Words/πολύ.md": {
+"sha256": "db60e8e93d2ed1b416b3ed275e32ae947c060316bca19b963f9561894be60fe5",
+"size": 2288
+},
+"Words/πολύς.md": {
+"sha256": "57dc80448af84233924eac0d11a5a2e4a0157c63fc3023656d8097560bc9b386",
+"size": 1743
+},
+"Words/πολύτιμος.md": {
+"sha256": "0a8825b6b2d56dac7ee674311e0dda0535a727dbe8074cd069b35f3f0702e415",
+"size": 1111
+},
+"Words/πονάω.md": {
+"sha256": "4c2c94be1eae3efe80322d9637152848d83d15929eb8b405692b1d8ff441c1ef",
+"size": 1810
+},
+"Words/πορεία.md": {
+"sha256": "a1c5d5968d6521b40cb6ceaf57a9b86ad429f0e6d3df147b6386fc722e2de166",
+"size": 1095
+},
+"Words/πορτοκάλι.md": {
+"sha256": "121ac6d831cc4e25589434b018340eff63a325f45da3cd5c96ec7ca5b363cba3",
+"size": 1089
+},
+"Words/πορτοκαλί.md": {
+"sha256": "bc9d949b96e29dba81a3c018713d915beb0317d8738bc45b7a0ad0c1950e9478",
+"size": 700
+},
+"Words/πορτοφόλι.md": {
+"sha256": "a5bee03940933235c2a9edd4bab32e3b9795b36ae3a662d0dda2973a36fc1d10",
+"size": 778
+},
+"Words/ποσό.md": {
+"sha256": "5b41beedeab6434517a5395dbf59852bb74b7a3cb2819b39093032f93ee1ca5c",
+"size": 1021
+},
+"Words/ποτάμι.md": {
+"sha256": "e12f873a4522894260025307c0180e302c940039a00c3ddfdc45b2e7ea4220f5",
+"size": 1674
+},
+"Words/ποτέ.md": {
+"sha256": "d0fbaadbd056892ef64f631b3c060672369a255df9c2d8b842d3b8b07f9aa4d7",
+"size": 1306
+},
+"Words/ποτήρι.md": {
+"sha256": "c46d4591bb77965b5d8ee3035078f298e3572d39be519faa385477bc6666ef2d",
+"size": 1538
+},
+"Words/ποτό.md": {
+"sha256": "f5d4064fe51bd15bfa5952c4e0405bd46a56ead627806b6f1df41a29ed9b77da",
+"size": 890
+},
+"Words/που.md": {
+"sha256": "d140d950c7503f128b18f3c6637af151c1ed481c81242f0d86ac780d5dc02e64",
+"size": 1620
+},
+"Words/πουθενά.md": {
+"sha256": "41a7e02103378c8af3d55625b5539b0f40b8a9ce4496e8221695c632e0e84068",
+"size": 1023
+},
+"Words/πουλάω.md": {
+"sha256": "802d6467001862103d096e0e4138f4768138f9dd46bc2601f743b94b8c539120",
+"size": 1225
+},
+"Words/πουλί.md": {
+"sha256": "0f83471a2ba4e007401fcbf415457364c86c742b0e1d77d573409262d9842ce3",
+"size": 1335
+},
+"Words/πού.md": {
+"sha256": "c11a0158f00cd8a49f626dd6826513b07f7c4a47636c2ecac0c9ab96cdbe07dc",
+"size": 1766
+},
+"Words/πράγμα.md": {
+"sha256": "5b49957a6697710e2e4b83c77921ed7c8d26fd615ff1203b237a8c873f675838",
+"size": 1487
+},
+"Words/πράγματι.md": {
+"sha256": "c1e5db64abb1867eb61aebf14e63f927342f86dd015b15a3f2b8a6fae4b843ad",
+"size": 845
+},
+"Words/πράξη.md": {
+"sha256": "9fd96e2ed97543869b6d7418376ac7e983dd045692fda9bf92368ff755a2fa0e",
+"size": 1164
+},
+"Words/πράσινος.md": {
+"sha256": "76c37e6f68f8ec0aa17f083bd57865e2e43b8885bda9397d09ebc781b1035293",
+"size": 1126
+},
+"Words/πρέπει.md": {
+"sha256": "60b083df0ff360c9752ccaaa073d10d973b412ad376104ae2c846855244420aa",
+"size": 1492
+},
+"Words/πρίγκιπας.md": {
+"sha256": "8260c3efa34ca261020367a5c12fddfcdd854c5175847cbc513128787b80f3fd",
+"size": 894
+},
+"Words/πραγματικά.md": {
+"sha256": "2210e5f8adb472836a0bfba625b06c6eb484e66a416dfbdc1d7d0f747a618603",
+"size": 2136
+},
+"Words/πραγματικός.md": {
+"sha256": "acdadf22374eb9654d2c0897de18e25a6b2cf3d1ed1c1bed697bcd964fcdfeac",
+"size": 987
+},
+"Words/πραγματικότητα.md": {
+"sha256": "489518252008f8eb704b1a00f0a067c5e880c166193ae347779a86b8e0e1695a",
+"size": 1359
+},
+"Words/πριγκίπισσα.md": {
+"sha256": "41ab4b9d296baf38b8d6a18d373faef02b49af1ad652bcce647bb4d14b73c0b4",
+"size": 825
+},
+"Words/πριν.md": {
+"sha256": "bae6ed440fef8a9bee161941f7497e805b8ca2da7150c5c41f632cd5ac8fa6c1",
+"size": 1259
+},
+"Words/προέρχομαι.md": {
+"sha256": "191656974c4f5a11bf2ec917c527d3b8c914714ae4fb3ff8c3ef835cfe704e60",
+"size": 1529
+},
+"Words/προηγούμενος.md": {
+"sha256": "24fad818e5000c4d2d96a2c3329102b87c01ca1644f8f25f525f7b2b7ad167a0",
+"size": 1358
+},
+"Words/προκαλώ.md": {
+"sha256": "ac0c01230d198a41da3f8a67323fbd77ba70a7be795bbcf5827f218c45235ec1",
+"size": 1605
+},
+"Words/προπονητής.md": {
+"sha256": "9336c06ffbb9ada70d1ddf75d9aef48021689b2375d3c25f3a99019078886bf1",
+"size": 1080
+},
+"Words/προς.md": {
+"sha256": "b9da0b474f5a5d6519ead067840190d127131f110001e1848a288c590ec25619",
+"size": 1520
+},
+"Words/προσέχω.md": {
+"sha256": "06cf7463d631d8bcd6a590869fe359a2543dcb62f1ced2962419c3ee4bff4c6d",
+"size": 1455
+},
+"Words/προσεκτικά.md": {
+"sha256": "bba642746dacb8828b48843b10a0187f006bddd9118f4868e1c3b6ff9492329f",
+"size": 1568
+},
+"Words/προσοχή.md": {
+"sha256": "7ab23208e9e514782e0d03bf1b4f371ca8d93506bb7f855245df5098305dd5d4",
+"size": 1053
+},
+"Words/προσπάθεια.md": {
+"sha256": "33ec728a0ace5bb62070898fc09b053e0ea5a6612a9536faed2f7fd1b3cc9b87",
+"size": 1189
+},
+"Words/προσπαθώ.md": {
+"sha256": "ec989f06af889b0ab036ae797e861f4496e5c634371b88c47bd3b19be4e0d889",
+"size": 1854
+},
+"Words/προστασία.md": {
+"sha256": "6e01f5949eabc849bfe6748643b79a3627582daf652c9cbfb58cc8fcb32f1288",
+"size": 1173
+},
+"Words/προστατεύω.md": {
+"sha256": "4e642644b5aa3bb6e7d69a1fa71b39267a86ce9562ff45f0bbb7161f171b8c19",
+"size": 1513
+},
+"Words/προσφέρω.md": {
+"sha256": "1fd6393d09fb719e6502db2b35cbe8070d98c88ddfbc5a7687cce86d3c098e30",
+"size": 1489
+},
+"Words/προσφορά.md": {
+"sha256": "01fb518e64e329744c1aaef4974a29ce6410c5354173e926406124c321827a5a",
+"size": 1166
+},
+"Words/προσωπικό.md": {
+"sha256": "d8cae1f35901ff6dd6cd94d242fb08f3c727436b50369b9db2f12dcad0531bac",
+"size": 1217
+},
+"Words/προσωπικός.md": {
+"sha256": "e327930c95a586c7c47eae5d766a39ddb5a42bf2a6f8b5cf6e76cdbbaebe30da",
+"size": 1001
+},
+"Words/προτείνω.md": {
+"sha256": "01338d0b6d965dc38c81b18c706eb7138c928610e360552c65a51d3de4257d8c",
+"size": 1742
+},
+"Words/προτιμώ.md": {
+"sha256": "462c561dcaf474ea9ed696c02d362e3b4a7eab92345161021fd113d419354ebc",
+"size": 1497
+},
+"Words/προτού.md": {
+"sha256": "819a1310e00a2c6e5420b764b6d50dad91d55391ad2b5c0f08bb92a6c1d7b4f3",
+"size": 680
+},
+"Words/προφέρω.md": {
+"sha256": "f9c5ad865140b5ed1f36792c91b3933593fcdb49fc97c81aaa35c2dfd7136d1e",
+"size": 1081
+},
+"Words/προφανώς.md": {
+"sha256": "9f046f21614824b59a9642dfb29f936140357d090c81e6beafa59d9797643040",
+"size": 770
+},
+"Words/προφορά.md": {
+"sha256": "081914e4c2a406850612dd50fec62054b93fd03fbe7ea111a739ba457ff7f61b",
+"size": 766
+},
+"Words/προχωράω.md": {
+"sha256": "3e6590556ebc743274fdf1d65672265f762c3bfeb86267c413142ca9d91f348f",
+"size": 1514
+},
+"Words/πρωί.md": {
+"sha256": "29d76d7923a18faa754b54267aa03c7f5d751cf7dfdd394e56b7a3b7bbe267d3",
+"size": 1830
+},
+"Words/πρωινό.md": {
+"sha256": "f90290c641c32bd7ddd5b328e7c3cf442636a85a9868355e0188a04c2e100ca9",
+"size": 1337
+},
+"Words/πρόβλημα.md": {
+"sha256": "09437ec9be18be9a4ba3782b40ed91fd936a67946277cf0b423b25d4685c81c7",
+"size": 2232
+},
+"Words/πρόγραμμα.md": {
+"sha256": "f42561490fbdce3e3439d87f434a5d727b214884226b58e6791e9554d9544fcf",
+"size": 1328
+},
+"Words/πρόεδρος.md": {
+"sha256": "04a72e24e79b7b523acaacf1106c50df902729c6dc978b9531b6504cb014a927",
+"size": 1135
+},
+"Words/πρόκειται.md": {
+"sha256": "6a0f03a9743425e102d3334482cb9e38ddb33198373b65e4821133e4cf058d71",
+"size": 1294
+},
+"Words/πρόσβαση.md": {
+"sha256": "30fa839584e1642d04c5d9552d361723ba8d8a39230b194f4342161ffaeb5d83",
+"size": 1073
+},
+"Words/πρόσφατα.md": {
+"sha256": "2ab085186b149abd698f0674e7fcba970f3813e9414df3a9991fb5fb22def5c4",
+"size": 858
+},
+"Words/πρόσωπο.md": {
+"sha256": "47d857b11efdfe4a0d039b50fbcc56efecf47af31c37771ee6d2c6c061a668a7",
+"size": 1525
+},
+"Words/πρόταση.md": {
+"sha256": "07b6e5447e15a553648386f59659a29eda55a2874a43be535ac07b096ace0d4b",
+"size": 1504
+},
+"Words/πρώην.md": {
+"sha256": "6c00a7a45094f77e353c2b7ca530a6dee877228c8289313670c23ffce72cd232",
+"size": 1089
+},
+"Words/πρώτα.md": {
+"sha256": "ba54d0933ff05bc2bda34f31030cfd6c8df6430a9c3f6e11a54638d459e6e706",
+"size": 1532
+},
+"Words/πρώτος.md": {
+"sha256": "411a6118725df8838020bdf24aeff5b7fbc381f8e36b3f74dd654b94b0ff3f1a",
+"size": 1674
+},
+"Words/πτήση.md": {
+"sha256": "53f82eaf1b2f1d1ae475e8e00f1b3ca99bc63fcdcf67b6b52cc224e964d08822",
+"size": 984
+},
+"Words/πως.md": {
+"sha256": "e8547679e0fd35ca60f5deebe5944e47643c15682e6b4eaea61557979a866a59",
+"size": 1042
+},
+"Words/πόδι.md": {
+"sha256": "0368f0c7fda29ac4a241ac27f285641a810a1fd2e0d9ed0e2b4715ebd822f162",
+"size": 1554
+},
+"Words/πόλεμος.md": {
+"sha256": "7cec4f12d742702dcc68033b904385ed730438a1249afcc37c9f5cbb2c28b3f6",
+"size": 1461
+},
+"Words/πόλη.md": {
+"sha256": "e8597741e770eaeb3a0ac5f48e91f47e187ce2cc7b14cc5de55f8451760b850e",
+"size": 1791
+},
+"Words/πόνος.md": {
+"sha256": "fd588b7aaec207e63872e89e4ddce2355f359193bcdb574bd320cb33e8999a17",
+"size": 1198
+},
+"Words/πόρτα.md": {
+"sha256": "3fcbb1439768d171bfbeaf9eecc5e86c69956157775e58f52e5a54d6a0e3a932",
+"size": 1834
+},
+"Words/πόσο.md": {
+"sha256": "4a1278fb9a98d513a75a55eb9389c653f3194474f1d57a15f0d65c115308f8e7",
+"size": 1695
+},
+"Words/πόσος.md": {
+"sha256": "0a81db9f8df301e236b1b7274571c7ce3e66a0786e27842f42fe65bee245d6a9",
+"size": 1269
+},
+"Words/πότε.md": {
+"sha256": "36b316267e7c8af4e755a8893db1c462fe2690c1c2e8ae4a18f18f684b454962",
+"size": 1438
+},
+"Words/πύλη.md": {
+"sha256": "ef189e78ad28af18c70f6f0e3670dc2fab80c4c6b7ca37729b061da746731680",
+"size": 698
+},
+"Words/πύργος.md": {
+"sha256": "eeed2abf756894b75e9f5335c2cd10f5ec16041b3a6e13de68f69b91f22b1a8e",
+"size": 680
+},
+"Words/πώς.md": {
+"sha256": "369dad43b1bd942a4b00d6abd6a809a05e75a5d0780687b746c3f085d8d29b43",
+"size": 1341
+},
+"Words/ρήμα.md": {
+"sha256": "88ef203106dab8fa31c00e385818e0e24727918fba5778674c774c0dd67fb904",
+"size": 828
+},
+"Words/ρίσκο.md": {
+"sha256": "215d524d9e8d6b93c399579812370df959cb8519c9f5b7b68e4f564287ca08d0",
+"size": 813
+},
+"Words/ρίχνω.md": {
+"sha256": "913772c7978d33172127b27e73c60935308b5133863e04d5d171181485abdd4e",
+"size": 1189
+},
+"Words/ραντεβού.md": {
+"sha256": "3f5e63b474a62aad8673124d210d7a3db2a5df03448e37ba0b9d20634e305546",
+"size": 1421
+},
+"Words/ρεύμα.md": {
+"sha256": "536c8f3b766f3f9ef08292052f1ff6924333ef1c368add23926d82ffe99de4ff",
+"size": 1019
+},
+"Words/ρισκάρω.md": {
+"sha256": "86a48198b6cf527f211fe01a67a7cc5943990d1f78f37cb08774bf1be68f4a03",
+"size": 992
+},
+"Words/ροζ.md": {
+"sha256": "8844f30cf6799a60a315bf7bfe7607776bac645481b6e3dedb62ea24f7d2f2ca",
+"size": 653
+},
+"Words/ρολόι.md": {
+"sha256": "7bb7c38142b1d8cf064d76d280e844aea24b61a69e22d2f1062b04df2734f5c3",
+"size": 1186
+},
+"Words/ρομαντικός.md": {
+"sha256": "9dbfb7b16e64c507668059ffdddcfbdea512c988f71b5cea38b08712ff515977",
+"size": 827
+},
+"Words/ρούχα.md": {
+"sha256": "85fb7b6101641b8025c174f39778dc3562f0c92a8727c8dc52b25d6100d12a07",
+"size": 1688
+},
+"Words/ρυθμός.md": {
+"sha256": "4f5c40a4c6cd7e9ee95bd9870891c51279d41d86e6cf8db72e502df8a3f7f9b8",
+"size": 1131
+},
+"Words/ρωτάω.md": {
+"sha256": "a5fba8d7db6cd43cc69fbc6f1d16b5a4fa4f77d18bbf2be028b00e46640a64c4",
+"size": 1658
+},
+"Words/ρόλος.md": {
+"sha256": "04025e64181aecf1ebe9b25ad3e50e33e722ecbfd72e21cead782b6379d4e323",
+"size": 1232
+},
+"Words/σάντουιτς.md": {
+"sha256": "c4c7c88a7a6165c27d38212b86832624f5ba815218f7d47c4f383c63a6fc254c",
+"size": 745
+},
+"Words/σέβομαι.md": {
+"sha256": "fcfaf27f2e7f62be21e6f92a82a96c1acbdbbb849cfedc215b20cb357a06ece0",
+"size": 1455
+},
+"Words/σήμα.md": {
+"sha256": "3cbec547b063df163452d6efa34b71bbfc208ecd10ddeb6474c818ae3398791a",
+"size": 936
+},
+"Words/σήμερα.md": {
+"sha256": "ec75dc95d5f5af3fddb1a6a2e272d939972201dc342b5d30bbf10a13ec6b8889",
+"size": 2245
+},
+"Words/σίγουρα.md": {
+"sha256": "07cb18dfc4c17e7bd09abcc597211cd8b7ab3ea94bc4d092c26d5318d353f60d",
+"size": 980
+},
+"Words/σίγουρος.md": {
+"sha256": "9a95376b61fb747b728b6136d7b62f5506e84cca66e2d389a1d97064e628329f",
+"size": 1435
+},
+"Words/σαλάτα.md": {
+"sha256": "b8cec712642a44aee82baf307bd9f81857284ada4243b1717e365189bbbb30e2",
+"size": 1377
+},
+"Words/σαμπάνια.md": {
+"sha256": "c41997a5078a63bd1ad4b1edcfb3f2652febc4d76e67c35650b9a6640592b652",
+"size": 789
+},
+"Words/σαν.md": {
+"sha256": "529c33c3802450f112ec725ec3962812fcd61ff2c47b065aced8e2aed67f9da9",
+"size": 1104
+},
+"Words/σας.md": {
+"sha256": "79d4d38a919821d1af566a8e5d31d0836c7fbd6f3e47b83c0c2ce848dff2ce26",
+"size": 1196
+},
+"Words/σαφής.md": {
+"sha256": "1d6dfcbdb0ed9f71af90b4ba21dfeff0ffa1a990d58ee14cb8856fc98f29ae5c",
+"size": 1188
+},
+"Words/σβήνω.md": {
+"sha256": "7463274b1cf2819fedefd9abc6cd7dc59ef52fefe15d2b2b40c855d1b816be6c",
+"size": 1090
+},
+"Words/σε.md": {
+"sha256": "cfe931213d091e3435782efa489d27bafc0a9bcb02f33b0d8e38c18675f977f3",
+"size": 2119
+},
+"Words/σεβασμός.md": {
+"sha256": "2301be897d49a8f7406b6a3db1b9bee2a99042032c9ebe58e6142303eb975511",
+"size": 1072
+},
+"Words/σειρά.md": {
+"sha256": "6645670628df2451290e25960863aa390bd1d63e6fb83e09b38357566182f018",
+"size": 1658
+},
+"Words/σελίδα.md": {
+"sha256": "12a2d276197d2d0b8a972a53693dd92429c49c88e4d487228c3d76f6c0648883",
+"size": 1178
+},
+"Words/σενάριο.md": {
+"sha256": "dba83c42948b28c1d90e745a8c9182a18def7ecfd335dbf560faf1471e178526",
+"size": 1140
+},
+"Words/σημάδι.md": {
+"sha256": "1719330a8aa920569354873bdb28773b573eb36a004fc1e721502e4f61b68316",
+"size": 831
+},
+"Words/σημαίνει.md": {
+"sha256": "505b0f095db1a135b4abc5ec2c610cc4b17a19f6ea0a440519a50c0ed52a6366",
+"size": 1214
+},
+"Words/σημαντικός.md": {
+"sha256": "17bbb60e89d0df0cdf9ea1155f20b183ec497fcfe53017e6620b6034f7261a0b",
+"size": 1837
+},
+"Words/σημασία.md": {
+"sha256": "d1a8cbed575a4069ffccb95b7bf5300d3cad73dc59590b6b129e9ab99a208b29",
+"size": 1231
+},
+"Words/σημείο.md": {
+"sha256": "49b9f0c713c96269f482e837d9f099c256644c0929d195725a901bb3d0a7cf78",
+"size": 1474
+},
+"Words/σημείωμα.md": {
+"sha256": "af5ebc4fece0555f056a3b67ade35fb6ae736866743cd54568deb3b469db50d7",
+"size": 703
+},
+"Words/σιγά.md": {
+"sha256": "81ab28fdab14b274cf1f83bb6cc9f19a7ba4ecfd4a7fcb3bfcb42df04c6e7948",
+"size": 1602
+},
+"Words/σκάλα.md": {
+"sha256": "a2c40ec33934557e7ee10c1b3c45bb75d15a6e9593a90f404fd7c60480803551",
+"size": 858
+},
+"Words/σκέφτομαι.md": {
+"sha256": "6aad51714a9a0048dbcc8b3542e84cc7fe9462abf413e00e8ccfe3c9afddd648",
+"size": 1747
+},
+"Words/σκέψη.md": {
+"sha256": "c537d94dd78cb5fad1473f14138dafdefe44c8212010bab9db07fa9480b538b9",
+"size": 1026
+},
+"Words/σκηνή.md": {
+"sha256": "1a4a72edc09498dde3d0fc0bb160719c43c694d3952864907006ed5a1e636554",
+"size": 1207
+},
+"Words/σκληρός.md": {
+"sha256": "b06de1c1df1b59f6ec926a3959bc1ceb13a833d2723011caf3b9266bb90bc1cf",
+"size": 1127
+},
+"Words/σκοπεύω.md": {
+"sha256": "f21f446afc0a55b92eb8e72423f8d82eff8a0561ab4b2d1978d145196c26555f",
+"size": 2048
+},
+"Words/σκοπός.md": {
+"sha256": "09fc04f731e5265445648be5a92892647afaea3ce026dd5904f74347a7be5dc2",
+"size": 1305
+},
+"Words/σκοτάδι.md": {
+"sha256": "b58e710a9142a3aac2905af2e1ea89a3676fdc23a7b64b23afb65a62884da492",
+"size": 884
+},
+"Words/σκοτεινός.md": {
+"sha256": "599d9b638329793624f67b2e3d2dc547b691ea33d66276c286083ebb508f6697",
+"size": 847
+},
+"Words/σκυλί.md": {
+"sha256": "3ba4c88eb31adf3cf0967c4354744466d53e2ff2a8e0c7eacf4bee56617c204c",
+"size": 1149
+},
+"Words/σκύλος.md": {
+"sha256": "5a0cb18cf5f1845d258e204cf5d60ff38ce0e9698aeb92fb6b0f8776261828c8",
+"size": 1609
+},
+"Words/σοβαρά.md": {
+"sha256": "bf0162ab1f5e89e46f82d5ff6d41c87cd7cbe960d2acaeb4d4e4079ba9a445a0",
+"size": 1259
+},
+"Words/σοβαρός.md": {
+"sha256": "4e7092a1d30ee55091f65ffc38879e0c754c020a024ccd7aa2a16d970c3962fe",
+"size": 1602
+},
+"Words/σοδειά.md": {
+"sha256": "5f5e22f938c1157c2c853fcea2ba43b9b93088bc7ee4cdf1d388770b16197841",
+"size": 769
+},
+"Words/σοκολάτα.md": {
+"sha256": "bad860842baae2cd8ce3de63c4bb226060ecaab06bcb221b303042958c1113e3",
+"size": 988
+},
+"Words/σου.md": {
+"sha256": "031eaf88395eda7a0ad6beb51eb115ed07e184cc1c8e3629673cd94743ddb5d1",
+"size": 1731
+},
+"Words/σοφία.md": {
+"sha256": "cf51034559f6f327f68fa262c705b30d7181bf9bd6cd32f3178f15a035dad0e8",
+"size": 1186
+},
+"Words/σπάω.md": {
+"sha256": "4b15c805414a5472dc1ec06fd665a7d13fdca928be544c9c0611549cb88bb335",
+"size": 1147
+},
+"Words/σπίτι.md": {
+"sha256": "a2748f7f5e3fc293945645f691d155b7a90d84e403aab037008c5d8e3bfc6992",
+"size": 3024
+},
+"Words/σπορ.md": {
+"sha256": "b7eb35b4667bc986c9245930a798518cb2099b60029f571cce269eb352cccc28",
+"size": 905
+},
+"Words/σπουδαίος.md": {
+"sha256": "ff044c963d42a2c485452042b3f1db4c59a71c027c543632956bcee420f802ce",
+"size": 1085
+},
+"Words/σπόρος.md": {
+"sha256": "455e84bb63b3fed31ffce6543d28f1f215ff9e203c2eef465ea311df17cfb0cb",
+"size": 815
+},
+"Words/στάση.md": {
+"sha256": "33ad3740eb12d22cb1c3efcd15d5a1207e8e31aa6ce31de7159dd46bf5e924d1",
+"size": 1799
+},
+"Words/στάσου.md": {
+"sha256": "7d306ec07b5c2b3e4f74fa2c757d9dc23f64fb9556feac523ea271fb86e19884",
+"size": 480
+},
+"Words/στέκομαι.md": {
+"sha256": "6ff4b067ff12b9598e844109ee4cc4fc45a3bda9598963e354ea3bfcc8e4c94e",
+"size": 1275
+},
+"Words/στέλνω.md": {
+"sha256": "e5d7d6e2b4586c1eb3c3a67427836b916041373f532748fdec96d0ed8e006cdd",
+"size": 1750
+},
+"Words/στήθος.md": {
+"sha256": "e61dd48b9b37d3a26be42dbce5dcbbf092968632b26096d9467566864dd9e7a1",
+"size": 820
+},
+"Words/σταθερός.md": {
+"sha256": "26cd64127d735faaae71ae9ac21e749f66946e5a74f0f9ed7c2e20ddf16e97ff",
+"size": 897
+},
+"Words/σταθμός.md": {
+"sha256": "62cd60a41fb465039524e9fa56db13f2f1476c5bae1dee0a24335e331bcd7bc2",
+"size": 1444
+},
+"Words/σταματάω.md": {
+"sha256": "38598f662320ab1698a38ad886f97a6a7d5ac694f0fc019b45adb58bb20d3e22",
+"size": 1446
+},
+"Words/στιγμή.md": {
+"sha256": "29f46a22c9e98eb1649ea24a025740543f2aef2e1f9a301472e371d7c3df3318",
+"size": 1391
+},
+"Words/στοίχημα.md": {
+"sha256": "5a525ae831e3272e54ee3eb8e84f2071fe7129045409ee662b604a0eba8ba44d",
+"size": 1176
+},
+"Words/στοιχείο.md": {
+"sha256": "ad8b41a2e8e1609a393450662127514481404fbf5e394c708e4d89cfcd83755a",
+"size": 1278
+},
+"Words/στολή.md": {
+"sha256": "c73f52ea8b57d4fb017934586d8cf4281672b04641969b17087a3f12bbab4a71",
+"size": 799
+},
+"Words/στομάχι.md": {
+"sha256": "86f7cb89d4861d35afd4e23662ce8a097d78425408e9749600d74c66b784c45e",
+"size": 1028
+},
+"Words/στραβά.md": {
+"sha256": "384936ce29ddf2cca1310fd428eb83bfa0ddd17660b9a514b167832270fbbe9e",
+"size": 552
+},
+"Words/στρατιωτικός.md": {
+"sha256": "3bea43411e659d81efcaf967815aaa9d9c67950e2a8d35808e8580057c253a69",
+"size": 995
+},
+"Words/στρατιώτης.md": {
+"sha256": "d40bc2808ee3f3accdcfa7d86f4335498bf78fe6de5fde7fb3681388e1c40ea2",
+"size": 903
+},
+"Words/στρατός.md": {
+"sha256": "b0a1f1b2c08b698c82ec408a7b28958f907bddb7858d8634c8625e0b0c190397",
+"size": 1165
+},
+"Words/στυλ.md": {
+"sha256": "80ff7bbb52174fe1c8ee3b2fcb369cfdd9238f6e9803335020b1f8b36d8c9275",
+"size": 856
+},
+"Words/στυλό.md": {
+"sha256": "70cc60c4b7f86bb0eb2d03469178ebea41e238301fef0a4427813dfa67d377ca",
+"size": 1061
+},
+"Words/στόμα.md": {
+"sha256": "dadecffce1f4898b980db8a54cad2fad075a80b1969ce7e1a6ebee60079ff094",
+"size": 970
+},
+"Words/στόχος.md": {
+"sha256": "faed4d9abdc998219eef9974bdb5d82ccba57fc9b87f2afdc4ec8ab337ed6203",
+"size": 1203
+},
+"Words/συγγνώμη.md": {
+"sha256": "9d2bead767e28c36dced23a6e4b8cbb6ae0abc4d5f7b6ea0dd7b512abd7bd0ac",
+"size": 962
+},
+"Words/συγγραφέας.md": {
+"sha256": "dd9b07c774d3d203d5f33c8b838ac4681d60c765b771f5bb1d22b0cf1273db41",
+"size": 1177
+},
+"Words/συγχαρητήρια.md": {
+"sha256": "067f1f78db65ef34e009b60f2d33d635599d056ce67b3ef57462807ed5d36db2",
+"size": 685
+},
+"Words/συζήτηση.md": {
+"sha256": "26ad0bae938373312defa8af44d009f3feb0de76abacdaa58f5872724b5fd9e2",
+"size": 1212
+},
+"Words/συζητάω.md": {
+"sha256": "08f54eeb70ef63f32ae689edf0a78b150da7df804ce65dfae038484dd18b3151",
+"size": 1555
+},
+"Words/συμβαίνει.md": {
+"sha256": "37026b688c9274876aef58542445be73d6fdcc77c3077a8a0e740e8fa9b13830",
+"size": 1128
+},
+"Words/συμβουλή.md": {
+"sha256": "68623fef910f6776c05af1e805c54d028059a195a42efa5abd1d79234b1cbc3f",
+"size": 1128
+},
+"Words/συμβούλιο.md": {
+"sha256": "83b91fe8cb7275ef364fa486fa7ea0b08c853c4faadb691c9e5434af6ea78676",
+"size": 1204
+},
+"Words/συμβόλαιο.md": {
+"sha256": "fba08fa4f003f6fa318322fdc46cda8cdd435b9a9730feec96446d4cf7d2abb4",
+"size": 1214
+},
+"Words/συμπαθώ.md": {
+"sha256": "0325b9a4bf78111c6b66d95e7bce5bb0f8a1d54e18490d7863f2ca625f11128e",
+"size": 1311
+},
+"Words/συμπεριφορά.md": {
+"sha256": "89dd883cc7413ae2c5e76728a66dfa09eb137e61c2aca4a8ccd1f6dd18b2ebf2",
+"size": 1611
+},
+"Words/συμφωνία.md": {
+"sha256": "e3913c3e67e03706a4e1cb892f7048aa87465bc32778fe3d6f3acaf3312ee075",
+"size": 1074
+},
+"Words/συμφωνώ.md": {
+"sha256": "a8967b7a18d0cee2d42a4537f2653adb5dbe5a8bf16c59c8b52f6d71eeee7fe5",
+"size": 1709
+},
+"Words/συνάδελφος.md": {
+"sha256": "1da36684aac284a4743955749d1afc6d67051e3b2646213c894e3c0bc5ce3002",
+"size": 1046
+},
+"Words/συνάντηση.md": {
+"sha256": "a7afb6a04b0fd946f1f15c8ac31892666238237627998673e3d2a7618ff8d60f",
+"size": 1700
+},
+"Words/συνέντευξη.md": {
+"sha256": "b7439cb5884d41b738882e48110e055e58d2d4e5630f244261ccd508a83089cf",
+"size": 1147
+},
+"Words/συνέχεια.md": {
+"sha256": "5f8d0f72aeecc7faf61c5214d1bb3961e89a093cc16b3d9eb56c847684b2b99f",
+"size": 1300
+},
+"Words/συνήθως.md": {
+"sha256": "48da395489cca3bacfefe7beb69ddc732160ade21abecb6e248059ff500e49d7",
+"size": 1313
+},
+"Words/συναντάω.md": {
+"sha256": "46a447161bea2c5d65fa01a15e9bdcddc21712a5551746066e935a7115d83d52",
+"size": 1483
+},
+"Words/συναρπαστικός.md": {
+"sha256": "8d539f32a26d94f338f443791d26cc957b03b8ff59344e1c8c07ee2c7da30277",
+"size": 644
+},
+"Words/συνεργάτης.md": {
+"sha256": "ff1ef687a092af9ce7286730dfd73a857ae334f7017438bd6a5fd208cbb92134",
+"size": 1174
+},
+"Words/συνεχίζω.md": {
+"sha256": "b36b7d144b813d8af21e6d7a97a452ef76a7e4c14f52ba8c08703a1d219047c4",
+"size": 2130
+},
+"Words/συνεχώς.md": {
+"sha256": "63a143ea81f07cef9ac93527cdf4e78f94954378f45168552d05584184db5993",
+"size": 839
+},
+"Words/συνηθίζω.md": {
+"sha256": "b933368a549c1b10d1dd8a9d2f8da38376f28635e53984ba4aaeb6f04b23a55f",
+"size": 1332
+},
+"Words/συνηθισμένος.md": {
+"sha256": "e4f1a153c294fe48d6fe8b341de80040129debb805e5a6b8eb363775c7fcb2bc",
+"size": 1108
+},
+"Words/συνθήκη.md": {
+"sha256": "69e0166d8d70cf7b7743264a3f57c8bd13be56f0106c7c03f0e1bd647d806404",
+"size": 1078
+},
+"Words/συσκευή.md": {
+"sha256": "d5932a3e518c5e22e6ada0edb8930878ec6d173f61c550cedff2fc0dd7bd0a39",
+"size": 893
+},
+"Words/συχνά.md": {
+"sha256": "733645ca6cc2bfebd10563fddad3beb9b6ada2d57fb8aa693b4e1b65c42754c4",
+"size": 1825
+},
+"Words/σχέδιο.md": {
+"sha256": "d2cacb61f0c47a94d91be250ddaf8b5c103e46a305231b183e7fa174b03d11ad",
+"size": 1580
+},
+"Words/σχέση.md": {
+"sha256": "3361b783644299518a7ba058042d3d7f9347468acd03f2d1e639685c23b50682",
+"size": 1351
+},
+"Words/σχεδιάζω.md": {
+"sha256": "96e09709d99f2e472325e86111eb9f8a066a165c8c08f0d1a003ecc6b9e3ab4d",
+"size": 2023
+},
+"Words/σχεδόν.md": {
+"sha256": "6a078044feb01d5a4077d6ee732b52270980f6e56c4a5de4ec9929dee1aba3a3",
+"size": 1481
+},
+"Words/σχετικά.md": {
+"sha256": "1216f5448156165cf9b19a2bfbb506369cb9264f8e2f273f1603407bd18a045f",
+"size": 1296
+},
+"Words/σχολή.md": {
+"sha256": "b724c82744a28e396b4be8710b05162ad04128935ebf2406b2c7eebceb501f39",
+"size": 1167
+},
+"Words/σχολείο.md": {
+"sha256": "0aa35e624273ca31875feae9ad3765378c4c9c75e7a38c384a09eb12f64820ec",
+"size": 1686
+},
+"Words/σωστά.md": {
+"sha256": "c6e54d7213046e4cfd641be4242e78f4677eaf19a56ce6314071f550819f5119",
+"size": 1346
+},
+"Words/σωστό.md": {
+"sha256": "2430b0bce1c0cd378a346aa261f640d6385dee011ec3604c3536f328e1fc505f",
+"size": 1321
+},
+"Words/σωστός.md": {
+"sha256": "6cab2f9586ef59bae328c9156b37d9e9d2cf8a2c5c771d47acfc073a019395cd",
+"size": 1682
+},
+"Words/σύζυγος.md": {
+"sha256": "8ee089c6263ee7abfe6d61c08d18cce7b464e2405bee5e5824a8727354604bf4",
+"size": 1397
+},
+"Words/σύμβουλος.md": {
+"sha256": "69c2f0a6446a23bddaf9fe8ff5f39a991450856b304a806d835adf74be55ac17",
+"size": 1106
+},
+"Words/σύμπαν.md": {
+"sha256": "5cb23df4ca9bd54296669bcef1c3401bec4619331f4d903cb5e9db92a0b8ee7e",
+"size": 933
+},
+"Words/σύμπτωση.md": {
+"sha256": "3f5b7ab5c725020726944a61b537ef595a3cecb495c8d5fc2691ab21675dda2d",
+"size": 746
+},
+"Words/σύμφωνα με.md": {
+"sha256": "c984b0f51f85f0697aa6e63695aed957f2c96188da25d84325fd924dfc40780c",
+"size": 834
+},
+"Words/σύμφωνος.md": {
+"sha256": "338c733982744ece756663b19ce52e7ab9687bd6215461d91d6bbd8fa85c2c59",
+"size": 1062
+},
+"Words/σύνδεση.md": {
+"sha256": "13a3d9acdd8c578ef023f29ae3189e56026bee950d564a0d87e8f240a0546106",
+"size": 979
+},
+"Words/σύνορο.md": {
+"sha256": "6f8dc1954b00eed24db02464fb73986b9eea251da96df7016a55a10913ba7dc7",
+"size": 1032
+},
+"Words/σύντομα.md": {
+"sha256": "1a353e690104bb984d32a431659ebbb21a8d56db83b75f8a1b553858fc88d243",
+"size": 1507
+},
+"Words/σύντομος.md": {
+"sha256": "07256e95e6c76a3589debbfb1a4c188577c6e1d031e06c1b6a1be03edcd11e3e",
+"size": 1216
+},
+"Words/σύστημα.md": {
+"sha256": "6a3c03184f8cf373107134754a03d716e00f44ef20ebdd04f4984eb4986ef276",
+"size": 1059
+},
+"Words/σώζω.md": {
+"sha256": "fc896c228d0fa96e4ded443ba0c67db4f9364acc4a1bdd6cec7444c0b890874f",
+"size": 1268
+},
+"Words/σώμα.md": {
+"sha256": "0ce79533a055d7619ef91e20c50bd1c4acc835ae36f27e40ff6d3fae26403567",
+"size": 1657
+},
+"Words/τάξη.md": {
+"sha256": "76672ae948a62eeac8164bc1460f0b2e057a26fadf0be0674f9b51254702a260",
+"size": 1234
+},
+"Words/τάφος.md": {
+"sha256": "448606a5ec26e227b20bbdb7f420a11f8209f4b97cfb285ea56f5ae084bf474e",
+"size": 809
+},
+"Words/τέλεια.md": {
+"sha256": "6fb7fada02df907a4421010e183ca224abae0d9cb06496bc22790bd4f3cc4078",
+"size": 1011
+},
+"Words/τέλειος.md": {
+"sha256": "6b7adab62d32405ab0080c0406016e8b11bfa608481af9c4f5df6230c437a247",
+"size": 905
+},
+"Words/τέλος.md": {
+"sha256": "d18fb2e2ece355e8b0322a3a95264893b4a5562652d730a4a072a57032a21c75",
+"size": 1405
+},
+"Words/τέρας.md": {
+"sha256": "96db90d401d79245f2703f59f44bbfa3511e04c1e21c2d6234bd77aaa05f40ab",
+"size": 728
+},
+"Words/τέσσερα.md": {
+"sha256": "6dafb30123f7341706c2484bfa90dc22cd920336a95233900323bcb2cd1de4fe",
+"size": 1280
+},
+"Words/τέσσερις.md": {
+"sha256": "63f3ed3769eeae8d78051cb299f81b385c596e7ec212cc11e24fbd68a9ba3c51",
+"size": 1315
+},
+"Words/τέταρτο.md": {
+"sha256": "f2a7c4ad7717a773a0e7c34d8688ae1158818264a7089afceece049314ae02e8",
+"size": 1123
+},
+"Words/τέταρτος.md": {
+"sha256": "39f8da02cd7a0f188a4a34c09440c92245b88781482fadc2bc2eeac10f4053c1",
+"size": 933
+},
+"Words/τέτοιος.md": {
+"sha256": "6a4ac3cc7b629ad59f9fcad0821732f42060795b8f360cab17cf17d4f66d32e2",
+"size": 1437
+},
+"Words/τέχνη.md": {
+"sha256": "0d8a5b21fe4a67bed545e8189caee8ed614bf85c87a72a6a16717ffb328dd2cb",
+"size": 1497
+},
+"Words/τίποτα.md": {
+"sha256": "b5845aceebf966be3cdbfe787748bda565629ec471e786a181cc4e9da0d23b54",
+"size": 1481
+},
+"Words/τίτλος.md": {
+"sha256": "ddae8328a8322faf9f2f87b5cd379a9ea8bd7ff185f0c589033f213007797c18",
+"size": 1307
+},
+"Words/ταβέρνα.md": {
+"sha256": "1b76c6ce80e5c5858cf85b42c33cccc2fd9b2b2f4eeb49aa0ebe2f2afc987d26",
+"size": 1220
+},
+"Words/ταινία.md": {
+"sha256": "770306c55cae88d3da23dfc94f0ab9818f647fd954827a41fb86a8153861d880",
+"size": 1880
+},
+"Words/ταιριάζω.md": {
+"sha256": "2d3ef0e20e08f533fb0347f2e9346f552b84502930c29645ef64113e58777973",
+"size": 1533
+},
+"Words/ταλέντο.md": {
+"sha256": "7df80173b6c196e5e323f9d4734f051e7b2ae55aad5ad5feb331be3024ebdf2d",
+"size": 970
+},
+"Words/ταξί.md": {
+"sha256": "54b18e976bb4e927b3002bb5b4020745ce580e53495848d8c3710c88ecce2c9a",
+"size": 1271
+},
+"Words/ταξίδι.md": {
+"sha256": "be6a208de5d8108dcc262cfe5e5295834139d743c71cc0cd7eec4cccdfdc9b4d",
+"size": 1717
+},
+"Words/ταξιδεύω.md": {
+"sha256": "5a63f6efa2c3d365e7eac69b164b4e7178822c0378c356ac056d8f22c8a5a531",
+"size": 1855
+},
+"Words/ταυτότητα.md": {
+"sha256": "74041de7aa455591e6e96121d54c37742eab44c9a57965d3882c521cff8a7b53",
+"size": 1151
+},
+"Words/ταχύτητα.md": {
+"sha256": "0fda4743b0bf26631dec46b72209fc367aa19643c2b4b0da613f377f4cb8e454",
+"size": 1093
+},
+"Words/τελείως.md": {
+"sha256": "31d7b1819012b1e86ab55ac035915b79b1b6f2e50330dd7ff48d8cb934e6410a",
+"size": 859
+},
+"Words/τελειώνω.md": {
+"sha256": "7729fba3afd62536501236e102a3f96656b2741365599ee00e91a79147af1531",
+"size": 2384
+},
+"Words/τελετή.md": {
+"sha256": "df05eaacf832ba65b7a0330356ddc9728ce85c6460dbb38d7e44e4a8f0fed784",
+"size": 959
+},
+"Words/τελευταίος.md": {
+"sha256": "aca3ad7e1103d8a8778222fe783a71383060bf79b4b6f2c2ad55c7dbac368ca3",
+"size": 1665
+},
+"Words/τελικά.md": {
+"sha256": "1fabd186b633f849b240da3ad185dc08bf43099eac6fafb4c737f222758d5c8a",
+"size": 995
+},
+"Words/τελικός.md": {
+"sha256": "9c0edf0b8d4a937b081add6eca44a43527bc0c52cee1f2efc53bb5ab63c5a8b5",
+"size": 886
+},
+"Words/τεράστιος.md": {
+"sha256": "66d61b599bfd44dd862b2fcfc3cd1dcb237c4ab0f33d6dce760a0a68c048f249",
+"size": 1271
+},
+"Words/τεστ.md": {
+"sha256": "8477b1507f977d29f8ca4d361a2a53849729a00bb75eece30309bc20375d1155",
+"size": 1017
+},
+"Words/τετράδιο.md": {
+"sha256": "4a60408d1e7e8e206f4a30e5f8fc2bb3a2dcacb4710dcf1334966f1fb6002a78",
+"size": 789
+},
+"Words/τεχνικός.md": {
+"sha256": "c10eef11f4ba06a1ea5dc03b99ea6beafe1bbdc172a8b343baf32dc338cdd69a",
+"size": 1049
+},
+"Words/τεχνολογία.md": {
+"sha256": "c61d6a6def3def93051d793ca1945709b8fade61e9601b25f68b603f6309f3e9",
+"size": 1207
+},
+"Words/τηλέφωνο.md": {
+"sha256": "c16258cf656efa906cac23987fca0d40d5b0421d41b2bf455b01ca92a1002f9d",
+"size": 1886
+},
+"Words/τηλεφωνώ.md": {
+"sha256": "0268304d5b25c77a7d1da7d1a408e221ca8bc2ccbb1f6a0ae81d2701e29cfb37",
+"size": 2175
+},
+"Words/τηλεφώνημα.md": {
+"sha256": "279730d6599281d9424025e1adb53ec4caf15c4f899e9e7c58bbf54d75d2bd23",
+"size": 902
+},
+"Words/τηλεόραση.md": {
+"sha256": "833ba333cd180d99871f682e5466b77e39138406fa0a14b48c3594dc3ec9e68c",
+"size": 1782
+},
+"Words/της.md": {
+"sha256": "6afad283eff499683be2beb67c382c95c953e9381cd2ca32067ec2a39c5481b8",
+"size": 1096
+},
+"Words/τι.md": {
+"sha256": "de1a29efb4a3f39c72d7db0dc1f7d3a4b730cda38583d227ad88849393bd43e8",
+"size": 2271
+},
+"Words/τιμή.md": {
+"sha256": "39aebdf6dc0cc0ad635f39415b93690f500e7144106a62760fd8bd1d2f3c0bda",
+"size": 1022
+},
+"Words/τιμωρία.md": {
+"sha256": "dd099e247857216f4dd6c7767277760a5b20972f06507a89a6fd9d97e56164f0",
+"size": 854
+},
+"Words/τμήμα.md": {
+"sha256": "8142d242abc54a23377bcf292b4b30375b5e211496f9ecf3629ed5159a3ccf20",
+"size": 1364
+},
+"Words/τοίχος.md": {
+"sha256": "fdd3c16966e7eb2fb46b111295a21303fe4895460fc795fd997d7708e7dc1a4e",
+"size": 898
+},
+"Words/τομέας.md": {
+"sha256": "5dd3d0e4e6c588ae116c0da16983d39c2a3b9befde917ef3507567fd8305c469",
+"size": 1262
+},
+"Words/τοπικός.md": {
+"sha256": "5b42c4402e2e9b8fded732d7e967aa5ea9da5ab725017e70774abf7cfc2719b6",
+"size": 1197
+},
+"Words/τοποθεσία.md": {
+"sha256": "3262f87b25e90f18b1c74534b5babcbd6247cf1fb43bae7486ee4f8133f84e57",
+"size": 884
+},
+"Words/του.md": {
+"sha256": "adcdcc40baf9ed1305008908fd92f49e0a10c5465d080fecc44b24f552ddddc1",
+"size": 1044
+},
+"Words/τουαλέτα.md": {
+"sha256": "b58bb8df1a843ffb9f6b53540b1c7fbb9d8ede782289df51157a95a1b44a2c93",
+"size": 1037
+},
+"Words/τουλάχιστον.md": {
+"sha256": "adef4b6c402e6510c19991c229644baaba3c2ef88aca22514995bf3d3447e646",
+"size": 1006
+},
+"Words/τουρίστας.md": {
+"sha256": "eca8cd62c5c68e22bae4ec23a5e09599c5f0282eef265c5120bdb77425471a77",
+"size": 1176
+},
+"Words/τους.md": {
+"sha256": "767a4e39c60cfd2dd8affb8b7bdb5e1b38954bcc0a16a847117de2683e427123",
+"size": 1120
+},
+"Words/τράπεζα.md": {
+"sha256": "e7a57cd84d139c0b77b88b2f1faaa9795e363b52d5f38116497a29e4e353fcf2",
+"size": 1469
+},
+"Words/τρέλα.md": {
+"sha256": "76405242b702ebbc4cbd9676214c8afb4cf0399074e810d1a71c558bad039327",
+"size": 692
+},
+"Words/τρένο.md": {
+"sha256": "05f0e429e506982a40be6a52ae04bbc909fa4eb41844091ae685a06132496b0b",
+"size": 1255
+},
+"Words/τρέχω.md": {
+"sha256": "a827904136cd0e2342fb1d119e3ad629d072bcea1b9fbabf716cb88903baf0cd",
+"size": 2017
+},
+"Words/τρία.md": {
+"sha256": "e439e51521dce3d77a409d8890c2656538ee47e7d203584b72974bc2e42f2713",
+"size": 1388
+},
+"Words/τρίτος.md": {
+"sha256": "07743a872430e50e9c6fe07338e8e6518c7670f872963d596588881a8f6d115c",
+"size": 1202
+},
+"Words/τραγουδάω.md": {
+"sha256": "7c358806eabb1a0eafbf92dc40967dd1fcd07885d77338e07b81e7eb16ef934e",
+"size": 1513
+},
+"Words/τραγούδι.md": {
+"sha256": "1eb18595dedb8edfe13bf2a07cb844e33de3a7bd0c8e355e22be4051e48b9419",
+"size": 1830
+},
+"Words/τραπέζι.md": {
+"sha256": "e84ed8169bb9df73704d7580e310ab0b785c230e779a2632df4d04e3dfdd36d4",
+"size": 1896
+},
+"Words/τραύμα.md": {
+"sha256": "d9736de19cbb44d291bd5da72deeb2b55601f127e4cc2874c8a91bfecc979e7a",
+"size": 839
+},
+"Words/τρελός.md": {
+"sha256": "13c23a5d93cb689ff057b02dd3141e5174083ec9fca650210eff31872823b86e",
+"size": 555
+},
+"Words/τριάντα.md": {
+"sha256": "9d0c986cc8a3ae12510c4a5ac4fb7573b1191a7a4252999f48585b9d51a32f39",
+"size": 1085
+},
+"Words/τριγύρω.md": {
+"sha256": "32ee293e7086297039bcfb98ea44fbbf0f9f885b6cac394cfce35a275263d71c",
+"size": 667
+},
+"Words/τρομακτικός.md": {
+"sha256": "38d7964eb10bc70d0877aff9917dc704c2eadc4f36dcaaf1564ce8bb15533876",
+"size": 533
+},
+"Words/τρομερός.md": {
+"sha256": "f66b4fe5da9fdf8867ce499ee0ce185b30eda70d70fed611707e52bcbee6e7cb",
+"size": 672
+},
+"Words/τρόπος.md": {
+"sha256": "01c082ad610b9ee809ba5737058d4942e31e580b89831033a614df9e679b4159",
+"size": 1655
+},
+"Words/τρύπα.md": {
+"sha256": "7969c442b9af924c9b37995275f763f59602995fa06acb42486c8c12319c9af3",
+"size": 778
+},
+"Words/τρώω.md": {
+"sha256": "b3835eae52d866d68ccef1acc897e6a59fd7d9abe12b728f2a6dfb5b2fa2cb98",
+"size": 3574
+},
+"Words/τσάι.md": {
+"sha256": "f99f9f527e8a17395876777d8a0ff2db35b623e9522f97cc7049faf315327b8d",
+"size": 1618
+},
+"Words/τσάντα.md": {
+"sha256": "7fc20b61ac66bcf2619d524ef7b02136e27972e60ebfa0781049c517428a9c39",
+"size": 955
+},
+"Words/τσέπη.md": {
+"sha256": "74d64adbadd45f39f028aed3210eb8927cd50bc8478c234e160de31186e0e452",
+"size": 944
+},
+"Words/τσιγάρο.md": {
+"sha256": "2f0540dad815864651c45e74c4f7a0c4c20d98e66a785cf18005df42cb3d4ba7",
+"size": 762
+},
+"Words/τυρί.md": {
+"sha256": "ef1ee7de48c0c3d62e6189dd2716bd5943c2c9e22e0b01613526dfce80af9bad",
+"size": 1060
+},
+"Words/τυχερός.md": {
+"sha256": "718b72a2490c0d7f8cdb93cba26ba57dd7c812642400c550c49f512210c40ba3",
+"size": 737
+},
+"Words/τόνος.md": {
+"sha256": "38160bc27354d55b4759422388606f22ebcc8c2e0966f453e9296d7daa6eaa5b",
+"size": 1119
+},
+"Words/τόπος.md": {
+"sha256": "6375ecfc123b1277f9bd3f1d394a9d4e7c6dc1f7c1e343f6a94a7e0808c8a0ad",
+"size": 1383
+},
+"Words/τόσο.md": {
+"sha256": "05d5512b7edd56c8223a9f4e504581a5b3ef7b80ff3e5c72f3b49a06700c8744",
+"size": 1083
+},
+"Words/τόσος.md": {
+"sha256": "00d90b8b256575a5888a07042802aa16397e9ca48baeec1ac78d35b7a166beeb",
+"size": 1787
+},
+"Words/τότε.md": {
+"sha256": "862583d8b35d36bb9793da7b0b08f8940516c255a7ecdf73c346a84fbcfe7ea2",
+"size": 1377
+},
+"Words/τύπος.md": {
+"sha256": "19f8f07c4657dfdf5148eb7661a101fc10da15d81359c9f0f76855b02d08cbf0",
+"size": 1307
+},
+"Words/τύχη.md": {
+"sha256": "77d6be87289f9ff00efa2265b59d78ca6694f0872ff7cc731aeb760bb6f45430",
+"size": 1072
+},
+"Words/τώρα.md": {
+"sha256": "c158c1a8bc2ddc4a00c9f5ca4b4e66ea04acd2d6ee694fc176b96ed8f7c49c13",
+"size": 1995
+},
+"Words/υγεία.md": {
+"sha256": "413f36f9ae6aa4f8198d5a6bd02ee8e86074deda5dbc699801299ee1363984bf",
+"size": 1771
+},
+"Words/υπάλληλος.md": {
+"sha256": "d711cea02101aca8ae5d1e1b9a16fff30cc5502bc5bf6228f86782d762b68725",
+"size": 1190
+},
+"Words/υπάρχω.md": {
+"sha256": "5dba0f73d7710cbbffec009495330b0ff1918f9ab8a2624bb63cff58e37b2085",
+"size": 1821
+},
+"Words/υπέροχα.md": {
+"sha256": "19e3bda8adc667c2ec357d6060c8bfa34995e2a1ebb72f6f0f995e302b5d7bcf",
+"size": 629
+},
+"Words/υπέροχος.md": {
+"sha256": "de629ce139c8dc7aea67ef84b115eab0c2dcced8a2d35a73ef040eb8ee73cc64",
+"size": 1553
+},
+"Words/υπερβολικός.md": {
+"sha256": "874d9772a65454e6bb8cccefad0bc979e989f20777ffd7d547bb5adfa3d13301",
+"size": 683
+},
+"Words/υπεύθυνος.md": {
+"sha256": "03dea7cf4ee1fa5d5d2c5b3f450221188087f03675d7d3c7e3e90b6743c06199",
+"size": 1420
+},
+"Words/υπηρεσία.md": {
+"sha256": "68c308d8c497e0687a8ad703d85335fa820c007aafe23aac46af527634077a97",
+"size": 1138
+},
+"Words/υποθέτω.md": {
+"sha256": "32829ec862e0c3f1cea81e7c5b1cbb501150f446877e6e7198e80438e851043c",
+"size": 1299
+},
+"Words/υπολογιστής.md": {
+"sha256": "2c8e32972bc607013bcf53971a04a55b62a84c4d707c17c6cce8d979d4ec4cf3",
+"size": 1576
+},
+"Words/υπομονή.md": {
+"sha256": "c58b5e33bc7a503e462fbbcc36e3c3700518e013ad2bbe0d379bd7736ab0422a",
+"size": 911
+},
+"Words/υποστήριξη.md": {
+"sha256": "6779a48d1479ba0196c85fe89caf193d86bad09559e1e3540bc8993f6a4a5b29",
+"size": 1066
+},
+"Words/υποτίθεται.md": {
+"sha256": "baa9697c4a203921ebf8ac72657c90f59345bf5d506f6ac6525cf0b49db47f73",
+"size": 601
+},
+"Words/υποφέρω.md": {
+"sha256": "3e91bc0be70d76cd136a1da3b367c8ff772d8844289751dcb7284ef74e5b8001",
+"size": 1468
+},
+"Words/υπόγειος.md": {
+"sha256": "92845af7249b10d4db2162eb2efe55d29d51b1aa66f8a42ec0572b01855417a1",
+"size": 752
+},
+"Words/υπόθεση.md": {
+"sha256": "1ea3a256433ce700671849c5138cd1b7b6704c6723d6d903c77028079642a2de",
+"size": 1250
+},
+"Words/υπόλοιπος.md": {
+"sha256": "531490b89c5daeb900c9361316c25ec01192132f4c5bdfe44e2e0ab141662bbf",
+"size": 1043
+},
+"Words/υπόσχεση.md": {
+"sha256": "7736caa1844c1b06db97be1fb5161e91e9085f87f1d557d51f2fad4065c28476",
+"size": 763
+},
+"Words/υπόσχομαι.md": {
+"sha256": "5a08edc815c64515fe9d6e106909a970a30c9b358e01bcb2eb4e55b25c062f3d",
+"size": 1211
+},
+"Words/φάκελος.md": {
+"sha256": "701804db5dbae837a4575a8c647e3e76cee977024ce6df4ed2236779406fcbec",
+"size": 799
+},
+"Words/φάρμα.md": {
+"sha256": "66b796d1b76e7af62f6cf6c7992151951c82a0df021ebd05a98d7facae2f8da5",
+"size": 950
+},
+"Words/φάρμακο.md": {
+"sha256": "18845bd77425d818e4567f2cdec00e10453fbbe752572d695f477a704171aa7e",
+"size": 1638
+},
+"Words/φάση.md": {
+"sha256": "20f15dae063500786580aa646a5fd0fcad3c9ee0f91c57b7af6c821db0d3dd86",
+"size": 1082
+},
+"Words/φέρνω.md": {
+"sha256": "00701812c13dcfe995da9b75d9b0d3c2cf51730cebc0a2f8e0319fcd1a130677",
+"size": 1549
+},
+"Words/φέτα.md": {
+"sha256": "cc901a9b136178ecb95a36483e2a336d9d1672d8f94c2c0a5aa5244ff6ef801d",
+"size": 754
+},
+"Words/φέτος.md": {
+"sha256": "2241a628af4489a4d8bdd80106aa5ab2787d58c872102445d3c9bd3dcafded4a",
+"size": 1772
+},
+"Words/φήμη.md": {
+"sha256": "92724df97498b396c4c9f4fcbfb13b101f642134bb73cf166f9da2eabfaa0959",
+"size": 972
+},
+"Words/φίλη.md": {
+"sha256": "36c8d05af1c8cdddb34e4362b0415c3d6cf22fcc613299833e22960cf90a78fa",
+"size": 1358
+},
+"Words/φίλος.md": {
+"sha256": "e451cdde26fae2624f79fcc43225544321f0cc32f21b1c1ba91ee3eae07019a4",
+"size": 2616
+},
+"Words/φαίνομαι.md": {
+"sha256": "a22b4356e6d57ceaece0b778de5a3edc33c87a9030bbb89812bad94644fcde52",
+"size": 1918
+},
+"Words/φαγητό.md": {
+"sha256": "464ceda48cb55bc011f145bc3bf51450e9a372b55fe40ff1344efc9c433b7796",
+"size": 2535
+},
+"Words/φαντάζομαι.md": {
+"sha256": "ec28c49492a90bf4e3742cfdfd67db14a6a693d3a657667e665cda2d67e70ead",
+"size": 1386
+},
+"Words/φαντασία.md": {
+"sha256": "d79d273185f1b9d417da2150ccb697dd2bcec2497aee2edcdc86270015bff32d",
+"size": 929
+},
+"Words/φανταστικός.md": {
+"sha256": "5510b3dcf4ac17774a15a3babcfb4bdc23702a89db04a0ab1e337e3dcb977777",
+"size": 1106
+},
+"Words/φαρμακείο.md": {
+"sha256": "620f32a4b66903bccff39909171181abef6c27f820ac0bbb715b6d308ec76a92",
+"size": 1084
+},
+"Words/φασαρία.md": {
+"sha256": "918496b814864a8de6fd3842425d44d141f93879584a89b158253ead2f6c95c0",
+"size": 705
+},
+"Words/φεγγάρι.md": {
+"sha256": "7108599c18bff64d91bff7e09df1fd218cbd65999b4a3054df7093bc8b8d0ea0",
+"size": 779
+},
+"Words/φεύγω.md": {
+"sha256": "ad9b3ac10c1fb85e3b9c69f670ad5805db5171a959b9471b5d2b2f7374972e05",
+"size": 2630
+},
+"Words/φθηνός.md": {
+"sha256": "39278855b5e6372ce9c661dedd623ce6be291111bcbc14184d3e094cffe153b7",
+"size": 740
+},
+"Words/φθινόπωρο.md": {
+"sha256": "4be3bfcca07525118303bfa422aac7bd6c0e18ace436d4616027055c6a44a965",
+"size": 957
+},
+"Words/φιλί.md": {
+"sha256": "eeafa64e51b68b1c7e4977569c38ce5c06816fc416cf008f9e6a3a09ee8719a6",
+"size": 813
+},
+"Words/φιλία.md": {
+"sha256": "8e8cafcbfc63d84536130c5438e8739f1bfca68ab0b32c18fd04cc75a2b6e371",
+"size": 839
+},
+"Words/φοβάμαι.md": {
+"sha256": "a1b907587e35bd81c03a97cf1837be03b43518d541662042db44149d0eb59d21",
+"size": 1490
+},
+"Words/φοβερός.md": {
+"sha256": "cbe8efb335364dacfd2129f3eebb487b54051a0efeab843e8a1d93f864dc4210",
+"size": 623
+},
+"Words/φορά.md": {
+"sha256": "4f4e4b2e1f6176da4f71341d2ceba76c127687ee57a53607480ccab3e71d1bc4",
+"size": 1573
+},
+"Words/φοράω.md": {
+"sha256": "c1e51abdf59bb36abeb72087ae483b8fe081b24d8cabe7e65d6fdf90404639b1",
+"size": 1707
+},
+"Words/φορτηγό.md": {
+"sha256": "0918ea2ab91ccd7bf9ef3b7deb35b9b0ea6a7c5479da837cbb9f5ec28fc67f45",
+"size": 867
+},
+"Words/φούρνος.md": {
+"sha256": "b9ef2e0f819d5fdb9b2d046af69b1d09c395532c852b49cbfb12353e6e824b58",
+"size": 911
+},
+"Words/φροντίζω.md": {
+"sha256": "fe8a33c7fd797c78d7480b945f0ee8c71fb0b00c17990eaf40b2452a057765f3",
+"size": 1565
+},
+"Words/φρουρός.md": {
+"sha256": "d7ee4a88bdb85c6cd0c9bb5f93fdbe2f3ba1db4a4d6238cbfc50f52305714da2",
+"size": 680
+},
+"Words/φρούτο.md": {
+"sha256": "c73cf9ce4af66d51dbc1fb61bcb3443fedb60dabb4b03a3cdfbba4b8f5b11dfc",
+"size": 1444
+},
+"Words/φτάνω.md": {
+"sha256": "0686ef2e9c0c025e5741954c45f5d84aede03319a1cdda6b8286aa53874901d1",
+"size": 2091
+},
+"Words/φταίω.md": {
+"sha256": "adedbec1d91d92d6a650105f6fa049a49b5b03fae417cf6a90a693e31019ee8c",
+"size": 906
+},
+"Words/φτιάχνω.md": {
+"sha256": "ffb3b6c8fc25a524588eafea0c9a801497ed5689bd7bd02e190482d6718b4ec8",
+"size": 1492
+},
+"Words/φυλακή.md": {
+"sha256": "7dff75a41ebbbd409458d40de5118519f42f6071a604416a10a5df7b90347f5f",
+"size": 1256
+},
+"Words/φυσικά.md": {
+"sha256": "36f456b7f54c8be4f03de64c431138e15f760e4f7b60d1d712eaafc108d9e83e",
+"size": 864
+},
+"Words/φυσικός.md": {
+"sha256": "68c0d7b7048d5bb9d8de01c115f960b5347923be85c6c0cfae8357214a2e932f",
+"size": 1261
+},
+"Words/φυσιολογικός.md": {
+"sha256": "9c86a1ca67bc8dc17b5166566c13311548edab1b7f84c22c76a5672f2d032d2d",
+"size": 1175
+},
+"Words/φυτεύω.md": {
+"sha256": "e71e7ff7492a0c3283a0453b829763d4a7282774ed3344e3fbf7ec3fac7d6281",
+"size": 1100
+},
+"Words/φωνάζω.md": {
+"sha256": "e7ab7a5bd8f1765dafe2c6a55793fd94b88801866d512a8e00b79ef2ad883a6d",
+"size": 1278
+},
+"Words/φωνή.md": {
+"sha256": "2d0a82ed265e3cf41924ed1c8254705e2c0800a529821ebd48ca6374cfc46c50",
+"size": 1722
+},
+"Words/φως.md": {
+"sha256": "9f3a3687ca5766e432f2b049637a5120b742fa68d078c3bc398a8eb0b9a416c8",
+"size": 1157
+},
+"Words/φωτιά.md": {
+"sha256": "1e10f8f88e47d8510bd8395c5c13803f8bc94abcdb9375224c8b96f6cc6098ea",
+"size": 1029
+},
+"Words/φωτογραφία.md": {
+"sha256": "41abbf2bbead98d92c0c2c22964c9ee5d0f7ca6118173910bf0ae0bf6c1499f4",
+"size": 1651
+},
+"Words/φόβος.md": {
+"sha256": "2dade67767e47fc0b210509adfae91c080e8fdf30c7aa512c1669f37abd4e705",
+"size": 1133
+},
+"Words/φόρεμα.md": {
+"sha256": "4f57c7810636f6d6dff835579a78424249294f27c97bd6bfe3e01e1c61acf3f4",
+"size": 1487
+},
+"Words/φύλακας.md": {
+"sha256": "b5b4a3c3343cdd00fbfcd2c6853078b3545dc7e15e2f37d45b5c77f3ab5b8238",
+"size": 611
+},
+"Words/φύση.md": {
+"sha256": "eecbe901ad0fcabac7a2c8ef841bad8dcd97fe1df0347f379f5283120e30783a",
+"size": 1184
+},
+"Words/φώτα.md": {
+"sha256": "a16c728bcc5e93af7c4a7d459bfce04259760ea59213dbf30622e10f8d37fd8a",
+"size": 694
+},
+"Words/χάνω.md": {
+"sha256": "2fff1b3fc32edda3e6ccd053de653fd5d8e3835df2827a3bc96602056d7d0231",
+"size": 2081
+},
+"Words/χάρη.md": {
+"sha256": "23689d77f1aa74816db451a43bc6002006ef12f1aad56be69a6bb6c8f526c98b",
+"size": 1342
+},
+"Words/χάρηκα.md": {
+"sha256": "ca3512fc78f17c0f70718c17051910875825dc63d2e119ba455c9ba7ab79c508",
+"size": 488
+},
+"Words/χάρτης.md": {
+"sha256": "31788fec5b4857b97cd8b513405cc54649ad8abf4a9e6ab3f620d7f8fb1226df",
+"size": 1303
+},
+"Words/χέρι.md": {
+"sha256": "82f7637e6bd8fec0c2a7f68796ba5f4a01a6b61508f350c874c11819c1a52a7b",
+"size": 1658
+},
+"Words/χίλια.md": {
+"sha256": "d48d8a2dab8ab8d6c55c14561a0f94232d04931c8d0682c9785cadfdd8c04f7b",
+"size": 561
+},
+"Words/χαίρομαι.md": {
+"sha256": "35ebb7299555b74ab220dad2a5242b7df378bc327525584ade72dc7f2d636c49",
+"size": 1413
+},
+"Words/χαίρω πολύ.md": {
+"sha256": "81c26e3239d82a3b21d4e94cccc5aec2430082bef32b10666f987f9891a4b3ec",
+"size": 491
+},
+"Words/χαζός.md": {
+"sha256": "7c0ba9a95de2558a6505f5618cfa49c5e23648164af4ca0b56a03bdfb412051d",
+"size": 414
+},
+"Words/χαλαρώνω.md": {
+"sha256": "f465ee2d1896adebf956a69c3b03db5a906978dd54423291a34341facf9bf223",
+"size": 1471
+},
+"Words/χαμένος.md": {
+"sha256": "3a5c0e74ba82993f28fc64f5921d333e2e34c3949b7fb0021655ad3fd6ccc8e0",
+"size": 924
+},
+"Words/χαμηλός.md": {
+"sha256": "c48cdc16dd812699b15d41889e6689593bd0a8b4b8205b43e34e67b946c3f085",
+"size": 848
+},
+"Words/χαμόγελο.md": {
+"sha256": "a08cab30d665b99eda5f148a0dd3e872c342fc0220480793d1b07cfeba6df65f",
+"size": 870
+},
+"Words/χαρά.md": {
+"sha256": "e4d12fc20ec1adad8993b57a36bc46ceea267cec064c83b7de2141af24d38c9a",
+"size": 1230
+},
+"Words/χαρακτήρας.md": {
+"sha256": "d80fd440de6a54e168d9acd88d3ee3bf2c3f548e483438e21f1ad3b433707503",
+"size": 1074
+},
+"Words/χαριτωμένος.md": {
+"sha256": "129efc11f84ab8c39877539401097b3b06361f18f12e4f3c30681272f64c990d",
+"size": 804
+},
+"Words/χαρούμενος.md": {
+"sha256": "b403fed11e34db55f71311e91fecdef5f39fe58dcaf5d9ec09446614cecc03e2",
+"size": 1641
+},
+"Words/χαρτί.md": {
+"sha256": "5c4814be0e5a3bed18d5e7bc3f18a28f04e844b638ceed3dfab35adb4f55453e",
+"size": 1117
+},
+"Words/χειμώνας.md": {
+"sha256": "cb53499e1d3d043b86a141754ea3a2a85c9082d0c67e944a4c8b455cedcd443e",
+"size": 1237
+},
+"Words/χειρουργείο.md": {
+"sha256": "b6b3468ea7cc218556ea418827ab759c2b125ef2b9dae39fb9f5740ce4a8b2ab",
+"size": 1175
+},
+"Words/χειρότερος.md": {
+"sha256": "3f29f58d93e3b00e84766e56fe72c1477d403ac8c12ea18c1ac2f566adfbc63f",
+"size": 659
+},
+"Words/χθες.md": {
+"sha256": "ad12c61566ec2a6e969bce94dde9fcd680828bf00bd914c93f260aea97763724",
+"size": 1489
+},
+"Words/χιλιάδα.md": {
+"sha256": "adb463c0b876caf67c2df4d607805bde0fb21845e0f1a4aef0da378a505f679b",
+"size": 1538
+},
+"Words/χιλιόμετρο.md": {
+"sha256": "50d869da0c7e20ded2cfb83026d6e9cab0cab133426e8e832185702c083b269c",
+"size": 1347
+},
+"Words/χιονίζει.md": {
+"sha256": "aae7c251c1a6ceb0cd760e4acfadb6666a774d56672660978b7d9fffe52f10e6",
+"size": 439
+},
+"Words/χορεύω.md": {
+"sha256": "8454a9f0141440bb99d8390ec5baa129860111f323fef6c22d01d9c821d03ce1",
+"size": 1697
+},
+"Words/χορός.md": {
+"sha256": "566e4693a6a94fb70611f3e044c0ab973956a0331394f734696733b772ab91ab",
+"size": 1260
+},
+"Words/χρέος.md": {
+"sha256": "eb476061001d8da8578133732fd8caed6a9ed54a364dbac58e803e4bf7212402",
+"size": 1019
+},
+"Words/χρήματα.md": {
+"sha256": "c26988479a88a1307266da1a6fefe46daf35f9acb178e936d55d6317d59246c8",
+"size": 1242
+},
+"Words/χρήση.md": {
+"sha256": "aa6ef53be9248ed3ed46183e83ad883d0d5eb01cef5dae720caa0c6f20eafb1b",
+"size": 1093
+},
+"Words/χρήσιμος.md": {
+"sha256": "1c0413cd00ff822097d723a80ba8b603ca9961bb37ffe797db1e5cd2b9ed9e7d",
+"size": 1163
+},
+"Words/χρειάζομαι.md": {
+"sha256": "5c3375b9761ba8ff41801e8fb8fe324818f133ddd1fe8eac6acb21f001f36571",
+"size": 2148
+},
+"Words/χρησιμοποιώ.md": {
+"sha256": "cb27fa69d6f155a28cd75a58004d6fcc827e119696acefb9ac79972d78a628cf",
+"size": 2273
+},
+"Words/χρονιά.md": {
+"sha256": "b600333ac50b106091f7ea11de8f60bc7416a50a83b7cc7f4c2eeb6e5d6754d7",
+"size": 1398
+},
+"Words/χρυσός (golden).md": {
+"sha256": "6b6a5400a4991c0e446306a7da773d2375761f0201e84e4d19b11027ebaeb78e",
+"size": 730
+},
+"Words/χρυσός.md": {
+"sha256": "5050dd132455f495373ffe6b3c049c8faaef0b92ad6a0b04275d34973e2f9b3f",
+"size": 883
+},
+"Words/χρωστάω.md": {
+"sha256": "a9b09532f21755910126c736569c331b466af55a76e6d11a21972b7c29c284c0",
+"size": 1255
+},
+"Words/χρόνια πολλά.md": {
+"sha256": "8be7c86702b79b0842c2605a99bc13996dbf9c985eac3cc045a76e103dbb28a6",
+"size": 889
+},
+"Words/χρόνος.md": {
+"sha256": "530a39e90a4b014f2992a2b700bc1f09c49fc89923bf4aa24d657305e24543e2",
+"size": 1901
+},
+"Words/χρώμα.md": {
+"sha256": "75b1caa779f989ae5861336a0f9a594f888604941632910b8b2922aee818731f",
+"size": 1457
+},
+"Words/χτυπάω.md": {
+"sha256": "53d385c4065af32e320553960e87b0a9e6a3c7dfe326e8ce974f5c73ca334944",
+"size": 1297
+},
+"Words/χτύπημα.md": {
+"sha256": "ed5e728fc6d6d0d969c843cd8cf14f8303d3fa7436d745e9abe1fbd3ea779f90",
+"size": 804
+},
+"Words/χωράφι.md": {
+"sha256": "e9e682cd28e83e6836e933fd37880c94167b325792bed823325f28bd3225428a",
+"size": 891
+},
+"Words/χωρίζω.md": {
+"sha256": "1974e94cdae9a46bf5f5595c5c36ddc624a31913ece932c9e43535de0f5f193e",
+"size": 1267
+},
+"Words/χωρίς.md": {
+"sha256": "698afd91e1e0fde8c80afc87a0b3abcd90e6cf61ff0053d8c5bfeff36bf0445a",
+"size": 1444
+},
+"Words/χωριό.md": {
+"sha256": "01c2157b0f9c36dd4488a3eaeccafb8a9c7ae749a8258c13b18875e6ba95d033",
+"size": 1939
+},
+"Words/χώρα.md": {
+"sha256": "cc52a722db8b07d200b69572e17bc194d751f601689c450c8fdc9e8e555e57a2",
+"size": 1555
+},
+"Words/χώρος.md": {
+"sha256": "2a6c9ef49a164914af5a5b4feb552a93d5d4ee2b297a2a2ea400b2e04042f198",
+"size": 1445
+},
+"Words/ψάρι.md": {
+"sha256": "04dabd55c1d1b7dd2e13c0d10df04c2e77c249fe9df91abd5b821bb131c0291c",
+"size": 1627
+},
+"Words/ψάχνω.md": {
+"sha256": "69cb046e43156540d7788966b1cd4e08d702405eba59f7f9766b2c985c41d7dc",
+"size": 1704
+},
+"Words/ψέμα.md": {
+"sha256": "35557580360bce5559246bf59ea067b2ab85b1351a52a57aecdad02d85dd01c5",
+"size": 915
+},
+"Words/ψήνω.md": {
+"sha256": "2d37c018f41986f28226bddd6ddae81a793cc1a2649a9fd103c42f69b851971f",
+"size": 1141
+},
+"Words/ψεύτικος.md": {
+"sha256": "f7efb9dca86122ed3a1a51776291747cfc2292dafd5c817b7620ced86e6796d4",
+"size": 718
+},
+"Words/ψηλά.md": {
+"sha256": "2f7f2b5e1ff5a9e4bec7abdee495755068a8f09d15037aa9c703c697e9443741",
+"size": 704
+},
+"Words/ψυχή.md": {
+"sha256": "e10349f72f2a2bda6b1ccfb3904ba8c27852ed39262211245d31fc1eb9cec4cf",
+"size": 1209
+},
+"Words/ψωμί.md": {
+"sha256": "17c1c2729f265df9af5c641e73e3a0a40324b61cf44a9350ed204c5eea699214",
+"size": 1764
+},
+"Words/ωραία.md": {
+"sha256": "99917f35b8efad2347137f98d8d28c033ca62f0e6cdb1199882e723e98b504eb",
+"size": 1642
+},
+"Words/ωραίος.md": {
+"sha256": "17f91d4117693626d7d1e3f8f8203775665247383bd2031c2eabbf634e5e12e8",
+"size": 1443
+},
+"Words/ως.md": {
+"sha256": "2b9e8dedc811bd673dd3763ce6d0b2ad553db8a4cdf2094d127d8fcdfc474c14",
+"size": 1097
+},
+"Words/ωστόσο.md": {
+"sha256": "732a34312018eefc666055a4416c61e4ec0160d71e20d1d28a0cab14c31955c4",
+"size": 735
+},
+"Words/όλο.md": {
+"sha256": "e139aba6a95fe4036da73abbe7aba90315722981175bd5c43e9829bcf7abbf6e",
+"size": 1185
+},
+"Words/όλος.md": {
+"sha256": "10702840a63300d6367fc278b917c9bf1e8665a5a7940dc22c86940a2e504ac4",
+"size": 1679
+},
+"Words/όμορφος.md": {
+"sha256": "8d4a86724e4197c685f8ab82818f0426be3df4ae46098c81e05fdd40ba4e649d",
+"size": 1690
+},
+"Words/όμως.md": {
+"sha256": "ef441c6f725a5545880b206867de9d3afa29df58da084c76d0ffec0bf1abec03",
+"size": 839
+},
+"Words/όνειρο.md": {
+"sha256": "5da9d5f72a3cbb2a71a5e35a0e6a83c63e522a711b2554aa75d6b2fb5a09f23c",
+"size": 1484
+},
+"Words/όνομα.md": {
+"sha256": "6b246250a28a0faf24ee35f15531d59b25bcd629071a5fbf6909b76fd2d84e1d",
+"size": 1838
+},
+"Words/όντως.md": {
+"sha256": "3b2bad4115efb9d81600b0e30bb131a5e6ec349e46ce747732d82cc9bf600001",
+"size": 584
+},
+"Words/όπλο.md": {
+"sha256": "e9adc3694b7492c13d7efb59226bfe3064fc98e59024eaa3317828ed068c3d00",
+"size": 1018
+},
+"Words/όποιος.md": {
+"sha256": "8eccbdff7fe67b0bc4c613c0dc538748651bae2c70a90979e5462eead5ae33dd",
+"size": 1156
+},
+"Words/όποτε.md": {
+"sha256": "84f83af9bd6ff1e9904f1027575cfbacdbf7b8b82614fc64c23ca7e273312e61",
+"size": 777
+},
+"Words/όπου.md": {
+"sha256": "fe9d3de418d8741a8b5500c1eeb460b5ca26e220ba306fde46bc3da31d7f8109",
+"size": 1347
+},
+"Words/όπως.md": {
+"sha256": "409fab4df4cd388d400fc5f5446fde43bc550e97e607ff3d798323184de348ba",
+"size": 1112
+},
+"Words/όρεξη.md": {
+"sha256": "eef13a80451bc3605242da58168b72a6fa8c9383ace34236bc92be3de3ea3dc1",
+"size": 1248
+},
+"Words/όριο.md": {
+"sha256": "9cc41f9a8d7fb0fe62f47997b99f03f158adcd77666b112d61b4446a54d94c47",
+"size": 1041
+},
+"Words/όρος.md": {
+"sha256": "3dbda343d961c54ee7e55650b0f5a47c2805e94a1695f512a3bc4ae06ff2fcb7",
+"size": 1309
+},
+"Words/όροφος.md": {
+"sha256": "ebcd7900c24f46fa347851e3832a003ff6fd2cc73b2bcb3439e6c570ea895ed2",
+"size": 988
+},
+"Words/όσο.md": {
+"sha256": "410e13101412b4963da5009a66b13dc6cb389737125ee4151e8b122ad4444682",
+"size": 1092
+},
+"Words/όταν.md": {
+"sha256": "293a948de524be98b850c07b72b70bfeb88e7120ab5628d326980233478a65f6",
+"size": 973
+},
+"Words/ότι.md": {
+"sha256": "c318d6968e70777ac97486d5a449d9139d22f67268facd58c8c35d397930280e",
+"size": 1403
+},
+"Words/όχημα.md": {
+"sha256": "567ad462d5306946814893a41435c897aefff445138c769383e0dca3e4018651",
+"size": 1049
+},
+"Words/όχι.md": {
+"sha256": "60187f27f924fb9890784039aa12284c3bd689adf7e576a63066902bddc820ef",
+"size": 2148
+},
+"Words/ύπνος.md": {
+"sha256": "00c0ea92b8efd6c4e536c3e38674132fde93beaa29919f750a7e071424b0c5b0",
+"size": 894
+},
+"Words/ώμος.md": {
+"sha256": "ded4f0a1202a4a11c52fe4315b1a22b95efdbfd007a2297a50141e57775d9cd9",
+"size": 754
+},
+"Words/ώρα.md": {
+"sha256": "108965ef41f61d641207f6c6f54d9f7b017ae6a2ff902fc4223652245f6a377a",
+"size": 1946
+},
+"Words/ώστε.md": {
+"sha256": "19f01f5650b1d321fa0975f414db71e5426e1ff2aa61b85a2aaf26338566a99b",
+"size": 981
+}
+}
+}
