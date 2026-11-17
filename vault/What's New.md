@@ -2,6 +2,10 @@
 
 Back to [[Today]].
 
+> [!info]- November 17, night: The hello song is your teacher's tune
+> - **Sing the hello song** now plays the melody your teacher sang, with his timing, as clean single notes.
+> - The words light up as each one is sung. **Slower** stretches the whole song evenly.
+
 > [!info]- November 17, late evening: Hello song back to the first tune
 > - The new tune sounded rough partway through, so **Sing the hello song** is back to the earlier tune, with the words lighting up in time.
 
