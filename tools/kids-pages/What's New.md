@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!info]- November 18: Hello song, εσύ fixed
+> - In the hello song, the tune now goes up on σύ in εσύ, so the music stresses the same syllable you do.
+
 > [!info]- November 17, late night: Hello song back to the first tune
 > - **Sing the hello song** is back to the earlier tune, with the words lighting up in time.
 
