@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!info]- November 17, late evening: Hello song back to the first tune
+> - The new tune sounded rough partway through, so **Sing the hello song** is back to the earlier tune, with the words lighting up in time.
+
 > [!info]- November 17, evening: The hello song is your teacher's tune
 > - **Sing the hello song** now plays the melody your teacher sang, with his timing: the little scoops up into notes, the long held words, and the slow walk down on ελληνικά.
 > - The words still light up right as each one is sung. **Slower** stretches the whole song evenly.
