@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!info]- November 18: Γιαγιά arrows at your thumbs
+> - In **Γιαγιά** on a phone, ◀ and ▲ are now at the bottom left for your left thumb, and ▼ and ▶ at the bottom right for your right thumb. The middle stays clear, so nothing covers them.
+
 > [!info]- November 18: Hello song, εσύ fixed
 > - In the hello song, the tune now goes up on σύ in εσύ, so the music stresses the same syllable you do.
 
