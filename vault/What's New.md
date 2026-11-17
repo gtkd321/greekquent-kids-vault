@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!info]- November 17, later: Hello song in time
+> - The tune and the lit-up words now move together, all the way to the end. The last two lines are easier to sing: one word part on each beat.
+
 > [!info]- November 17, night: A hello song
 > - At the top of Today: a short Greek hello song with moves. Tap **Sing the hello song**: four ticks count you in, then each line lights up as you sing it.
 > - **Slower** plays it slower. **Hear the words** says the words first, so you can learn them.
