@@ -2,6 +2,11 @@
 
 Back to [[Today]].
 
+> [!info]- November 17, night: A hello song
+> - At the top of Today: a short Greek hello song with moves. Tap **Sing the hello song**: four ticks count you in, then each line lights up as you sing it.
+> - **Slower** plays it slower. **Hear the words** says the words first, so you can learn them.
+> - Sing it together at the start of practice. Doing it the same way every time tells everyone that Greek time has started.
+
 > [!info]- November 17, late: One line at a time
 > - On **Say it together**, tap **One line at a time**: each line opens big, with the voice, then all of them together. Close it with × or a tap outside.
 
