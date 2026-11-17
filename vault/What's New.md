@@ -2,6 +2,10 @@
 
 Back to [[Today]].
 
+> [!info]- November 17, evening: The hello song is your teacher's tune
+> - **Sing the hello song** now plays the melody your teacher sang, with his timing: the little scoops up into notes, the long held words, and the slow walk down on ελληνικά.
+> - The words still light up right as each one is sung. **Slower** stretches the whole song evenly.
+
 > [!info]- November 17, later: Hello song in time
 > - The tune and the lit-up words now move together, all the way to the end. The last two lines are easier to sing: one word part on each beat.
 
