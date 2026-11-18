@@ -2,6 +2,10 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, evening: Games from any word card
+> - New **Games** page with Γιαγιά, the Word web, the dessert word and the hello song. Find it under **More**, then **Extras**, or tap **Games** on Today's More.
+> - On a word card, **More** now has **Play Γιαγιά with this word**: you play that word and the words it goes with.
+
 > [!info]- November 18, later: Γιαγιά arrows on two rows
 > - In **Γιαγιά** on a phone, the arrows are bigger and sit higher, above Obsidian's search bar: ▲ over ◀ on the left, ▼ over ▶ on the right. The house is a little smaller to make room.
 
