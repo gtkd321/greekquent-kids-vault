@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19f · The tour counts what you already did
+> Picked a world, colored a word or played a game before the tour got there? It now counts: the step turns green, you get the 2 φόρα, and the tour moves on. This works for things done before you started the tour, too.
+
 > [!tip]- 2026-11-19d · Α sounds like Α
 > A capital vowel on its own, like Α! or Ε;, and short cries like Ωχ, Αχ and Ωπ, are now read aloud as sounds, not as "κεφαλαίο Α" or letter by letter. This works in every page and game.
 
