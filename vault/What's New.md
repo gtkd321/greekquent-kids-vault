@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!info]- November 18: Double-tap for more than one
+> - In the **Word web**, double-tap a purple word (a thing or a person) to hear more than one: το παιδί becomes τα παιδιά.
+
 > [!info]- November 18: Kids words and the dessert jar
 > - The vault now keeps about 400 kid words instead of all 1,500: the ones children's books use most, plus the words in the kid lessons. The rest are left out for now, so lists are shorter and easier.
 > - New words: λυπημένος (sad), χοροπηδάω (I jump), ζωγραφίζω (I draw) and γελάω (I laugh).
