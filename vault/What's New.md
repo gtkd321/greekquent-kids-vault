@@ -2,6 +2,11 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, night: φόρα, Story puzzle and a tour
+> - **Πήρες φόρα;** Right answers in the games and the puzzle fill up the new card on Today. Say the answer out loud.
+> - **Story puzzle:** under Say it together, build each line from word tiles. Drag them or tap them. A new line comes each day.
+> - **The tour:** the first time, Today shows one tip at a time, games first. Take it again from More, then Take the tour.
+
 > [!info]- November 18, late: Γιαγιά d-pad
 > - In **Γιαγιά** on a phone, the arrows are now a classic d-pad in the middle: ▲ on top, ◀ and ▶ at the sides, ▼ below. It still sits above Obsidian's search bar.
 
