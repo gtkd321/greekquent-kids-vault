@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19d · Α sounds like Α
+> A capital vowel on its own, like Α! or Ε;, and short cries like Ωχ, Αχ and Ωπ, are now read aloud as sounds, not as "κεφαλαίο Α" or letter by letter. This works in every page and game.
+
 > [!tip]- 2026-11-19c · Clearer phrases in the Word web
 > Hold a word in the Word web and you hear one clean phrase. With είμαι in the middle, αυτός now says "αυτός είναι ο φίλος μου" and τι says "τι ώρα είναι;", without an extra είμαι in front. φταίω εγώ now reads "it's my fault".
 
