@@ -2,6 +2,12 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, late night: tidier pages
+> - Word pages: Hear it, Word web and More sit in one row, with the three colors below.
+> - Hold a word in the Word web and you hear that word first, then it in a phrase.
+> - The More menu is shorter. Ask on video is inside Ask.
+> - Web app: your work saves as you go, so Back up and Check for updates are gone. Updates wait for a break instead of reloading while you work.
+
 > [!info]- November 18, night: φόρα for almost everything
 > - Comebacks, today's line and the rally now ask **Had it** or **Not yet** after you check. Had it counts like a word you got right. Not yet still earns 1 for trying.
 > - Finishing a read-through, the rally swap, the hello song or a kid card (**We did it**) earns 2. Sending homework earns 3, and asking the class earns 2. Once a day each.
