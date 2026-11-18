@@ -2,6 +2,12 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, night: letters first, and say it out loud
+> - **Letters and sounds:** the first thing on Today. Tap a sound to hear it, then drag each letter onto the sound it makes. Four sets of six letters. Stuck? Tap Show me first.
+> - **A simpler start:** until the first letter set is done, Today shows just the song, the letters and your φόρα. A grown-up can tap Show the rest of today.
+> - **Γιαγιά with letters:** each notebook plays a sound, and you pick its letter.
+> - **Say it:** say the word out loud. When the phone hears it right, you get bonus φόρα, and Γιαγιά waits 2 more seconds.
+
 > [!info]- November 18, later: tabs, a words list and a tour
 > - **Words** shows up after you color your first word: all your words in a list. Tap the box to color it.
 > - **Class** shows your lesson page and a way to text your teacher.
