@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!info]- November 19, later: every point grows your world
+> - **Your world grows with φόρα now,** not only green words. Every game, puzzle, letter match and green word moves it. The card says how many more φόρα until it grows. Nothing shrinks: your world starts at least where it was.
+
 > [!info]- November 19: copyright
 > - Greekquent is © 2026 Daniel Ilias Houlis. See Terms at the bottom of More. Your My Work stays yours.
 
