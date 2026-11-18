@@ -2,6 +2,10 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, late: Word web says μπορώ να βλέπω
+> - When you hold a word in the **Word web**, it now uses the verb form you already know after να: μπορώ να βλέπω (I can see). Before, it said βλέπω μπορώ να δω.
+> - The one-time form (μπορώ να δω) is shown in small letters under it, for when you are ready for it.
+
 > [!info]- November 18, evening: Games from any word card
 > - New **Games** page with Γιαγιά, the Word web, the dessert word and the hello song. Find it under **More**, then **Extras**, or tap **Games** on Today's More.
 > - On a word card, **More** now has **Play Γιαγιά with this word**: you play that word and the words it goes with.
