@@ -2,6 +2,11 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, later: tabs, a words list and a tour
+> - **Words** shows up after you color your first word: all your words in a list. Tap the box to color it.
+> - **Class** shows your lesson page and a way to text your teacher.
+> - **The tour:** 9 little steps, 2 φόρα for each one you do. Tap a number to jump to a step. Stop any time.
+
 > [!info]- November 18, late evening: steps, dances and a calmer start
 > - **Next** at the top of Today: one thing to do now, and about how long. After a few days away it asks for just one line.
 > - **Steps and dances:** every φόρα point is a step. 3 steps is a συρτός, 12 a καλαματιανός, then χασάπικο, τσάμικο and ζεϊμπέκικο. Dancers join your world, and dances collect. Sometimes a guest dance from another island shows up.
