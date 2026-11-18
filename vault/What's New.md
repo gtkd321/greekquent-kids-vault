@@ -2,6 +2,13 @@
 
 Back to [[Today]].
 
+> [!info]- November 18: Kids words and the dessert jar
+> - The vault now keeps about 400 kid words instead of all 1,500: the ones children's books use most, plus the words in the kid lessons. The rest are left out for now, so lists are shorter and easier.
+> - New words: λυπημένος (sad), χοροπηδάω (I jump), ζωγραφίζω (I draw) and γελάω (I laugh).
+> - **Dessert word** at the bottom of Today: tap to pick a treat word, say it, make up a move, and draw it. Tap **Add our own** to put your favorite words in the jar. They are saved in My Work, My dessert words.
+> - **Γιαγιά** uses only your kid words.
+> - Colors you already picked are all still saved. If you wrote in a word note that is now left out, it was moved to My Work, Kept from updates.
+
 > [!info]- November 18: Γιαγιά arrows at your thumbs
 > - In **Γιαγιά** on a phone, ◀ and ▲ are now at the bottom left for your left thumb, and ▼ and ▶ at the bottom right for your right thumb. The middle stays clear, so nothing covers them.
 
