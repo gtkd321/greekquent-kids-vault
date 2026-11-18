@@ -9,6 +9,11 @@ Back to [[Today]].
 > - **Words from:** a kid lesson or all your words. On a word card, tap **More**, then **Play Γιαγιά with this word** to play that word and the words it goes with.
 > - On a phone, use the arrows under the house or swipe. On a computer, use the arrow keys.
 
+> [!summary]- Τι λέμε; (hello and goodbye)
+> [Play Τι λέμε;](obsidian://greekquent?open=hello) (works offline)
+> - Look at the sky and the clock. Are you coming in or going out? Pick what to say.
+> - Coming in: Καλημέρα in the morning, Καλησπέρα after lunch. Going out: Καλό απόγευμα, Καλό βράδυ, or Καληνύχτα at bedtime.
+
 > [!summary]- Word web (tap, double-tap, hold)
 > - Open a word card, tap **More**, then **Word web**.
 > - Tap a word to hear it and move there. Double-tap a purple word to hear more than one. Hold a word to see what it goes with.
