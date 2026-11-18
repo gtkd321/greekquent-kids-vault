@@ -2,6 +2,12 @@
 
 Back to [[Today]].
 
+> [!info]- November 18, midnight: Your world
+> - The φόρα card now has a small world to grow. Pick one: a **Village** that grows from ancient to Byzantine to an island harbor to a modern city, an **Olive grove** from saplings to harvest to the press to a tasting, or a **Pet**, Φοράκι, that hatches and grows.
+> - **Green words build it**, and it never shrinks. φόρα only sets the weather: a quiet night, an evening, a sunny day, or a festival.
+> - Tap the picture to play it again and hear a word. The pet says your green words. Grown-ups: it grows with green words, so it never punishes a day off.
+> - Change your world any time from **How φόρα works**. Nothing is lost.
+
 > [!info]- November 18, night: φόρα, Story puzzle and a tour
 > - **Πήρες φόρα;** Right answers in the games and the puzzle fill up the new card on Today. Say the answer out loud.
 > - **Story puzzle:** under Say it together, build each line from word tiles. Drag them or tap them. A new line comes each day.
