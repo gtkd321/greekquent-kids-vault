@@ -2,6 +2,10 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19z · Spaced review, and more room on screen
+> - **Comebacks are now called Spaced review.** They work the same way: lines from earlier parts come back 1, 3 and 7 days later, and you say the reply.
+> - **The Today, Words and Class tabs sit lower** on phones with a home bar, so the page has more room.
+
 > [!tip]- 2026-11-19w · Smoother updates
 > - New versions download quietly in the background, so opening the app never waits on them.
 
