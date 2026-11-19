@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19zu · Olive tree on the page
+> Your olive tree now sits at the top right of Today, below the header line, and scrolls with the page. It is no longer pinned to the screen. Tap it to see how it is growing.
+
 > [!tip]- 2026-11-19zt · Drop a word in between
 > In the story puzzle, drag a word into the line and let go where it belongs, even between two words already there. A small blue bar shows where it will land. You can also drag a word that is already in the line to a new spot. Tapping still adds a word at the end.
 
