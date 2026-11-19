@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19zd · Options
+> - **Every on/off switch is in one place now: Options**, in the ⋯ menu. Greek voice, Phonetics, Calm mode, Focus sound and Class mode each have a switch.
+
 > [!tip]- 2026-11-19z · Spaced review, and more room on screen
 > - **Comebacks are now called Spaced review.** They work the same way: lines from earlier parts come back 1, 3 and 7 days later, and you say the reply.
 > - **The Today, Words and Class tabs sit lower** on phones with a home bar, so the page has more room.
