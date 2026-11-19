@@ -2,6 +2,10 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19p · Footprints and the fridge
+> - **Dance world.** Every step leaves a footprint on the village square. Learn a whole dance and someone dances across your steps.
+> - **Τι βλέπεις στο ψυγείο;** Open the big fridge and find the food. Then spot what the cat ate.
+
 > [!tip]- 2026-11-19o · Πάρε φόρα
 > The momentum card now says **Πάρε φόρα** (get going, build up speed) instead of Πήρες φόρα;.
 

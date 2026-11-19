@@ -1,5 +1,5 @@
 {
-"release": "2026-11-19o",
+"release": "2026-11-19p",
 "files": {
 ".obsidian/app.json": {
 "sha256": "f99c0a40bb98a4cf0f067ab50a14dc1cbfe91f78ee44047941cf16595c885443",
@@ -25,6 +25,10 @@
 "sha256": "d8c414d8f453e541d7d09c39311d0e1a228b384e046dbab547d4cbe7273b045d",
 "size": 51228
 },
+".obsidian/plugins/greekquent-student-layout/apps/fridge.html": {
+"sha256": "2a8e88915cf2aa0d1cc3f10fce3f387e075a3638eaaf7c28444b5bb08890a062",
+"size": 37977
+},
 ".obsidian/plugins/greekquent-student-layout/apps/giagia.html": {
 "sha256": "83e03536334ae3d377e31479435bb939b3e3d21a4a04ffccf8e75798a090c3d8",
 "size": 96936
@@ -42,11 +46,11 @@
 "size": 95488
 },
 ".obsidian/plugins/greekquent-student-layout/main.js": {
-"sha256": "2b32d04ba76ab17a0e4fa4f60db94f2c324b7605e8fe245257b4c89b0796024f",
-"size": 381418
+"sha256": "e1f488dd0d5d0209725b9ef6add4b984ff07fb35e43f2d784880c4ac6a23dc8f",
+"size": 392918
 },
 ".obsidian/plugins/greekquent-student-layout/manifest.json": {
-"sha256": "12485c5c06a34b3ffe6aa9bdaee02377123448871270b69466f82ed7083fa55e",
+"sha256": "4dd4b660a760883fe4801569f1c719580f734611b075ee3405370823bcafc7f1",
 "size": 375
 },
 ".obsidian/plugins/greekquent-student-layout/pairs.json": {
@@ -54,8 +58,8 @@
 "size": 272119
 },
 ".obsidian/plugins/greekquent-student-layout/styles.css": {
-"sha256": "ab9ceb8d6770e391cd3df89cadb432cd48cc80e07ef4391cddf3c816c1714d0b",
-"size": 48983
+"sha256": "afb5887f1c0d772f64ac6fca8f277f4e8dd3ab6c0f6e18674bcb5731876ff4b5",
+"size": 51603
 },
 ".obsidian/plugins/greekquent-student-layout/verbs.json": {
 "sha256": "00e00b6ade1bfc6dc9bdc85b7daef690e8a4a0e3cbb2b57ae0c9e0596c27767d",
@@ -90,8 +94,8 @@
 "size": 627
 },
 "Games.md": {
-"sha256": "c3291d33c06588365cf463d121189a63202af6176e721aea39ff0349b0025481",
-"size": 1546
+"sha256": "d98fc349a7a983f7349f87fcf39419417ac400e11ed7148f94644f237a17ccf4",
+"size": 1849
 },
 "Lessons.md": {
 "sha256": "08091f4c62e4d73faffb6cba85d89fac2e28a23181eb0ea7cb002bca98f4f474",
@@ -210,8 +214,8 @@
 "size": 24
 },
 "What's New.md": {
-"sha256": "572c19924d0e1d7f1502b0cacd0c4327e55e6693b07ca8e9ae6c72ab369818c9",
-"size": 17535
+"sha256": "e88d6e4d501f7b80d562a41e261f46d2ecd434bbc5b53047d243fc3059158845",
+"size": 17835
 },
 "Words/Αμερική.md": {
 "sha256": "8dedfc40d714360eff65b15a34cd9e9b0f6fb8224bbb4aad1b52293387ffeb28",
