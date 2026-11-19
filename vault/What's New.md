@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19o · Πάρε φόρα
+> The momentum card now says **Πάρε φόρα** (get going, build up speed) instead of Πήρες φόρα;.
+
 > [!tip]- 2026-11-19n · Ask the class
 > - **Ask the class.** Questions, by text or video, now go to the class group from Class or from More. Texts to the teacher are for homework.
 > - **New phrases.** Class mode has Γιαγιά! Παππού! and Κυρία! Κύριε!
