@@ -1,5 +1,5 @@
 {
-"release": "2026-11-19m",
+"release": "2026-11-19n",
 "files": {
 ".obsidian/app.json": {
 "sha256": "f99c0a40bb98a4cf0f067ab50a14dc1cbfe91f78ee44047941cf16595c885443",
@@ -42,11 +42,11 @@
 "size": 95488
 },
 ".obsidian/plugins/greekquent-student-layout/main.js": {
-"sha256": "63c32dea71185c935dacbf043aacfdbd758f18f76f320c655607102ecd5e2920",
-"size": 377830
+"sha256": "e39b5056af291c4649aec0b6d35ea3d78ffade79c952d9aeddd02096f7f82d0f",
+"size": 381438
 },
 ".obsidian/plugins/greekquent-student-layout/manifest.json": {
-"sha256": "8de782300a1d818176800c26735c192c3edc756515172916cb5305d0f048c7b8",
+"sha256": "1f1846cd52983fc4f20b5f300e442ab5c42e093b84934a36e4981bc3101d3105",
 "size": 375
 },
 ".obsidian/plugins/greekquent-student-layout/pairs.json": {
@@ -54,8 +54,8 @@
 "size": 272119
 },
 ".obsidian/plugins/greekquent-student-layout/styles.css": {
-"sha256": "d3ef9b2a2f634319209450ff323d77f3225484c4ce877720add03a3a64545888",
-"size": 48776
+"sha256": "ab9ceb8d6770e391cd3df89cadb432cd48cc80e07ef4391cddf3c816c1714d0b",
+"size": 48983
 },
 ".obsidian/plugins/greekquent-student-layout/verbs.json": {
 "sha256": "00e00b6ade1bfc6dc9bdc85b7daef690e8a4a0e3cbb2b57ae0c9e0596c27767d",
@@ -202,16 +202,16 @@
 "size": 1773
 },
 "Setting up.md": {
-"sha256": "24af4ea0f110af4ee0344ae480d2776d90782ce615e34a2e8889558ac14dd099",
-"size": 2008
+"sha256": "3c4be486bc6b6660eb29a6836a7759e4eb8ab068e011d90d561fca2006f2f7f6",
+"size": 2007
 },
 "Today.md": {
 "sha256": "61daf06c84adbde19b20ed20b7b634df9ab6dc1b3b205a9bc1cb610606525ceb",
 "size": 24
 },
 "What's New.md": {
-"sha256": "844f33ad1c00a7c09e2c14e6c878ca25c262b941f63b9c6848a279574edc4d53",
-"size": 17105
+"sha256": "d659ec01ec66cd4aef65f6d7ba0d37f661d47f4dc6c084b3e39a17e85354259c",
+"size": 17379
 },
 "Words/Αμερική.md": {
 "sha256": "8dedfc40d714360eff65b15a34cd9e9b0f6fb8224bbb4aad1b52293387ffeb28",
@@ -258,8 +258,8 @@
 "size": 1104
 },
 "Words/ένας, μία, ένα.md": {
-"sha256": "4792d8eb972a10d96c33bc1865ded3cd1b81c39add0ada4f3ba1d1d75a682036",
-"size": 2308
+"sha256": "f88188fc433afa3dd9677aa0aa0ae751d99c459167d19a1f69f026a3bbdbc3fc",
+"size": 2555
 },
 "Words/έντεκα.md": {
 "sha256": "b0a6b44d54035972fa8426cd0f1b32c3faecf24ebc2982fc170034902f44bc38",
@@ -1218,8 +1218,8 @@
 "size": 1161
 },
 "Words/ο, η, το.md": {
-"sha256": "9f4c6cc65a5dd5f5a693a5fd4ab42b045c634739fb08eefa406d3fb5b2c0a1ee",
-"size": 2652
+"sha256": "dfc1e5839da93c01ee7e4941b4d0c402e47a629bf8cd9a359f4ba72a7d26d56a",
+"size": 3509
 },
 "Words/οικογένεια.md": {
 "sha256": "dd22c7be56b07a898f96e5d75cadb94da0e20eef232a498c872452c21ef4f4dc",

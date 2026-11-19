@@ -19,7 +19,7 @@ For grown-ups. Two minutes, once. Back to [[Today]].
 > On a computer they sit in the thin strip of icons along the far left edge. On a phone, tap the menu button (three lines) at the bottom right.
 > - **Today** (house): this week's game.
 > - **Look up** (magnifying glass): any word in English or Greek.
-> - **More** (three dots): Send homework, Share feedback, What's new, Update vault.
+> - **More** (three dots): Ask the class, Send homework, What's new, Update vault.
 >
 > Under the cards on Today: **Play Γιαγιά** (a word game with this week's words), **All lessons**, and **Look up a word**.
 
