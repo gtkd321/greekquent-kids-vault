@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19u · Letter names
+> - The voice now says ψι, φι and χι as names, not letter by letter. Say a name works better on iPhones.
+
 > [!tip]- 2026-11-19t · Phonetics
 > - **Sounds under the words.** Every Greek word shows how it sounds in small letters underneath: γεια, ya. Grown-ups can turn it off in More when your child reads the letters.
 
