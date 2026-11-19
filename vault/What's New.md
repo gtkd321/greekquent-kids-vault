@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19w · Smoother updates
+> - New versions download quietly in the background, so opening the app never waits on them.
+
 > [!tip]- 2026-11-19v · More than one
 > - Double-tap εγώ in the Word web to hear εμείς. Double-tap a verb like πάω to hear εμείς πάμε.
 
