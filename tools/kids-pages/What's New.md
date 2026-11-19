@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19s · The Gallery
+> - **Gallery world.** Every point knocks a chip off the marble. Finish a statue and watch it do something silly. Eight statues, one after another.
+
 > [!tip]- 2026-11-19p · Footprints and the fridge
 > - **Dance world.** Every step leaves a footprint on the village square. Learn a whole dance and someone dances across your steps.
 > - **Τι βλέπεις στο ψυγείο;** Open the big fridge and find the food. Then spot what the cat ate.
