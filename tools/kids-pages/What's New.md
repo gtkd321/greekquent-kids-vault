@@ -2,6 +2,11 @@
 
 Back to [[Today]].
 
+> [!tip] The dancer (2026-11-19zh)
+> - The dance picture is a gray dancer on black. Learn a dance and the dancer spins.
+> - The top of Today says Greekquent Kids.
+> - New app icon: a pixel Venus de Milo. To see it on your home screen, remove the old icon and add the app again.
+
 > [!tip] One thing at a time (2026-11-19zf)
 > - Today is a stack: the hello song on top, then letters, then the rest. Swipe or tap Next.
 > - Grown-ups get one short line at the top, and no labels under the buttons.
