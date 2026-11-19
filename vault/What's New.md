@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19v · More than one
+> - Double-tap εγώ in the Word web to hear εμείς. Double-tap a verb like πάω to hear εμείς πάμε.
+
 > [!tip]- 2026-11-19u · Letter names
 > - The voice now says ψι, φι and χι as names, not letter by letter. Say a name works better on iPhones.
 
