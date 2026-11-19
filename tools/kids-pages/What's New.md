@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- 2026-11-19t · Phonetics
+> - **Sounds under the words.** Every Greek word shows how it sounds in small letters underneath: γεια, ya. Grown-ups can turn it off in More when your child reads the letters.
+
 > [!tip]- 2026-11-19s · The Gallery
 > - **Gallery world.** Every point knocks a chip off the marble. Finish a statue and watch it do something silly. Eight statues, one after another.
 
