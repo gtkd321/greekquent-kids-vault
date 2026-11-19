@@ -2,7 +2,7 @@
 
 Back to [[Today]].
 
-> [!tip] One card at a time (2026-11-19zf)
+> [!tip] One thing at a time (2026-11-19zf)
 > - Today is a stack: the hello song on top, then letters, then the rest. Swipe or tap Next.
 > - Grown-ups get one short line at the top, and no labels under the buttons.
 > - The world is picked for you (Dance). Change it in Options.
