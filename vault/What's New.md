@@ -2,6 +2,9 @@
 
 Back to [[Today]].
 
+> [!tip]- Everything in three tabs (2026-11-20b)
+> The ⋯ button is gone. Options, Sound help, the tour, Setting up, What's new, and Save a copy or Restore my work are now at the bottom of Class, under Settings and help. Class is always in the bottom bar.
+
 > [!tip]- Quiz me on a color (2026-11-19zza)
 > On Words, tap Red, Yellow or Green, then Quiz me on these. Up to 10 words: pick the meaning, hear it and pick the Greek, or say it. A right answer moves the word up a color, a miss moves it down one.
 
