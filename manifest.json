@@ -1,5 +1,5 @@
 {
-"release": "2026-11-20l",
+"release": "2026-11-20m",
 "files": {
 ".obsidian/app.json": {
 "sha256": "f99c0a40bb98a4cf0f067ab50a14dc1cbfe91f78ee44047941cf16595c885443",
@@ -25,6 +25,10 @@
 "sha256": "a17b5e4e1005a42a536161423f2f2340c65a26ec164fad44cab05af08aa16438",
 "size": 51328
 },
+".obsidian/plugins/greekquent-student-layout/apps/crossword.html": {
+"sha256": "7373f03194f0f61b01f5f91eb96b9713abdfe5a4a8670119cb4b4887aff9d61c",
+"size": 28555
+},
 ".obsidian/plugins/greekquent-student-layout/apps/fridge.html": {
 "sha256": "2a8e88915cf2aa0d1cc3f10fce3f387e075a3638eaaf7c28444b5bb08890a062",
 "size": 37977
@@ -46,11 +50,11 @@
 "size": 95503
 },
 ".obsidian/plugins/greekquent-student-layout/main.js": {
-"sha256": "5577d2e813d246777ca8c157796961366d5be4a4976554d03ecd084dd88143a0",
-"size": 565989
+"sha256": "a4e7b15382f96233464d554077a049d88432648526156bd58541968a257ec063",
+"size": 566626
 },
 ".obsidian/plugins/greekquent-student-layout/manifest.json": {
-"sha256": "6b50ec6ae0e6986074081cf6afb075d0c8d1d5573943e6940451c8c9f0e0da8b",
+"sha256": "6f11d301ef5546bead081005782344d1e05efc6d44d01c2f51764782aa6a8065",
 "size": 375
 },
 ".obsidian/plugins/greekquent-student-layout/pairs.json": {
