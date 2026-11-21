@@ -185,7 +185,7 @@ Back to [[Today]].
 > - **Your world grows with φόρα now,** not only green words. Every game, puzzle, letter match and green word moves it. The card says how many more φόρα until it grows. Nothing shrinks: your world starts at least where it was.
 
 > [!info]- November 19: copyright
-> - Greekquent is © 2026 Daniel Ilias Houlis. See Terms at the bottom of More. Your My Work stays yours.
+> - Greekquent is © 2026 Daniel Houlis. See Terms at the bottom of More. Your My Work stays yours.
 
 > [!info]- November 18, midnight: one world at a time, and say it to solve it
 > - **Dances live in the Dance world only.** Village, Olive grove and Pet grow with green words and nothing else, so there's one kind of progress on the card. Pick Dance if you'd rather learn dances step by step. Any dances you already collected are kept, and they show again when you switch to Dance. Dance starts at step 0 the first time you pick it.
