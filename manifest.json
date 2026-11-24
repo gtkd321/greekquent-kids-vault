@@ -1,5 +1,5 @@
 {
-"release": "2026-11-23b",
+"release": "2026-11-24a",
 "files": {
 ".obsidian/app.json": {
 "sha256": "f99c0a40bb98a4cf0f067ab50a14dc1cbfe91f78ee44047941cf16595c885443",
@@ -50,11 +50,11 @@
 "size": 95503
 },
 ".obsidian/plugins/greekquent-student-layout/main.js": {
-"sha256": "1a7880bfbdb99b6606d00ffaae6360b003d0449fafc0e0c54e87ac3f42a609b8",
-"size": 666900
+"sha256": "8a801bb7a8c698cd8942898d88805e3f73e4d3e6685cf49b6a2227f5db0f875c",
+"size": 669267
 },
 ".obsidian/plugins/greekquent-student-layout/manifest.json": {
-"sha256": "feab87c7d10d63b9cf4f048539567d1729d0e5fae2bfdc582164ee9b3ca25260",
+"sha256": "d7a91dff18b1763053848fe79cf1acbd25793c04a66cbddd778f1eeb59b3be56",
 "size": 374
 },
 ".obsidian/plugins/greekquent-student-layout/pairs.json": {
@@ -62,8 +62,8 @@
 "size": 272119
 },
 ".obsidian/plugins/greekquent-student-layout/styles.css": {
-"sha256": "cabaed4fca886b6fe34e9643a2ba52123fb15f9b2c2c53f6618105a41d136c76",
-"size": 81320
+"sha256": "99dba4bb7155089da72e77bd96f4bd9c3862f318fc2a68938c2819bf46c79681",
+"size": 81465
 },
 ".obsidian/plugins/greekquent-student-layout/verbs.json": {
 "sha256": "00e00b6ade1bfc6dc9bdc85b7daef690e8a4a0e3cbb2b57ae0c9e0596c27767d",
@@ -210,16 +210,16 @@
 "size": 1773
 },
 "Setting up.md": {
-"sha256": "4ee6b2235b7b4a66f3ad63ca11924962a371d827caf993f36758a85a13d5be6e",
-"size": 2157
+"sha256": "823699a8f6a82884f30165ac8e754176d6436299bd8401097eae4aac832b95f4",
+"size": 2452
 },
 "Today.md": {
 "sha256": "61daf06c84adbde19b20ed20b7b634df9ab6dc1b3b205a9bc1cb610606525ceb",
 "size": 24
 },
 "What's New.md": {
-"sha256": "8574aa30909aecb72310f383b1077085311213f7007167a79ae19e393dac4f11",
-"size": 29636
+"sha256": "48169388945e152638e1aaa44b4f2c44b7422195be737687a1d4359c47ad65f6",
+"size": 30075
 },
 "Words/Αμερική.md": {
 "sha256": "8dedfc40d714360eff65b15a34cd9e9b0f6fb8224bbb4aad1b52293387ffeb28",
@@ -590,8 +590,8 @@
 "size": 1714
 },
 "Words/δικός μου.md": {
-"sha256": "fb7b17da3e05aa834a44fc96efe0ecb76623c7f0e30524d5a561246ae471bc1e",
-"size": 421
+"sha256": "768a8ce97e922048bf5445ae3809529e2f4af954b2939216a5490c05d3997b6d",
+"size": 1097
 },
 "Words/δρόμος.md": {
 "sha256": "73505e32de549a572f42ddae25612c5919acecc9cbccb182117964cabb5d92f8",

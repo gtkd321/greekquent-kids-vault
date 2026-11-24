@@ -2,6 +2,12 @@
 
 Back to [[Today]].
 
+> [!tip]- Setting up matches Today (2026-11-24a)
+> Setting up now lists Today's cards in the order you see them, from Letters and sounds to Dessert word.
+
+> [!tip]- Kids: hello song and Now you are the teacher (2026-11-24a)
+> The hello song plays from the very first tap now. In Now you are the teacher, every line says who says it, You or Grown-up, and the grown-up's turn to answer (and get one wrong on purpose) is a step in the list.
+
 > [!tip]- Fluent in a Year is now a pace (2026-11-20l)
 > Fluent in a Year no longer adds a second card with its own words. It is a pace for the same story: one day each day, so the 1,500 words take a year. The story card shows a quiet line, such as Fluent in a Year · on pace, or 2 days behind. Change lets you pick your week. Turn it on or off in Options.
 
