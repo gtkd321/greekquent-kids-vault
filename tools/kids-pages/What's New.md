@@ -2,6 +2,11 @@
 
 Back to [[Today]].
 
+> [!tip]- Four cards a day, three words a day (2026-11-24b)
+> Today is now four cards: Hello (the song, plus letters while you are learning them), Listen and say (listen first, say it together, the moves), Today's words (with the story puzzle) and Play (the game, then you are the teacher). Dessert word waits on the last card.
+> Today's words shows three words a day: this week's new words first, spread over the week, then any word still on Not yet or Kind of. Tap Not yet on a word that hasn't stuck and it keeps coming back.
+> Verb notes no longer put εγώ in front: θέλω (I want), not εγώ θέλω.
+
 > [!tip]- Setting up matches Today (2026-11-24a)
 > Setting up now lists Today's cards in the order you see them, from Letters and sounds to Dessert word.
 
