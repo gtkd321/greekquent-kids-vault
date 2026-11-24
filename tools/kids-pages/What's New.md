@@ -2,6 +2,12 @@
 
 Back to [[Today]].
 
+> [!tip]- A calmer opening screen (2026-11-24c)
+> The app now opens with the olive tree and **Πάμε.** (Let's go.) instead of Θα τα πούμε, which means "see you later" and now only shows when you finish. The name is in the same clean type as the rest of the app.
+
+> [!tip]- Kids: new moves for every lesson (2026-11-24c)
+> The moves on each lesson now go with that lesson's own lines: a car you drive through the air in the mystery bag, wolf claws in Τι ώρα είναι κύριε Λύκε, swimming for στη θάλασσα. A few lines were made more kid-sized too: no coffee, no kilos, no "can you on Tuesday".
+
 > [!tip]- Four cards a day, three words a day (2026-11-24b)
 > Today is now four cards: Hello (the song, plus letters while you are learning them), Listen and say (listen first, say it together, the moves), Today's words (with the story puzzle) and Play (the game, then you are the teacher). Dessert word waits on the last card.
 > Today's words shows three words a day: this week's new words first, spread over the week, then any word still on Not yet or Kind of. Tap Not yet on a word that hasn't stuck and it keeps coming back.
